@@ -34,7 +34,7 @@ Variables:
 <br>
 
 
-[Visualization]("https://github.com/gzahn/biostats_data/figs/mush_groth.png")
+[Visualization](https://github.com/gzahn/biostats_data/figs/mush_groth.png)
 
 ___
 
@@ -77,7 +77,7 @@ Variables:
 
 <br>
 
-[Visualization]("https://github.com/gzahn/biostats_data/figs/C-utilization.png")
+[Visualization](https://github.com/gzahn/biostats_data/figs/C-utilization.png)
 
 ___
 
@@ -137,3 +137,7 @@ Variables:
 + Host_Species	Latin name of host coral that the samples were taken from (P. acuta, P. damicornis)
 
 + Colony_Color	Ordered category - Healthy > Pale > Very pale > Bleached (as corals get sick they gradually become bleached) - stand-in for coral health
+
+<br>
+
+[Visualization](https://raw.githubusercontent.com/gzahn/Chagos/master/output/figs/acuta_and_damicornis_taxa_differential_abundance_combined_plot.png)
