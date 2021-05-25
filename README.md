@@ -85,7 +85,7 @@ ___
 
 #### Data from UVU alum Eli Hartung
 
-#### Data were collected to study the recruitment characteristics of *Arctomecon humulis*, an endangered species endemic to Washington County Utah. The dwarf bear poppy grows on gypsum outcrops covered in cryptobiotic crusts. He collected data on roughly 200 seedlings from three populations at the square foot plot and emergence point levels.
+#### Data were collected to study the recruitment characteristics of *Arctomecon humulis*, an endangered species endemic to Washington County Utah. The dwarf bear poppy grows on gypsum outcrops covered in cryptobiotic crusts. He collected data on roughly 200 seedlings from three populations at the square foot plot and emergence point levels, from random locations within each population.
 
 #### Response variable is binary (TRUE/FALSE) and predictors are categorical (suitable for logistic regression?)
 
