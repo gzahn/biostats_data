@@ -33,9 +33,8 @@ Variables:
 
 <br>
 
-Visualization:
 
-![]("./figs/mush_groth.png")
+[Visualization]("https://github.com/gzahn/biostats_data/figs/mush_groth.png")
 
 ___
 
@@ -76,10 +75,9 @@ Variables:
 
 + **Absorbance**	Response - Proxy for carbon utilization (amount of UV light absorbance) - Continuous - no unit
 
+<br>
 
-Visualization:
-
-![]("./figs/C-utilization.png")
+[Visualization]("https://github.com/gzahn/biostats_data/figs/C-utilization.png")
 
 ___
 
