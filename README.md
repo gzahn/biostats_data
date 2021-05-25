@@ -81,6 +81,44 @@ Variables:
 
 ___
 
+### [data/dwarf_bear_poppy_emergence.csv](https://raw.githubusercontent.com/gzahn/biostats_data/main/data/dwarf_bear_poppy_emergence.csv)
+
+#### Data from UVU alum Eli Hartung
+
+#### Data were collected to study the recruitment characteristics of *Arctomecon humulis*, an endangered species endemic to Washington County Utah. The dwarf bear poppy grows on gypsum outcrops covered in cryptobiotic crusts. He collected data on roughly 200 seedlings from three populations at the square foot plot and emergence point levels.
+
+#### Response variable is binary (TRUE/FALSE) and predictors are categorical (suitable for logistic regression?)
+
+##### Main question(s):
+
+-	How does ground cover (substrate) and topography predict whether dwarf bear poppies will grow?
+
+-	Do different genetic populations of dwarf bear poppy have different preferred growth requirements?
+
+- Can we predict the probability of poppy presence in a given substrate/topography/population combination?
+
+<br>
+
+Variables:
+
++ **population**  Main genetic population, named by general location - Categorial - beehive, red dome, white bluff
+
++ **topography**  Topgraphy of location - Categorical - gradual, flat, steep
+
++ **substrate** Type of ground cover investigated - Categorical - cryptobiotic, large gravel, small gravel, gypsum, plant, bare soil
+
++ **emergence** Response variable - Whether a dwarf bear poppy was observed emerging from the random sampling location - Boolean
+
+[Visualization]()
+
+
+
+
+
+
+
+___
+
 
 ### [data/coral_microbiome_metadata.csv](https://raw.githubusercontent.com/gzahn/biostats_data/main/data/coral_microbiome_metadata.csv) & [data/coral_microbiome_response.csv](https://raw.githubusercontent.com/gzahn/biostats_data/main/data/coral_microbiome_response.csv)
 
