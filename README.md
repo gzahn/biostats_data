@@ -31,6 +31,11 @@ Variables:
 
 + **GrowthRate**	Response - Continuous - Mushroom mass increase - (g/day)
 
+<br>
+
+Visualization:
+
+![]("https://github.com/gzahn/biostats_data/figs/mush_groth.png")
 
 ___
 
@@ -74,7 +79,7 @@ Variables:
 
 Visualization:
 
-[!]("./figs/C-utilization.png")
+![]("https://github.com/gzahn/biostats_data/figs/C-utilization.png")
 
 ___
 
