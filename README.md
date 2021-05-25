@@ -3,7 +3,7 @@
 ___
 
 
-### data/mushroom_growth.csv
+### [data/mushroom_growth.csv](https://raw.githubusercontent.com/gzahn/biostats_data/main/data/mushroom_growth.csv)
 
 #### Data set measuring effect of various growth conditions on two species of culinary mushrooms
 
@@ -39,7 +39,7 @@ Variables:
 ___
 
 
-### data/microbial_carbon_metabolism.csv
+### [data/microbial_carbon_metabolism.csv](https://raw.githubusercontent.com/gzahn/biostats_data/main/data/microbial_carbon_metabolism.csv)
 
 #### Data set measuring carbon utilization potential of natural microbial communities. Samples from 4 sites were taken and added to "BioLog" plates at various dilutions. 
 
@@ -82,7 +82,7 @@ Variables:
 ___
 
 
-### data/coral_microbiome_metadata.csv & data/coral_microbiome_response.csv
+### [data/coral_microbiome_metadata.csv](https://raw.githubusercontent.com/gzahn/biostats_data/main/data/coral_microbiome_metadata.csv) & [data/coral_microbiome_response.csv](https://raw.githubusercontent.com/gzahn/biostats_data/main/data/coral_microbiome_response.csv)
 
 #### These two data files are microbiome data from coral reefs in the remote Chagos Archipelago.
 
