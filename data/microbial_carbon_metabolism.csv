@@ -1,0 +1,3457 @@
+Site,Sample_Type,Rep,Dilution,Substrate,Time,Absorbance
+Clear_Creek,Water,1,0.001,Water,24,0
+Clear_Creek,Water,1,0.001,Water,48,0
+Clear_Creek,Water,1,0.001,Water,144,0
+Clear_Creek,Water,1,0.001,β-Methyl-D- Glucoside,24,0.004
+Clear_Creek,Water,1,0.001,β-Methyl-D- Glucoside,48,0.005
+Clear_Creek,Water,1,0.001,β-Methyl-D- Glucoside,144,0.004
+Clear_Creek,Water,1,0.001,D-Galactonic Acid γ-Lactone,24,0.008
+Clear_Creek,Water,1,0.001,D-Galactonic Acid γ-Lactone,48,0.007
+Clear_Creek,Water,1,0.001,D-Galactonic Acid γ-Lactone,144,0.001
+Clear_Creek,Water,1,0.001,L-Arginine,24,0.003
+Clear_Creek,Water,1,0.001,L-Arginine,48,0.002
+Clear_Creek,Water,1,0.001,L-Arginine,144,0
+Clear_Creek,Water,1,0.001,Pyruvic Acid Methyl Ester,24,0.002
+Clear_Creek,Water,1,0.001,Pyruvic Acid Methyl Ester,48,0
+Clear_Creek,Water,1,0.001,Pyruvic Acid Methyl Ester,144,0.007
+Clear_Creek,Water,1,0.001,D-Xylose,24,0.011
+Clear_Creek,Water,1,0.001,D-Xylose,48,0.008
+Clear_Creek,Water,1,0.001,D-Xylose,144,0.021
+Clear_Creek,Water,1,0.001,D-Galacturonic Acid,24,0.047
+Clear_Creek,Water,1,0.001,D-Galacturonic Acid,48,0.029
+Clear_Creek,Water,1,0.001,D-Galacturonic Acid,144,0.011
+Clear_Creek,Water,1,0.001,L-Asparganine,24,0.001
+Clear_Creek,Water,1,0.001,L-Asparganine,48,0.003
+Clear_Creek,Water,1,0.001,L-Asparganine,144,0
+Clear_Creek,Water,1,0.001,Tween 40,24,0.123
+Clear_Creek,Water,1,0.001,Tween 40,48,0.189
+Clear_Creek,Water,1,0.001,Tween 40,144,0
+Clear_Creek,Water,1,0.001,i-Erythitol,24,0.007
+Clear_Creek,Water,1,0.001,i-Erythitol,48,0.002
+Clear_Creek,Water,1,0.001,i-Erythitol,144,0.103
+Clear_Creek,Water,1,0.001,2-Hydroxy Benzoic Acid,24,0
+Clear_Creek,Water,1,0.001,2-Hydroxy Benzoic Acid,48,0
+Clear_Creek,Water,1,0.001,2-Hydroxy Benzoic Acid,144,0.39
+Clear_Creek,Water,1,0.001,L-Phenylalanine,24,0
+Clear_Creek,Water,1,0.001,L-Phenylalanine,48,0
+Clear_Creek,Water,1,0.001,L-Phenylalanine,144,0
+Clear_Creek,Water,1,0.001,Tween 80,24,0.476
+Clear_Creek,Water,1,0.001,Tween 80,48,0
+Clear_Creek,Water,1,0.001,Tween 80,144,0.165
+Clear_Creek,Water,1,0.001,D-Mannitol,24,0.023
+Clear_Creek,Water,1,0.001,D-Mannitol,48,0.025
+Clear_Creek,Water,1,0.001,D-Mannitol,144,0.01
+Clear_Creek,Water,1,0.001,4-Hydroxy Benzoic Acid,24,0.018
+Clear_Creek,Water,1,0.001,4-Hydroxy Benzoic Acid,48,0.013
+Clear_Creek,Water,1,0.001,4-Hydroxy Benzoic Acid,144,0.021
+Clear_Creek,Water,1,0.001,L-Serine,24,0.003
+Clear_Creek,Water,1,0.001,L-Serine,48,0.003
+Clear_Creek,Water,1,0.001,L-Serine,144,0
+Clear_Creek,Water,1,0.001,α-Cyclodextrin,24,0.138
+Clear_Creek,Water,1,0.001,α-Cyclodextrin,48,0.208
+Clear_Creek,Water,1,0.001,α-Cyclodextrin,144,0.031
+Clear_Creek,Water,1,0.001,N-Acetyl-D-Glucosamine,24,0.094
+Clear_Creek,Water,1,0.001,N-Acetyl-D-Glucosamine,48,0.166
+Clear_Creek,Water,1,0.001,N-Acetyl-D-Glucosamine,144,0.12
+Clear_Creek,Water,1,0.001,γ-Hydroxybutyric Acid,24,0.035
+Clear_Creek,Water,1,0.001,γ-Hydroxybutyric Acid,48,0.065
+Clear_Creek,Water,1,0.001,γ-Hydroxybutyric Acid,144,0.043
+Clear_Creek,Water,1,0.001,L-Threonine,24,0.001
+Clear_Creek,Water,1,0.001,L-Threonine,48,0.002
+Clear_Creek,Water,1,0.001,L-Threonine,144,0
+Clear_Creek,Water,1,0.001,Glycogen,24,0.184
+Clear_Creek,Water,1,0.001,Glycogen,48,0.283
+Clear_Creek,Water,1,0.001,Glycogen,144,0.299
+Clear_Creek,Water,1,0.001,D-Glucosaminic Acid,24,0.076
+Clear_Creek,Water,1,0.001,D-Glucosaminic Acid,48,0.16
+Clear_Creek,Water,1,0.001,D-Glucosaminic Acid,144,0.148
+Clear_Creek,Water,1,0.001,Itaconic Acid,24,0.029
+Clear_Creek,Water,1,0.001,Itaconic Acid,48,0.01
+Clear_Creek,Water,1,0.001,Itaconic Acid,144,0.02
+Clear_Creek,Water,1,0.001,Glycyl-L-Glutamic Acid,24,0.001
+Clear_Creek,Water,1,0.001,Glycyl-L-Glutamic Acid,48,0.005
+Clear_Creek,Water,1,0.001,Glycyl-L-Glutamic Acid,144,0.005
+Clear_Creek,Water,1,0.001,D-Cellobiose,24,0.109
+Clear_Creek,Water,1,0.001,D-Cellobiose,48,0.133
+Clear_Creek,Water,1,0.001,D-Cellobiose,144,0.137
+Clear_Creek,Water,1,0.001,Glucose-1-Phosphate,24,0.052
+Clear_Creek,Water,1,0.001,Glucose-1-Phosphate,48,0.033
+Clear_Creek,Water,1,0.001,Glucose-1-Phosphate,144,0.048
+Clear_Creek,Water,1,0.001,α-Ketobutyric Acid,24,0.038
+Clear_Creek,Water,1,0.001,α-Ketobutyric Acid,48,0.029
+Clear_Creek,Water,1,0.001,α-Ketobutyric Acid,144,0.042
+Clear_Creek,Water,1,0.001,Phenylethylamine,24,0.003
+Clear_Creek,Water,1,0.001,Phenylethylamine,48,0.002
+Clear_Creek,Water,1,0.001,Phenylethylamine,144,0
+Clear_Creek,Water,1,0.001,α-D-Lactose,24,0.009
+Clear_Creek,Water,1,0.001,α-D-Lactose,48,0.008
+Clear_Creek,Water,1,0.001,α-D-Lactose,144,0.008
+Clear_Creek,Water,1,0.001,D.L -α-Glycerol Phosphate,24,0.01
+Clear_Creek,Water,1,0.001,D.L -α-Glycerol Phosphate,48,0.003
+Clear_Creek,Water,1,0.001,D.L -α-Glycerol Phosphate,144,0.003
+Clear_Creek,Water,1,0.001,D-Mallic Acid,24,0.002
+Clear_Creek,Water,1,0.001,D-Mallic Acid,48,0.001
+Clear_Creek,Water,1,0.001,D-Mallic Acid,144,0
+Clear_Creek,Water,1,0.001,Putrescine,24,0.025
+Clear_Creek,Water,1,0.001,Putrescine,48,0.003
+Clear_Creek,Water,1,0.001,Putrescine,144,0
+Clear_Creek,Water,1,0.01,Water,24,0
+Clear_Creek,Water,1,0.01,Water,48,0
+Clear_Creek,Water,1,0.01,Water,144,0
+Clear_Creek,Water,1,0.01,β-Methyl-D- Glucoside,24,0
+Clear_Creek,Water,1,0.01,β-Methyl-D- Glucoside,48,0.061
+Clear_Creek,Water,1,0.01,β-Methyl-D- Glucoside,144,1.841
+Clear_Creek,Water,1,0.01,D-Galactonic Acid γ-Lactone,24,0
+Clear_Creek,Water,1,0.01,D-Galactonic Acid γ-Lactone,48,0.002
+Clear_Creek,Water,1,0.01,D-Galactonic Acid γ-Lactone,144,0.003
+Clear_Creek,Water,1,0.01,L-Arginine,24,0
+Clear_Creek,Water,1,0.01,L-Arginine,48,0.002
+Clear_Creek,Water,1,0.01,L-Arginine,144,0.011
+Clear_Creek,Water,1,0.01,Pyruvic Acid Methyl Ester,24,0.053
+Clear_Creek,Water,1,0.01,Pyruvic Acid Methyl Ester,48,0.042
+Clear_Creek,Water,1,0.01,Pyruvic Acid Methyl Ester,144,0.539
+Clear_Creek,Water,1,0.01,D-Xylose,24,0.021
+Clear_Creek,Water,1,0.01,D-Xylose,48,0.006
+Clear_Creek,Water,1,0.01,D-Xylose,144,0.016
+Clear_Creek,Water,1,0.01,D-Galacturonic Acid,24,0.076
+Clear_Creek,Water,1,0.01,D-Galacturonic Acid,48,0.051
+Clear_Creek,Water,1,0.01,D-Galacturonic Acid,144,0.053
+Clear_Creek,Water,1,0.01,L-Asparganine,24,0.001
+Clear_Creek,Water,1,0.01,L-Asparganine,48,0
+Clear_Creek,Water,1,0.01,L-Asparganine,144,0.014
+Clear_Creek,Water,1,0.01,Tween 40,24,0.205
+Clear_Creek,Water,1,0.01,Tween 40,48,0.275
+Clear_Creek,Water,1,0.01,Tween 40,144,0.199
+Clear_Creek,Water,1,0.01,i-Erythitol,24,0.044
+Clear_Creek,Water,1,0.01,i-Erythitol,48,0.275
+Clear_Creek,Water,1,0.01,i-Erythitol,144,2.182
+Clear_Creek,Water,1,0.01,2-Hydroxy Benzoic Acid,24,0
+Clear_Creek,Water,1,0.01,2-Hydroxy Benzoic Acid,48,0
+Clear_Creek,Water,1,0.01,2-Hydroxy Benzoic Acid,144,0.01
+Clear_Creek,Water,1,0.01,L-Phenylalanine,24,0.154
+Clear_Creek,Water,1,0.01,L-Phenylalanine,48,0.231
+Clear_Creek,Water,1,0.01,L-Phenylalanine,144,0.265
+Clear_Creek,Water,1,0.01,Tween 80,24,0.114
+Clear_Creek,Water,1,0.01,Tween 80,48,0.162
+Clear_Creek,Water,1,0.01,Tween 80,144,0.109
+Clear_Creek,Water,1,0.01,D-Mannitol,24,0.03
+Clear_Creek,Water,1,0.01,D-Mannitol,48,0.507
+Clear_Creek,Water,1,0.01,D-Mannitol,144,1.023
+Clear_Creek,Water,1,0.01,4-Hydroxy Benzoic Acid,24,0.1
+Clear_Creek,Water,1,0.01,4-Hydroxy Benzoic Acid,48,0.259
+Clear_Creek,Water,1,0.01,4-Hydroxy Benzoic Acid,144,0.505
+Clear_Creek,Water,1,0.01,L-Serine,24,0.138
+Clear_Creek,Water,1,0.01,L-Serine,48,0.227
+Clear_Creek,Water,1,0.01,L-Serine,144,0.209
+Clear_Creek,Water,1,0.01,α-Cyclodextrin,24,0.184
+Clear_Creek,Water,1,0.01,α-Cyclodextrin,48,0.266
+Clear_Creek,Water,1,0.01,α-Cyclodextrin,144,0.25
+Clear_Creek,Water,1,0.01,N-Acetyl-D-Glucosamine,24,0.146
+Clear_Creek,Water,1,0.01,N-Acetyl-D-Glucosamine,48,0.284
+Clear_Creek,Water,1,0.01,N-Acetyl-D-Glucosamine,144,0.69
+Clear_Creek,Water,1,0.01,γ-Hydroxybutyric Acid,24,0.216
+Clear_Creek,Water,1,0.01,γ-Hydroxybutyric Acid,48,0.007
+Clear_Creek,Water,1,0.01,γ-Hydroxybutyric Acid,144,0
+Clear_Creek,Water,1,0.01,L-Threonine,24,0.209
+Clear_Creek,Water,1,0.01,L-Threonine,48,0.237
+Clear_Creek,Water,1,0.01,L-Threonine,144,0.142
+Clear_Creek,Water,1,0.01,Glycogen,24,0.315
+Clear_Creek,Water,1,0.01,Glycogen,48,0.395
+Clear_Creek,Water,1,0.01,Glycogen,144,0.363
+Clear_Creek,Water,1,0.01,D-Glucosaminic Acid,24,0.187
+Clear_Creek,Water,1,0.01,D-Glucosaminic Acid,48,0.258
+Clear_Creek,Water,1,0.01,D-Glucosaminic Acid,144,0.309
+Clear_Creek,Water,1,0.01,Itaconic Acid,24,0.185
+Clear_Creek,Water,1,0.01,Itaconic Acid,48,0.3
+Clear_Creek,Water,1,0.01,Itaconic Acid,144,1.021
+Clear_Creek,Water,1,0.01,Glycyl-L-Glutamic Acid,24,0.227
+Clear_Creek,Water,1,0.01,Glycyl-L-Glutamic Acid,48,0.28
+Clear_Creek,Water,1,0.01,Glycyl-L-Glutamic Acid,144,0.265
+Clear_Creek,Water,1,0.01,D-Cellobiose,24,0.155
+Clear_Creek,Water,1,0.01,D-Cellobiose,48,0.133
+Clear_Creek,Water,1,0.01,D-Cellobiose,144,0.193
+Clear_Creek,Water,1,0.01,Glucose-1-Phosphate,24,0.031
+Clear_Creek,Water,1,0.01,Glucose-1-Phosphate,48,0.021
+Clear_Creek,Water,1,0.01,Glucose-1-Phosphate,144,0.035
+Clear_Creek,Water,1,0.01,α-Ketobutyric Acid,24,0.041
+Clear_Creek,Water,1,0.01,α-Ketobutyric Acid,48,0.043
+Clear_Creek,Water,1,0.01,α-Ketobutyric Acid,144,0.056
+Clear_Creek,Water,1,0.01,Phenylethylamine,24,0.038
+Clear_Creek,Water,1,0.01,Phenylethylamine,48,0.023
+Clear_Creek,Water,1,0.01,Phenylethylamine,144,0.046
+Clear_Creek,Water,1,0.01,α-D-Lactose,24,0.003
+Clear_Creek,Water,1,0.01,α-D-Lactose,48,0.005
+Clear_Creek,Water,1,0.01,α-D-Lactose,144,0.004
+Clear_Creek,Water,1,0.01,D.L -α-Glycerol Phosphate,24,0.02
+Clear_Creek,Water,1,0.01,D.L -α-Glycerol Phosphate,48,0.018
+Clear_Creek,Water,1,0.01,D.L -α-Glycerol Phosphate,144,0.038
+Clear_Creek,Water,1,0.01,D-Mallic Acid,24,0.005
+Clear_Creek,Water,1,0.01,D-Mallic Acid,48,0.005
+Clear_Creek,Water,1,0.01,D-Mallic Acid,144,0.005
+Clear_Creek,Water,1,0.01,Putrescine,24,0.006
+Clear_Creek,Water,1,0.01,Putrescine,48,0.006
+Clear_Creek,Water,1,0.01,Putrescine,144,0.01
+Clear_Creek,Water,1,0.1,Water,24,0
+Clear_Creek,Water,1,0.1,Water,48,0
+Clear_Creek,Water,1,0.1,Water,144,0
+Clear_Creek,Water,1,0.1,β-Methyl-D- Glucoside,24,0.01
+Clear_Creek,Water,1,0.1,β-Methyl-D- Glucoside,48,0.497
+Clear_Creek,Water,1,0.1,β-Methyl-D- Glucoside,144,0.772
+Clear_Creek,Water,1,0.1,D-Galactonic Acid γ-Lactone,24,0.07
+Clear_Creek,Water,1,0.1,D-Galactonic Acid γ-Lactone,48,1.915
+Clear_Creek,Water,1,0.1,D-Galactonic Acid γ-Lactone,144,2.906
+Clear_Creek,Water,1,0.1,L-Arginine,24,0.003
+Clear_Creek,Water,1,0.1,L-Arginine,48,0
+Clear_Creek,Water,1,0.1,L-Arginine,144,0.508
+Clear_Creek,Water,1,0.1,Pyruvic Acid Methyl Ester,24,0
+Clear_Creek,Water,1,0.1,Pyruvic Acid Methyl Ester,48,0.038
+Clear_Creek,Water,1,0.1,Pyruvic Acid Methyl Ester,144,0.94
+Clear_Creek,Water,1,0.1,D-Xylose,24,0
+Clear_Creek,Water,1,0.1,D-Xylose,48,0
+Clear_Creek,Water,1,0.1,D-Xylose,144,0
+Clear_Creek,Water,1,0.1,D-Galacturonic Acid,24,0.016
+Clear_Creek,Water,1,0.1,D-Galacturonic Acid,48,1.816
+Clear_Creek,Water,1,0.1,D-Galacturonic Acid,144,2.123
+Clear_Creek,Water,1,0.1,L-Asparganine,24,0.037
+Clear_Creek,Water,1,0.1,L-Asparganine,48,0.057
+Clear_Creek,Water,1,0.1,L-Asparganine,144,0.293
+Clear_Creek,Water,1,0.1,Tween 40,24,0
+Clear_Creek,Water,1,0.1,Tween 40,48,0
+Clear_Creek,Water,1,0.1,Tween 40,144,0
+Clear_Creek,Water,1,0.1,i-Erythitol,24,0.001
+Clear_Creek,Water,1,0.1,i-Erythitol,48,0
+Clear_Creek,Water,1,0.1,i-Erythitol,144,0.61
+Clear_Creek,Water,1,0.1,2-Hydroxy Benzoic Acid,24,0.099
+Clear_Creek,Water,1,0.1,2-Hydroxy Benzoic Acid,48,0.116
+Clear_Creek,Water,1,0.1,2-Hydroxy Benzoic Acid,144,0.111
+Clear_Creek,Water,1,0.1,L-Phenylalanine,24,0.153
+Clear_Creek,Water,1,0.1,L-Phenylalanine,48,0.208
+Clear_Creek,Water,1,0.1,L-Phenylalanine,144,0.303
+Clear_Creek,Water,1,0.1,Tween 80,24,0.138
+Clear_Creek,Water,1,0.1,Tween 80,48,0.611
+Clear_Creek,Water,1,0.1,Tween 80,144,2.608
+Clear_Creek,Water,1,0.1,D-Mannitol,24,0.032
+Clear_Creek,Water,1,0.1,D-Mannitol,48,0.648
+Clear_Creek,Water,1,0.1,D-Mannitol,144,2.409
+Clear_Creek,Water,1,0.1,4-Hydroxy Benzoic Acid,24,0.179
+Clear_Creek,Water,1,0.1,4-Hydroxy Benzoic Acid,48,0.372
+Clear_Creek,Water,1,0.1,4-Hydroxy Benzoic Acid,144,0.698
+Clear_Creek,Water,1,0.1,L-Serine,24,0.185
+Clear_Creek,Water,1,0.1,L-Serine,48,0.223
+Clear_Creek,Water,1,0.1,L-Serine,144,1.17
+Clear_Creek,Water,1,0.1,α-Cyclodextrin,24,0
+Clear_Creek,Water,1,0.1,α-Cyclodextrin,48,0
+Clear_Creek,Water,1,0.1,α-Cyclodextrin,144,0.627
+Clear_Creek,Water,1,0.1,N-Acetyl-D-Glucosamine,24,0.179
+Clear_Creek,Water,1,0.1,N-Acetyl-D-Glucosamine,48,1.675
+Clear_Creek,Water,1,0.1,N-Acetyl-D-Glucosamine,144,2.589
+Clear_Creek,Water,1,0.1,γ-Hydroxybutyric Acid,24,0.233
+Clear_Creek,Water,1,0.1,γ-Hydroxybutyric Acid,48,0.36
+Clear_Creek,Water,1,0.1,γ-Hydroxybutyric Acid,144,0.521
+Clear_Creek,Water,1,0.1,L-Threonine,24,0.066
+Clear_Creek,Water,1,0.1,L-Threonine,48,0.033
+Clear_Creek,Water,1,0.1,L-Threonine,144,0.417
+Clear_Creek,Water,1,0.1,Glycogen,24,0.026
+Clear_Creek,Water,1,0.1,Glycogen,48,0
+Clear_Creek,Water,1,0.1,Glycogen,144,0.835
+Clear_Creek,Water,1,0.1,D-Glucosaminic Acid,24,0
+Clear_Creek,Water,1,0.1,D-Glucosaminic Acid,48,0
+Clear_Creek,Water,1,0.1,D-Glucosaminic Acid,144,0
+Clear_Creek,Water,1,0.1,Itaconic Acid,24,0.059
+Clear_Creek,Water,1,0.1,Itaconic Acid,48,0.045
+Clear_Creek,Water,1,0.1,Itaconic Acid,144,0
+Clear_Creek,Water,1,0.1,Glycyl-L-Glutamic Acid,24,0.277
+Clear_Creek,Water,1,0.1,Glycyl-L-Glutamic Acid,48,0.265
+Clear_Creek,Water,1,0.1,Glycyl-L-Glutamic Acid,144,0.398
+Clear_Creek,Water,1,0.1,D-Cellobiose,24,0.002
+Clear_Creek,Water,1,0.1,D-Cellobiose,48,0.509
+Clear_Creek,Water,1,0.1,D-Cellobiose,144,1.75
+Clear_Creek,Water,1,0.1,Glucose-1-Phosphate,24,0.086
+Clear_Creek,Water,1,0.1,Glucose-1-Phosphate,48,1.102
+Clear_Creek,Water,1,0.1,Glucose-1-Phosphate,144,1.398
+Clear_Creek,Water,1,0.1,α-Ketobutyric Acid,24,0.004
+Clear_Creek,Water,1,0.1,α-Ketobutyric Acid,48,0
+Clear_Creek,Water,1,0.1,α-Ketobutyric Acid,144,0.242
+Clear_Creek,Water,1,0.1,Phenylethylamine,24,0.031
+Clear_Creek,Water,1,0.1,Phenylethylamine,48,0.011
+Clear_Creek,Water,1,0.1,Phenylethylamine,144,0.077
+Clear_Creek,Water,1,0.1,α-D-Lactose,24,0
+Clear_Creek,Water,1,0.1,α-D-Lactose,48,0
+Clear_Creek,Water,1,0.1,α-D-Lactose,144,0.268
+Clear_Creek,Water,1,0.1,D.L -α-Glycerol Phosphate,24,0.005
+Clear_Creek,Water,1,0.1,D.L -α-Glycerol Phosphate,48,0
+Clear_Creek,Water,1,0.1,D.L -α-Glycerol Phosphate,144,0
+Clear_Creek,Water,1,0.1,D-Mallic Acid,24,0
+Clear_Creek,Water,1,0.1,D-Mallic Acid,48,0
+Clear_Creek,Water,1,0.1,D-Mallic Acid,144,0.987
+Clear_Creek,Water,1,0.1,Putrescine,24,0
+Clear_Creek,Water,1,0.1,Putrescine,48,0
+Clear_Creek,Water,1,0.1,Putrescine,144,0
+Clear_Creek,Water,2,0.001,Water,24,0
+Clear_Creek,Water,2,0.001,Water,48,0
+Clear_Creek,Water,2,0.001,Water,144,0
+Clear_Creek,Water,2,0.001,β-Methyl-D- Glucoside,24,0
+Clear_Creek,Water,2,0.001,β-Methyl-D- Glucoside,48,0
+Clear_Creek,Water,2,0.001,β-Methyl-D- Glucoside,144,0
+Clear_Creek,Water,2,0.001,D-Galactonic Acid γ-Lactone,24,0.001
+Clear_Creek,Water,2,0.001,D-Galactonic Acid γ-Lactone,48,0
+Clear_Creek,Water,2,0.001,D-Galactonic Acid γ-Lactone,144,0.009
+Clear_Creek,Water,2,0.001,L-Arginine,24,0
+Clear_Creek,Water,2,0.001,L-Arginine,48,0
+Clear_Creek,Water,2,0.001,L-Arginine,144,0
+Clear_Creek,Water,2,0.001,Pyruvic Acid Methyl Ester,24,0.192
+Clear_Creek,Water,2,0.001,Pyruvic Acid Methyl Ester,48,0
+Clear_Creek,Water,2,0.001,Pyruvic Acid Methyl Ester,144,0.035
+Clear_Creek,Water,2,0.001,D-Xylose,24,0.147
+Clear_Creek,Water,2,0.001,D-Xylose,48,0.009
+Clear_Creek,Water,2,0.001,D-Xylose,144,0.049
+Clear_Creek,Water,2,0.001,D-Galacturonic Acid,24,0.008
+Clear_Creek,Water,2,0.001,D-Galacturonic Acid,48,0
+Clear_Creek,Water,2,0.001,D-Galacturonic Acid,144,0.036
+Clear_Creek,Water,2,0.001,L-Asparganine,24,0
+Clear_Creek,Water,2,0.001,L-Asparganine,48,0
+Clear_Creek,Water,2,0.001,L-Asparganine,144,0
+Clear_Creek,Water,2,0.001,Tween 40,24,0
+Clear_Creek,Water,2,0.001,Tween 40,48,0
+Clear_Creek,Water,2,0.001,Tween 40,144,0.241
+Clear_Creek,Water,2,0.001,i-Erythitol,24,0.182
+Clear_Creek,Water,2,0.001,i-Erythitol,48,0
+Clear_Creek,Water,2,0.001,i-Erythitol,144,0.039
+Clear_Creek,Water,2,0.001,2-Hydroxy Benzoic Acid,24,0.003
+Clear_Creek,Water,2,0.001,2-Hydroxy Benzoic Acid,48,0
+Clear_Creek,Water,2,0.001,2-Hydroxy Benzoic Acid,144,0.04
+Clear_Creek,Water,2,0.001,L-Phenylalanine,24,0
+Clear_Creek,Water,2,0.001,L-Phenylalanine,48,0
+Clear_Creek,Water,2,0.001,L-Phenylalanine,144,0
+Clear_Creek,Water,2,0.001,Tween 80,24,0
+Clear_Creek,Water,2,0.001,Tween 80,48,0
+Clear_Creek,Water,2,0.001,Tween 80,144,0
+Clear_Creek,Water,2,0.001,D-Mannitol,24,0
+Clear_Creek,Water,2,0.001,D-Mannitol,48,0
+Clear_Creek,Water,2,0.001,D-Mannitol,144,0
+Clear_Creek,Water,2,0.001,4-Hydroxy Benzoic Acid,24,0.081
+Clear_Creek,Water,2,0.001,4-Hydroxy Benzoic Acid,48,0
+Clear_Creek,Water,2,0.001,4-Hydroxy Benzoic Acid,144,0.037
+Clear_Creek,Water,2,0.001,L-Serine,24,0
+Clear_Creek,Water,2,0.001,L-Serine,48,0
+Clear_Creek,Water,2,0.001,L-Serine,144,0.006
+Clear_Creek,Water,2,0.001,α-Cyclodextrin,24,0.188
+Clear_Creek,Water,2,0.001,α-Cyclodextrin,48,0.173
+Clear_Creek,Water,2,0.001,α-Cyclodextrin,144,0.07
+Clear_Creek,Water,2,0.001,N-Acetyl-D-Glucosamine,24,0.258
+Clear_Creek,Water,2,0.001,N-Acetyl-D-Glucosamine,48,0.198
+Clear_Creek,Water,2,0.001,N-Acetyl-D-Glucosamine,144,0.047
+Clear_Creek,Water,2,0.001,γ-Hydroxybutyric Acid,24,0.54
+Clear_Creek,Water,2,0.001,γ-Hydroxybutyric Acid,48,0.187
+Clear_Creek,Water,2,0.001,γ-Hydroxybutyric Acid,144,0.046
+Clear_Creek,Water,2,0.001,L-Threonine,24,0
+Clear_Creek,Water,2,0.001,L-Threonine,48,0
+Clear_Creek,Water,2,0.001,L-Threonine,144,0.023
+Clear_Creek,Water,2,0.001,Glycogen,24,0.198
+Clear_Creek,Water,2,0.001,Glycogen,48,0.184
+Clear_Creek,Water,2,0.001,Glycogen,144,0.043
+Clear_Creek,Water,2,0.001,D-Glucosaminic Acid,24,0.215
+Clear_Creek,Water,2,0.001,D-Glucosaminic Acid,48,0.121
+Clear_Creek,Water,2,0.001,D-Glucosaminic Acid,144,0.031
+Clear_Creek,Water,2,0.001,Itaconic Acid,24,0.1
+Clear_Creek,Water,2,0.001,Itaconic Acid,48,0
+Clear_Creek,Water,2,0.001,Itaconic Acid,144,0.039
+Clear_Creek,Water,2,0.001,Glycyl-L-Glutamic Acid,24,0
+Clear_Creek,Water,2,0.001,Glycyl-L-Glutamic Acid,48,0
+Clear_Creek,Water,2,0.001,Glycyl-L-Glutamic Acid,144,0.012
+Clear_Creek,Water,2,0.001,D-Cellobiose,24,0.058
+Clear_Creek,Water,2,0.001,D-Cellobiose,48,0
+Clear_Creek,Water,2,0.001,D-Cellobiose,144,0.034
+Clear_Creek,Water,2,0.001,Glucose-1-Phosphate,24,0.11
+Clear_Creek,Water,2,0.001,Glucose-1-Phosphate,48,0
+Clear_Creek,Water,2,0.001,Glucose-1-Phosphate,144,0.035
+Clear_Creek,Water,2,0.001,α-Ketobutyric Acid,24,0.005
+Clear_Creek,Water,2,0.001,α-Ketobutyric Acid,48,0
+Clear_Creek,Water,2,0.001,α-Ketobutyric Acid,144,0.033
+Clear_Creek,Water,2,0.001,Phenylethylamine,24,0
+Clear_Creek,Water,2,0.001,Phenylethylamine,48,0
+Clear_Creek,Water,2,0.001,Phenylethylamine,144,0
+Clear_Creek,Water,2,0.001,α-D-Lactose,24,0.002
+Clear_Creek,Water,2,0.001,α-D-Lactose,48,0
+Clear_Creek,Water,2,0.001,α-D-Lactose,144,0.025
+Clear_Creek,Water,2,0.001,D.L -α-Glycerol Phosphate,24,0.001
+Clear_Creek,Water,2,0.001,D.L -α-Glycerol Phosphate,48,0
+Clear_Creek,Water,2,0.001,D.L -α-Glycerol Phosphate,144,0.012
+Clear_Creek,Water,2,0.001,D-Mallic Acid,24,0
+Clear_Creek,Water,2,0.001,D-Mallic Acid,48,0
+Clear_Creek,Water,2,0.001,D-Mallic Acid,144,0
+Clear_Creek,Water,2,0.001,Putrescine,24,0
+Clear_Creek,Water,2,0.001,Putrescine,48,0
+Clear_Creek,Water,2,0.001,Putrescine,144,0
+Clear_Creek,Water,2,0.01,Water,24,0
+Clear_Creek,Water,2,0.01,Water,48,0
+Clear_Creek,Water,2,0.01,Water,144,0
+Clear_Creek,Water,2,0.01,β-Methyl-D- Glucoside,24,0
+Clear_Creek,Water,2,0.01,β-Methyl-D- Glucoside,48,0
+Clear_Creek,Water,2,0.01,β-Methyl-D- Glucoside,144,0
+Clear_Creek,Water,2,0.01,D-Galactonic Acid γ-Lactone,24,0.004
+Clear_Creek,Water,2,0.01,D-Galactonic Acid γ-Lactone,48,0.002
+Clear_Creek,Water,2,0.01,D-Galactonic Acid γ-Lactone,144,0.016
+Clear_Creek,Water,2,0.01,L-Arginine,24,0.006
+Clear_Creek,Water,2,0.01,L-Arginine,48,0
+Clear_Creek,Water,2,0.01,L-Arginine,144,0.003
+Clear_Creek,Water,2,0.01,Pyruvic Acid Methyl Ester,24,0.024
+Clear_Creek,Water,2,0.01,Pyruvic Acid Methyl Ester,48,0
+Clear_Creek,Water,2,0.01,Pyruvic Acid Methyl Ester,144,0.432
+Clear_Creek,Water,2,0.01,D-Xylose,24,0.065
+Clear_Creek,Water,2,0.01,D-Xylose,48,0
+Clear_Creek,Water,2,0.01,D-Xylose,144,0.042
+Clear_Creek,Water,2,0.01,D-Galacturonic Acid,24,0.155
+Clear_Creek,Water,2,0.01,D-Galacturonic Acid,48,0.01
+Clear_Creek,Water,2,0.01,D-Galacturonic Acid,144,0.206
+Clear_Creek,Water,2,0.01,L-Asparganine,24,0.171
+Clear_Creek,Water,2,0.01,L-Asparganine,48,0
+Clear_Creek,Water,2,0.01,L-Asparganine,144,0.032
+Clear_Creek,Water,2,0.01,Tween 40,24,0.05
+Clear_Creek,Water,2,0.01,Tween 40,48,0
+Clear_Creek,Water,2,0.01,Tween 40,144,0.028
+Clear_Creek,Water,2,0.01,i-Erythitol,24,0.165
+Clear_Creek,Water,2,0.01,i-Erythitol,48,0
+Clear_Creek,Water,2,0.01,i-Erythitol,144,0.594
+Clear_Creek,Water,2,0.01,2-Hydroxy Benzoic Acid,24,0.198
+Clear_Creek,Water,2,0.01,2-Hydroxy Benzoic Acid,48,0.002
+Clear_Creek,Water,2,0.01,2-Hydroxy Benzoic Acid,144,0.035
+Clear_Creek,Water,2,0.01,L-Phenylalanine,24,0.23
+Clear_Creek,Water,2,0.01,L-Phenylalanine,48,0.165
+Clear_Creek,Water,2,0.01,L-Phenylalanine,144,0.282
+Clear_Creek,Water,2,0.01,Tween 80,24,0.181
+Clear_Creek,Water,2,0.01,Tween 80,48,0.181
+Clear_Creek,Water,2,0.01,Tween 80,144,0.694
+Clear_Creek,Water,2,0.01,D-Mannitol,24,0.169
+Clear_Creek,Water,2,0.01,D-Mannitol,48,0.055
+Clear_Creek,Water,2,0.01,D-Mannitol,144,0.05
+Clear_Creek,Water,2,0.01,4-Hydroxy Benzoic Acid,24,0.107
+Clear_Creek,Water,2,0.01,4-Hydroxy Benzoic Acid,48,0.439
+Clear_Creek,Water,2,0.01,4-Hydroxy Benzoic Acid,144,1.682
+Clear_Creek,Water,2,0.01,L-Serine,24,0.263
+Clear_Creek,Water,2,0.01,L-Serine,48,0.123
+Clear_Creek,Water,2,0.01,L-Serine,144,0.032
+Clear_Creek,Water,2,0.01,α-Cyclodextrin,24,0.239
+Clear_Creek,Water,2,0.01,α-Cyclodextrin,48,0.204
+Clear_Creek,Water,2,0.01,α-Cyclodextrin,144,0.053
+Clear_Creek,Water,2,0.01,N-Acetyl-D-Glucosamine,24,0.188
+Clear_Creek,Water,2,0.01,N-Acetyl-D-Glucosamine,48,0.164
+Clear_Creek,Water,2,0.01,N-Acetyl-D-Glucosamine,144,0.05
+Clear_Creek,Water,2,0.01,γ-Hydroxybutyric Acid,24,0.68
+Clear_Creek,Water,2,0.01,γ-Hydroxybutyric Acid,48,0.702
+Clear_Creek,Water,2,0.01,γ-Hydroxybutyric Acid,144,0.495
+Clear_Creek,Water,2,0.01,L-Threonine,24,0.197
+Clear_Creek,Water,2,0.01,L-Threonine,48,0.214
+Clear_Creek,Water,2,0.01,L-Threonine,144,0.128
+Clear_Creek,Water,2,0.01,Glycogen,24,0.213
+Clear_Creek,Water,2,0.01,Glycogen,48,0.175
+Clear_Creek,Water,2,0.01,Glycogen,144,0.196
+Clear_Creek,Water,2,0.01,D-Glucosaminic Acid,24,0.197
+Clear_Creek,Water,2,0.01,D-Glucosaminic Acid,48,0.115
+Clear_Creek,Water,2,0.01,D-Glucosaminic Acid,144,0.042
+Clear_Creek,Water,2,0.01,Itaconic Acid,24,0.199
+Clear_Creek,Water,2,0.01,Itaconic Acid,48,0.098
+Clear_Creek,Water,2,0.01,Itaconic Acid,144,0.037
+Clear_Creek,Water,2,0.01,Glycyl-L-Glutamic Acid,24,0.255
+Clear_Creek,Water,2,0.01,Glycyl-L-Glutamic Acid,48,0.126
+Clear_Creek,Water,2,0.01,Glycyl-L-Glutamic Acid,144,0.03
+Clear_Creek,Water,2,0.01,D-Cellobiose,24,0.055
+Clear_Creek,Water,2,0.01,D-Cellobiose,48,0.042
+Clear_Creek,Water,2,0.01,D-Cellobiose,144,0.12
+Clear_Creek,Water,2,0.01,Glucose-1-Phosphate,24,0.062
+Clear_Creek,Water,2,0.01,Glucose-1-Phosphate,48,0
+Clear_Creek,Water,2,0.01,Glucose-1-Phosphate,144,0.034
+Clear_Creek,Water,2,0.01,α-Ketobutyric Acid,24,0.084
+Clear_Creek,Water,2,0.01,α-Ketobutyric Acid,48,0
+Clear_Creek,Water,2,0.01,α-Ketobutyric Acid,144,0.03
+Clear_Creek,Water,2,0.01,Phenylethylamine,24,0.079
+Clear_Creek,Water,2,0.01,Phenylethylamine,48,0
+Clear_Creek,Water,2,0.01,Phenylethylamine,144,0.051
+Clear_Creek,Water,2,0.01,α-D-Lactose,24,0
+Clear_Creek,Water,2,0.01,α-D-Lactose,48,0.014
+Clear_Creek,Water,2,0.01,α-D-Lactose,144,0.272
+Clear_Creek,Water,2,0.01,D.L -α-Glycerol Phosphate,24,0
+Clear_Creek,Water,2,0.01,D.L -α-Glycerol Phosphate,48,0
+Clear_Creek,Water,2,0.01,D.L -α-Glycerol Phosphate,144,0.021
+Clear_Creek,Water,2,0.01,D-Mallic Acid,24,0.027
+Clear_Creek,Water,2,0.01,D-Mallic Acid,48,0.461
+Clear_Creek,Water,2,0.01,D-Mallic Acid,144,1.623
+Clear_Creek,Water,2,0.01,Putrescine,24,0
+Clear_Creek,Water,2,0.01,Putrescine,48,0
+Clear_Creek,Water,2,0.01,Putrescine,144,0.025
+Clear_Creek,Water,2,0.1,Water,24,0
+Clear_Creek,Water,2,0.1,Water,48,0
+Clear_Creek,Water,2,0.1,Water,144,0
+Clear_Creek,Water,2,0.1,β-Methyl-D- Glucoside,24,0.06
+Clear_Creek,Water,2,0.1,β-Methyl-D- Glucoside,48,1.089
+Clear_Creek,Water,2,0.1,β-Methyl-D- Glucoside,144,1.174
+Clear_Creek,Water,2,0.1,D-Galactonic Acid γ-Lactone,24,0.041
+Clear_Creek,Water,2,0.1,D-Galactonic Acid γ-Lactone,48,1.688
+Clear_Creek,Water,2,0.1,D-Galactonic Acid γ-Lactone,144,1.753
+Clear_Creek,Water,2,0.1,L-Arginine,24,0.001
+Clear_Creek,Water,2,0.1,L-Arginine,48,0.125
+Clear_Creek,Water,2,0.1,L-Arginine,144,0.266
+Clear_Creek,Water,2,0.1,Pyruvic Acid Methyl Ester,24,0.029
+Clear_Creek,Water,2,0.1,Pyruvic Acid Methyl Ester,48,0.728
+Clear_Creek,Water,2,0.1,Pyruvic Acid Methyl Ester,144,1.458
+Clear_Creek,Water,2,0.1,D-Xylose,24,0.004
+Clear_Creek,Water,2,0.1,D-Xylose,48,0
+Clear_Creek,Water,2,0.1,D-Xylose,144,0
+Clear_Creek,Water,2,0.1,D-Galacturonic Acid,24,0.167
+Clear_Creek,Water,2,0.1,D-Galacturonic Acid,48,0.645
+Clear_Creek,Water,2,0.1,D-Galacturonic Acid,144,1.076
+Clear_Creek,Water,2,0.1,L-Asparganine,24,0.061
+Clear_Creek,Water,2,0.1,L-Asparganine,48,0.498
+Clear_Creek,Water,2,0.1,L-Asparganine,144,2.07
+Clear_Creek,Water,2,0.1,Tween 40,24,0
+Clear_Creek,Water,2,0.1,Tween 40,48,0.042
+Clear_Creek,Water,2,0.1,Tween 40,144,1.381
+Clear_Creek,Water,2,0.1,i-Erythitol,24,0
+Clear_Creek,Water,2,0.1,i-Erythitol,48,0.018
+Clear_Creek,Water,2,0.1,i-Erythitol,144,0.029
+Clear_Creek,Water,2,0.1,2-Hydroxy Benzoic Acid,24,0.067
+Clear_Creek,Water,2,0.1,2-Hydroxy Benzoic Acid,48,0
+Clear_Creek,Water,2,0.1,2-Hydroxy Benzoic Acid,144,0.001
+Clear_Creek,Water,2,0.1,L-Phenylalanine,24,0.139
+Clear_Creek,Water,2,0.1,L-Phenylalanine,48,0.17
+Clear_Creek,Water,2,0.1,L-Phenylalanine,144,1.239
+Clear_Creek,Water,2,0.1,Tween 80,24,0.048
+Clear_Creek,Water,2,0.1,Tween 80,48,0.131
+Clear_Creek,Water,2,0.1,Tween 80,144,1.471
+Clear_Creek,Water,2,0.1,D-Mannitol,24,0.229
+Clear_Creek,Water,2,0.1,D-Mannitol,48,0.264
+Clear_Creek,Water,2,0.1,D-Mannitol,144,0.116
+Clear_Creek,Water,2,0.1,4-Hydroxy Benzoic Acid,24,0.307
+Clear_Creek,Water,2,0.1,4-Hydroxy Benzoic Acid,48,0.332
+Clear_Creek,Water,2,0.1,4-Hydroxy Benzoic Acid,144,0.376
+Clear_Creek,Water,2,0.1,L-Serine,24,0.289
+Clear_Creek,Water,2,0.1,L-Serine,48,0.408
+Clear_Creek,Water,2,0.1,L-Serine,144,0.382
+Clear_Creek,Water,2,0.1,α-Cyclodextrin,24,0.007
+Clear_Creek,Water,2,0.1,α-Cyclodextrin,48,0.005
+Clear_Creek,Water,2,0.1,α-Cyclodextrin,144,0.025
+Clear_Creek,Water,2,0.1,N-Acetyl-D-Glucosamine,24,0.146
+Clear_Creek,Water,2,0.1,N-Acetyl-D-Glucosamine,48,0.89
+Clear_Creek,Water,2,0.1,N-Acetyl-D-Glucosamine,144,1.908
+Clear_Creek,Water,2,0.1,γ-Hydroxybutyric Acid,24,0.12
+Clear_Creek,Water,2,0.1,γ-Hydroxybutyric Acid,48,0.101
+Clear_Creek,Water,2,0.1,γ-Hydroxybutyric Acid,144,0.013
+Clear_Creek,Water,2,0.1,L-Threonine,24,0.202
+Clear_Creek,Water,2,0.1,L-Threonine,48,0.016
+Clear_Creek,Water,2,0.1,L-Threonine,144,0.707
+Clear_Creek,Water,2,0.1,Glycogen,24,0.041
+Clear_Creek,Water,2,0.1,Glycogen,48,0.049
+Clear_Creek,Water,2,0.1,Glycogen,144,0.109
+Clear_Creek,Water,2,0.1,D-Glucosaminic Acid,24,0.022
+Clear_Creek,Water,2,0.1,D-Glucosaminic Acid,48,0.038
+Clear_Creek,Water,2,0.1,D-Glucosaminic Acid,144,1.416
+Clear_Creek,Water,2,0.1,Itaconic Acid,24,0.128
+Clear_Creek,Water,2,0.1,Itaconic Acid,48,0.629
+Clear_Creek,Water,2,0.1,Itaconic Acid,144,0.94
+Clear_Creek,Water,2,0.1,Glycyl-L-Glutamic Acid,24,0.152
+Clear_Creek,Water,2,0.1,Glycyl-L-Glutamic Acid,48,0.072
+Clear_Creek,Water,2,0.1,Glycyl-L-Glutamic Acid,144,0.145
+Clear_Creek,Water,2,0.1,D-Cellobiose,24,0
+Clear_Creek,Water,2,0.1,D-Cellobiose,48,1.069
+Clear_Creek,Water,2,0.1,D-Cellobiose,144,2.421
+Clear_Creek,Water,2,0.1,Glucose-1-Phosphate,24,0.006
+Clear_Creek,Water,2,0.1,Glucose-1-Phosphate,48,0.276
+Clear_Creek,Water,2,0.1,Glucose-1-Phosphate,144,0.958
+Clear_Creek,Water,2,0.1,α-Ketobutyric Acid,24,0.005
+Clear_Creek,Water,2,0.1,α-Ketobutyric Acid,48,0.018
+Clear_Creek,Water,2,0.1,α-Ketobutyric Acid,144,0.279
+Clear_Creek,Water,2,0.1,Phenylethylamine,24,0.02
+Clear_Creek,Water,2,0.1,Phenylethylamine,48,0.015
+Clear_Creek,Water,2,0.1,Phenylethylamine,144,0.053
+Clear_Creek,Water,2,0.1,α-D-Lactose,24,0.007
+Clear_Creek,Water,2,0.1,α-D-Lactose,48,0.034
+Clear_Creek,Water,2,0.1,α-D-Lactose,144,2.264
+Clear_Creek,Water,2,0.1,D.L -α-Glycerol Phosphate,24,0.101
+Clear_Creek,Water,2,0.1,D.L -α-Glycerol Phosphate,48,0.296
+Clear_Creek,Water,2,0.1,D.L -α-Glycerol Phosphate,144,0.265
+Clear_Creek,Water,2,0.1,D-Mallic Acid,24,0
+Clear_Creek,Water,2,0.1,D-Mallic Acid,48,0.239
+Clear_Creek,Water,2,0.1,D-Mallic Acid,144,0.584
+Clear_Creek,Water,2,0.1,Putrescine,24,0.11
+Clear_Creek,Water,2,0.1,Putrescine,48,0.618
+Clear_Creek,Water,2,0.1,Putrescine,144,0.81
+Clear_Creek,Water,3,0.001,Water,24,0
+Clear_Creek,Water,3,0.001,Water,48,0
+Clear_Creek,Water,3,0.001,Water,144,0
+Clear_Creek,Water,3,0.001,β-Methyl-D- Glucoside,24,0
+Clear_Creek,Water,3,0.001,β-Methyl-D- Glucoside,48,0
+Clear_Creek,Water,3,0.001,β-Methyl-D- Glucoside,144,0
+Clear_Creek,Water,3,0.001,D-Galactonic Acid γ-Lactone,24,0
+Clear_Creek,Water,3,0.001,D-Galactonic Acid γ-Lactone,48,0
+Clear_Creek,Water,3,0.001,D-Galactonic Acid γ-Lactone,144,0
+Clear_Creek,Water,3,0.001,L-Arginine,24,0.396
+Clear_Creek,Water,3,0.001,L-Arginine,48,0.016
+Clear_Creek,Water,3,0.001,L-Arginine,144,0
+Clear_Creek,Water,3,0.001,Pyruvic Acid Methyl Ester,24,0
+Clear_Creek,Water,3,0.001,Pyruvic Acid Methyl Ester,48,0.186
+Clear_Creek,Water,3,0.001,Pyruvic Acid Methyl Ester,144,0.009
+Clear_Creek,Water,3,0.001,D-Xylose,24,0.017
+Clear_Creek,Water,3,0.001,D-Xylose,48,0.209
+Clear_Creek,Water,3,0.001,D-Xylose,144,0.026
+Clear_Creek,Water,3,0.001,D-Galacturonic Acid,24,0
+Clear_Creek,Water,3,0.001,D-Galacturonic Acid,48,0.03
+Clear_Creek,Water,3,0.001,D-Galacturonic Acid,144,0.014
+Clear_Creek,Water,3,0.001,L-Asparganine,24,0
+Clear_Creek,Water,3,0.001,L-Asparganine,48,0.001
+Clear_Creek,Water,3,0.001,L-Asparganine,144,0
+Clear_Creek,Water,3,0.001,Tween 40,24,0.002
+Clear_Creek,Water,3,0.001,Tween 40,48,0
+Clear_Creek,Water,3,0.001,Tween 40,144,0
+Clear_Creek,Water,3,0.001,i-Erythitol,24,0
+Clear_Creek,Water,3,0.001,i-Erythitol,48,0.21
+Clear_Creek,Water,3,0.001,i-Erythitol,144,0.011
+Clear_Creek,Water,3,0.001,2-Hydroxy Benzoic Acid,24,0
+Clear_Creek,Water,3,0.001,2-Hydroxy Benzoic Acid,48,0.094
+Clear_Creek,Water,3,0.001,2-Hydroxy Benzoic Acid,144,0.049
+Clear_Creek,Water,3,0.001,L-Phenylalanine,24,0
+Clear_Creek,Water,3,0.001,L-Phenylalanine,48,0
+Clear_Creek,Water,3,0.001,L-Phenylalanine,144,0
+Clear_Creek,Water,3,0.001,Tween 80,24,0
+Clear_Creek,Water,3,0.001,Tween 80,48,0.092
+Clear_Creek,Water,3,0.001,Tween 80,144,0
+Clear_Creek,Water,3,0.001,D-Mannitol,24,0
+Clear_Creek,Water,3,0.001,D-Mannitol,48,0.238
+Clear_Creek,Water,3,0.001,D-Mannitol,144,0.012
+Clear_Creek,Water,3,0.001,4-Hydroxy Benzoic Acid,24,0
+Clear_Creek,Water,3,0.001,4-Hydroxy Benzoic Acid,48,0.058
+Clear_Creek,Water,3,0.001,4-Hydroxy Benzoic Acid,144,0.024
+Clear_Creek,Water,3,0.001,L-Serine,24,0
+Clear_Creek,Water,3,0.001,L-Serine,48,0
+Clear_Creek,Water,3,0.001,L-Serine,144,0
+Clear_Creek,Water,3,0.001,α-Cyclodextrin,24,0.008
+Clear_Creek,Water,3,0.001,α-Cyclodextrin,48,0.036
+Clear_Creek,Water,3,0.001,α-Cyclodextrin,144,0.031
+Clear_Creek,Water,3,0.001,N-Acetyl-D-Glucosamine,24,0.008
+Clear_Creek,Water,3,0.001,N-Acetyl-D-Glucosamine,48,0.266
+Clear_Creek,Water,3,0.001,N-Acetyl-D-Glucosamine,144,0.056
+Clear_Creek,Water,3,0.001,γ-Hydroxybutyric Acid,24,0
+Clear_Creek,Water,3,0.001,γ-Hydroxybutyric Acid,48,0.337
+Clear_Creek,Water,3,0.001,γ-Hydroxybutyric Acid,144,0
+Clear_Creek,Water,3,0.001,L-Threonine,24,0
+Clear_Creek,Water,3,0.001,L-Threonine,48,0.004
+Clear_Creek,Water,3,0.001,L-Threonine,144,0
+Clear_Creek,Water,3,0.001,Glycogen,24,0
+Clear_Creek,Water,3,0.001,Glycogen,48,0.23
+Clear_Creek,Water,3,0.001,Glycogen,144,0.201
+Clear_Creek,Water,3,0.001,D-Glucosaminic Acid,24,0
+Clear_Creek,Water,3,0.001,D-Glucosaminic Acid,48,0.22
+Clear_Creek,Water,3,0.001,D-Glucosaminic Acid,144,0.013
+Clear_Creek,Water,3,0.001,Itaconic Acid,24,0
+Clear_Creek,Water,3,0.001,Itaconic Acid,48,0.051
+Clear_Creek,Water,3,0.001,Itaconic Acid,144,0.035
+Clear_Creek,Water,3,0.001,Glycyl-L-Glutamic Acid,24,0
+Clear_Creek,Water,3,0.001,Glycyl-L-Glutamic Acid,48,0.002
+Clear_Creek,Water,3,0.001,Glycyl-L-Glutamic Acid,144,0
+Clear_Creek,Water,3,0.001,D-Cellobiose,24,0
+Clear_Creek,Water,3,0.001,D-Cellobiose,48,0.211
+Clear_Creek,Water,3,0.001,D-Cellobiose,144,0.08
+Clear_Creek,Water,3,0.001,Glucose-1-Phosphate,24,0
+Clear_Creek,Water,3,0.001,Glucose-1-Phosphate,48,0.114
+Clear_Creek,Water,3,0.001,Glucose-1-Phosphate,144,0.023
+Clear_Creek,Water,3,0.001,α-Ketobutyric Acid,24,0
+Clear_Creek,Water,3,0.001,α-Ketobutyric Acid,48,0.02
+Clear_Creek,Water,3,0.001,α-Ketobutyric Acid,144,0.003
+Clear_Creek,Water,3,0.001,Phenylethylamine,24,0.315
+Clear_Creek,Water,3,0.001,Phenylethylamine,48,0.357
+Clear_Creek,Water,3,0.001,Phenylethylamine,144,0.325
+Clear_Creek,Water,3,0.001,α-D-Lactose,24,0
+Clear_Creek,Water,3,0.001,α-D-Lactose,48,0.025
+Clear_Creek,Water,3,0.001,α-D-Lactose,144,0.021
+Clear_Creek,Water,3,0.001,D.L -α-Glycerol Phosphate,24,0
+Clear_Creek,Water,3,0.001,D.L -α-Glycerol Phosphate,48,0.016
+Clear_Creek,Water,3,0.001,D.L -α-Glycerol Phosphate,144,0.025
+Clear_Creek,Water,3,0.001,D-Mallic Acid,24,0.057
+Clear_Creek,Water,3,0.001,D-Mallic Acid,48,0.121
+Clear_Creek,Water,3,0.001,D-Mallic Acid,144,0.021
+Clear_Creek,Water,3,0.001,Putrescine,24,0
+Clear_Creek,Water,3,0.001,Putrescine,48,0.003
+Clear_Creek,Water,3,0.001,Putrescine,144,0
+Clear_Creek,Water,3,0.01,Water,24,0
+Clear_Creek,Water,3,0.01,Water,48,0
+Clear_Creek,Water,3,0.01,Water,144,0
+Clear_Creek,Water,3,0.01,β-Methyl-D- Glucoside,24,0
+Clear_Creek,Water,3,0.01,β-Methyl-D- Glucoside,48,0.051
+Clear_Creek,Water,3,0.01,β-Methyl-D- Glucoside,144,2.235
+Clear_Creek,Water,3,0.01,D-Galactonic Acid γ-Lactone,24,0
+Clear_Creek,Water,3,0.01,D-Galactonic Acid γ-Lactone,48,0
+Clear_Creek,Water,3,0.01,D-Galactonic Acid γ-Lactone,144,0
+Clear_Creek,Water,3,0.01,L-Arginine,24,0.016
+Clear_Creek,Water,3,0.01,L-Arginine,48,0
+Clear_Creek,Water,3,0.01,L-Arginine,144,0
+Clear_Creek,Water,3,0.01,Pyruvic Acid Methyl Ester,24,0.032
+Clear_Creek,Water,3,0.01,Pyruvic Acid Methyl Ester,48,0.054
+Clear_Creek,Water,3,0.01,Pyruvic Acid Methyl Ester,144,0
+Clear_Creek,Water,3,0.01,D-Xylose,24,0.029
+Clear_Creek,Water,3,0.01,D-Xylose,48,0.141
+Clear_Creek,Water,3,0.01,D-Xylose,144,0
+Clear_Creek,Water,3,0.01,D-Galacturonic Acid,24,0.004
+Clear_Creek,Water,3,0.01,D-Galacturonic Acid,48,0.151
+Clear_Creek,Water,3,0.01,D-Galacturonic Acid,144,0
+Clear_Creek,Water,3,0.01,L-Asparganine,24,0.005
+Clear_Creek,Water,3,0.01,L-Asparganine,48,0.124
+Clear_Creek,Water,3,0.01,L-Asparganine,144,0
+Clear_Creek,Water,3,0.01,Tween 40,24,0.011
+Clear_Creek,Water,3,0.01,Tween 40,48,0.29
+Clear_Creek,Water,3,0.01,Tween 40,144,0.205
+Clear_Creek,Water,3,0.01,i-Erythitol,24,0
+Clear_Creek,Water,3,0.01,i-Erythitol,48,0.233
+Clear_Creek,Water,3,0.01,i-Erythitol,144,0
+Clear_Creek,Water,3,0.01,2-Hydroxy Benzoic Acid,24,0
+Clear_Creek,Water,3,0.01,2-Hydroxy Benzoic Acid,48,0.021
+Clear_Creek,Water,3,0.01,2-Hydroxy Benzoic Acid,144,0
+Clear_Creek,Water,3,0.01,L-Phenylalanine,24,0.003
+Clear_Creek,Water,3,0.01,L-Phenylalanine,48,0.226
+Clear_Creek,Water,3,0.01,L-Phenylalanine,144,0.165
+Clear_Creek,Water,3,0.01,Tween 80,24,0.028
+Clear_Creek,Water,3,0.01,Tween 80,48,0.281
+Clear_Creek,Water,3,0.01,Tween 80,144,0.238
+Clear_Creek,Water,3,0.01,D-Mannitol,24,0.032
+Clear_Creek,Water,3,0.01,D-Mannitol,48,0.548
+Clear_Creek,Water,3,0.01,D-Mannitol,144,1.644
+Clear_Creek,Water,3,0.01,4-Hydroxy Benzoic Acid,24,0
+Clear_Creek,Water,3,0.01,4-Hydroxy Benzoic Acid,48,0.24
+Clear_Creek,Water,3,0.01,4-Hydroxy Benzoic Acid,144,0.125
+Clear_Creek,Water,3,0.01,L-Serine,24,0
+Clear_Creek,Water,3,0.01,L-Serine,48,0.243
+Clear_Creek,Water,3,0.01,L-Serine,144,0.139
+Clear_Creek,Water,3,0.01,α-Cyclodextrin,24,0.048
+Clear_Creek,Water,3,0.01,α-Cyclodextrin,48,0.061
+Clear_Creek,Water,3,0.01,α-Cyclodextrin,144,0
+Clear_Creek,Water,3,0.01,N-Acetyl-D-Glucosamine,24,0.022
+Clear_Creek,Water,3,0.01,N-Acetyl-D-Glucosamine,48,0.266
+Clear_Creek,Water,3,0.01,N-Acetyl-D-Glucosamine,144,0.139
+Clear_Creek,Water,3,0.01,γ-Hydroxybutyric Acid,24,0.017
+Clear_Creek,Water,3,0.01,γ-Hydroxybutyric Acid,48,0.279
+Clear_Creek,Water,3,0.01,γ-Hydroxybutyric Acid,144,0.22
+Clear_Creek,Water,3,0.01,L-Threonine,24,0.053
+Clear_Creek,Water,3,0.01,L-Threonine,48,0.298
+Clear_Creek,Water,3,0.01,L-Threonine,144,0.458
+Clear_Creek,Water,3,0.01,Glycogen,24,0.025
+Clear_Creek,Water,3,0.01,Glycogen,48,0.224
+Clear_Creek,Water,3,0.01,Glycogen,144,0.186
+Clear_Creek,Water,3,0.01,D-Glucosaminic Acid,24,0
+Clear_Creek,Water,3,0.01,D-Glucosaminic Acid,48,0.24
+Clear_Creek,Water,3,0.01,D-Glucosaminic Acid,144,0.109
+Clear_Creek,Water,3,0.01,Itaconic Acid,24,0
+Clear_Creek,Water,3,0.01,Itaconic Acid,48,0.206
+Clear_Creek,Water,3,0.01,Itaconic Acid,144,0.048
+Clear_Creek,Water,3,0.01,Glycyl-L-Glutamic Acid,24,0
+Clear_Creek,Water,3,0.01,Glycyl-L-Glutamic Acid,48,0.205
+Clear_Creek,Water,3,0.01,Glycyl-L-Glutamic Acid,144,0.131
+Clear_Creek,Water,3,0.01,D-Cellobiose,24,0.031
+Clear_Creek,Water,3,0.01,D-Cellobiose,48,0.081
+Clear_Creek,Water,3,0.01,D-Cellobiose,144,0
+Clear_Creek,Water,3,0.01,Glucose-1-Phosphate,24,0.026
+Clear_Creek,Water,3,0.01,Glucose-1-Phosphate,48,0.141
+Clear_Creek,Water,3,0.01,Glucose-1-Phosphate,144,0
+Clear_Creek,Water,3,0.01,α-Ketobutyric Acid,24,0.002
+Clear_Creek,Water,3,0.01,α-Ketobutyric Acid,48,0
+Clear_Creek,Water,3,0.01,α-Ketobutyric Acid,144,0.014
+Clear_Creek,Water,3,0.01,Phenylethylamine,24,0.023
+Clear_Creek,Water,3,0.01,Phenylethylamine,48,0
+Clear_Creek,Water,3,0.01,Phenylethylamine,144,0
+Clear_Creek,Water,3,0.01,α-D-Lactose,24,0
+Clear_Creek,Water,3,0.01,α-D-Lactose,48,0
+Clear_Creek,Water,3,0.01,α-D-Lactose,144,0.579
+Clear_Creek,Water,3,0.01,D.L -α-Glycerol Phosphate,24,0
+Clear_Creek,Water,3,0.01,D.L -α-Glycerol Phosphate,48,0
+Clear_Creek,Water,3,0.01,D.L -α-Glycerol Phosphate,144,0
+Clear_Creek,Water,3,0.01,D-Mallic Acid,24,0
+Clear_Creek,Water,3,0.01,D-Mallic Acid,48,0
+Clear_Creek,Water,3,0.01,D-Mallic Acid,144,0
+Clear_Creek,Water,3,0.01,Putrescine,24,0
+Clear_Creek,Water,3,0.01,Putrescine,48,0.013
+Clear_Creek,Water,3,0.01,Putrescine,144,0
+Clear_Creek,Water,3,0.1,Water,24,0
+Clear_Creek,Water,3,0.1,Water,48,0
+Clear_Creek,Water,3,0.1,Water,144,0
+Clear_Creek,Water,3,0.1,β-Methyl-D- Glucoside,24,0
+Clear_Creek,Water,3,0.1,β-Methyl-D- Glucoside,48,0.256
+Clear_Creek,Water,3,0.1,β-Methyl-D- Glucoside,144,1.651
+Clear_Creek,Water,3,0.1,D-Galactonic Acid γ-Lactone,24,0.011
+Clear_Creek,Water,3,0.1,D-Galactonic Acid γ-Lactone,48,0.01
+Clear_Creek,Water,3,0.1,D-Galactonic Acid γ-Lactone,144,0.041
+Clear_Creek,Water,3,0.1,L-Arginine,24,0.245
+Clear_Creek,Water,3,0.1,L-Arginine,48,1.602
+Clear_Creek,Water,3,0.1,L-Arginine,144,1.598
+Clear_Creek,Water,3,0.1,Pyruvic Acid Methyl Ester,24,0
+Clear_Creek,Water,3,0.1,Pyruvic Acid Methyl Ester,48,0.081
+Clear_Creek,Water,3,0.1,Pyruvic Acid Methyl Ester,144,1.217
+Clear_Creek,Water,3,0.1,D-Xylose,24,0.019
+Clear_Creek,Water,3,0.1,D-Xylose,48,0.005
+Clear_Creek,Water,3,0.1,D-Xylose,144,0.028
+Clear_Creek,Water,3,0.1,D-Galacturonic Acid,24,0.2
+Clear_Creek,Water,3,0.1,D-Galacturonic Acid,48,1.441
+Clear_Creek,Water,3,0.1,D-Galacturonic Acid,144,2.025
+Clear_Creek,Water,3,0.1,L-Asparganine,24,0.059
+Clear_Creek,Water,3,0.1,L-Asparganine,48,0.866
+Clear_Creek,Water,3,0.1,L-Asparganine,144,2.653
+Clear_Creek,Water,3,0.1,Tween 40,24,0
+Clear_Creek,Water,3,0.1,Tween 40,48,0.338
+Clear_Creek,Water,3,0.1,Tween 40,144,1.483
+Clear_Creek,Water,3,0.1,i-Erythitol,24,0.017
+Clear_Creek,Water,3,0.1,i-Erythitol,48,0.045
+Clear_Creek,Water,3,0.1,i-Erythitol,144,0.08
+Clear_Creek,Water,3,0.1,2-Hydroxy Benzoic Acid,24,0.009
+Clear_Creek,Water,3,0.1,2-Hydroxy Benzoic Acid,48,0.241
+Clear_Creek,Water,3,0.1,2-Hydroxy Benzoic Acid,144,0.031
+Clear_Creek,Water,3,0.1,L-Phenylalanine,24,0.014
+Clear_Creek,Water,3,0.1,L-Phenylalanine,48,0.251
+Clear_Creek,Water,3,0.1,L-Phenylalanine,144,0.26
+Clear_Creek,Water,3,0.1,Tween 80,24,0.062
+Clear_Creek,Water,3,0.1,Tween 80,48,0.253
+Clear_Creek,Water,3,0.1,Tween 80,144,0.876
+Clear_Creek,Water,3,0.1,D-Mannitol,24,0.123
+Clear_Creek,Water,3,0.1,D-Mannitol,48,0.469
+Clear_Creek,Water,3,0.1,D-Mannitol,144,0.686
+Clear_Creek,Water,3,0.1,4-Hydroxy Benzoic Acid,24,0.008
+Clear_Creek,Water,3,0.1,4-Hydroxy Benzoic Acid,48,0.23
+Clear_Creek,Water,3,0.1,4-Hydroxy Benzoic Acid,144,0.463
+Clear_Creek,Water,3,0.1,L-Serine,24,0.014
+Clear_Creek,Water,3,0.1,L-Serine,48,0.249
+Clear_Creek,Water,3,0.1,L-Serine,144,0.391
+Clear_Creek,Water,3,0.1,α-Cyclodextrin,24,0.029
+Clear_Creek,Water,3,0.1,α-Cyclodextrin,48,0.054
+Clear_Creek,Water,3,0.1,α-Cyclodextrin,144,0.098
+Clear_Creek,Water,3,0.1,N-Acetyl-D-Glucosamine,24,0.019
+Clear_Creek,Water,3,0.1,N-Acetyl-D-Glucosamine,48,0.136
+Clear_Creek,Water,3,0.1,N-Acetyl-D-Glucosamine,144,0.265
+Clear_Creek,Water,3,0.1,γ-Hydroxybutyric Acid,24,0.066
+Clear_Creek,Water,3,0.1,γ-Hydroxybutyric Acid,48,0.261
+Clear_Creek,Water,3,0.1,γ-Hydroxybutyric Acid,144,0.372
+Clear_Creek,Water,3,0.1,L-Threonine,24,0.058
+Clear_Creek,Water,3,0.1,L-Threonine,48,0.325
+Clear_Creek,Water,3,0.1,L-Threonine,144,0.754
+Clear_Creek,Water,3,0.1,Glycogen,24,0.885
+Clear_Creek,Water,3,0.1,Glycogen,48,0.89
+Clear_Creek,Water,3,0.1,Glycogen,144,1.035
+Clear_Creek,Water,3,0.1,D-Glucosaminic Acid,24,0.009
+Clear_Creek,Water,3,0.1,D-Glucosaminic Acid,48,0.191
+Clear_Creek,Water,3,0.1,D-Glucosaminic Acid,144,0.051
+Clear_Creek,Water,3,0.1,Itaconic Acid,24,0.037
+Clear_Creek,Water,3,0.1,Itaconic Acid,48,0.546
+Clear_Creek,Water,3,0.1,Itaconic Acid,144,0.802
+Clear_Creek,Water,3,0.1,Glycyl-L-Glutamic Acid,24,0.014
+Clear_Creek,Water,3,0.1,Glycyl-L-Glutamic Acid,48,0.339
+Clear_Creek,Water,3,0.1,Glycyl-L-Glutamic Acid,144,1.009
+Clear_Creek,Water,3,0.1,D-Cellobiose,24,0.177
+Clear_Creek,Water,3,0.1,D-Cellobiose,48,1.248
+Clear_Creek,Water,3,0.1,D-Cellobiose,144,2.145
+Clear_Creek,Water,3,0.1,Glucose-1-Phosphate,24,0.033
+Clear_Creek,Water,3,0.1,Glucose-1-Phosphate,48,0.481
+Clear_Creek,Water,3,0.1,Glucose-1-Phosphate,144,1.197
+Clear_Creek,Water,3,0.1,α-Ketobutyric Acid,24,0.025
+Clear_Creek,Water,3,0.1,α-Ketobutyric Acid,48,0.072
+Clear_Creek,Water,3,0.1,α-Ketobutyric Acid,144,0.1
+Clear_Creek,Water,3,0.1,Phenylethylamine,24,0.04
+Clear_Creek,Water,3,0.1,Phenylethylamine,48,0.031
+Clear_Creek,Water,3,0.1,Phenylethylamine,144,0.046
+Clear_Creek,Water,3,0.1,α-D-Lactose,24,0.01
+Clear_Creek,Water,3,0.1,α-D-Lactose,48,0.045
+Clear_Creek,Water,3,0.1,α-D-Lactose,144,0.319
+Clear_Creek,Water,3,0.1,D.L -α-Glycerol Phosphate,24,0
+Clear_Creek,Water,3,0.1,D.L -α-Glycerol Phosphate,48,0.005
+Clear_Creek,Water,3,0.1,D.L -α-Glycerol Phosphate,144,0.065
+Clear_Creek,Water,3,0.1,D-Mallic Acid,24,0.041
+Clear_Creek,Water,3,0.1,D-Mallic Acid,48,0.264
+Clear_Creek,Water,3,0.1,D-Mallic Acid,144,0.153
+Clear_Creek,Water,3,0.1,Putrescine,24,0.012
+Clear_Creek,Water,3,0.1,Putrescine,48,0.017
+Clear_Creek,Water,3,0.1,Putrescine,144,0.054
+Soil_1,Soil,1,0.001,Water,24,0
+Soil_1,Soil,1,0.001,Water,48,0
+Soil_1,Soil,1,0.001,Water,144,0
+Soil_1,Soil,1,0.001,β-Methyl-D- Glucoside,24,0.01
+Soil_1,Soil,1,0.001,β-Methyl-D- Glucoside,48,0.813
+Soil_1,Soil,1,0.001,β-Methyl-D- Glucoside,144,0.75
+Soil_1,Soil,1,0.001,D-Galactonic Acid γ-Lactone,24,0.07
+Soil_1,Soil,1,0.001,D-Galactonic Acid γ-Lactone,48,0.708
+Soil_1,Soil,1,0.001,D-Galactonic Acid γ-Lactone,144,0.454
+Soil_1,Soil,1,0.001,L-Arginine,24,0.003
+Soil_1,Soil,1,0.001,L-Arginine,48,0.001
+Soil_1,Soil,1,0.001,L-Arginine,144,1.421
+Soil_1,Soil,1,0.001,Pyruvic Acid Methyl Ester,24,0
+Soil_1,Soil,1,0.001,Pyruvic Acid Methyl Ester,48,0.313
+Soil_1,Soil,1,0.001,Pyruvic Acid Methyl Ester,144,0.904
+Soil_1,Soil,1,0.001,D-Xylose,24,0
+Soil_1,Soil,1,0.001,D-Xylose,48,0
+Soil_1,Soil,1,0.001,D-Xylose,144,2.182
+Soil_1,Soil,1,0.001,D-Galacturonic Acid,24,0.016
+Soil_1,Soil,1,0.001,D-Galacturonic Acid,48,1.883
+Soil_1,Soil,1,0.001,D-Galacturonic Acid,144,1.905
+Soil_1,Soil,1,0.001,L-Asparganine,24,0.037
+Soil_1,Soil,1,0.001,L-Asparganine,48,0.868
+Soil_1,Soil,1,0.001,L-Asparganine,144,2.217
+Soil_1,Soil,1,0.001,Tween 40,24,0
+Soil_1,Soil,1,0.001,Tween 40,48,0.226
+Soil_1,Soil,1,0.001,Tween 40,144,2.304
+Soil_1,Soil,1,0.001,i-Erythitol,24,0.001
+Soil_1,Soil,1,0.001,i-Erythitol,48,0
+Soil_1,Soil,1,0.001,i-Erythitol,144,2.008
+Soil_1,Soil,1,0.001,2-Hydroxy Benzoic Acid,24,0.099
+Soil_1,Soil,1,0.001,2-Hydroxy Benzoic Acid,48,0
+Soil_1,Soil,1,0.001,2-Hydroxy Benzoic Acid,144,1.809
+Soil_1,Soil,1,0.001,L-Phenylalanine,24,0.153
+Soil_1,Soil,1,0.001,L-Phenylalanine,48,0.228
+Soil_1,Soil,1,0.001,L-Phenylalanine,144,2.525
+Soil_1,Soil,1,0.001,Tween 80,24,0.138
+Soil_1,Soil,1,0.001,Tween 80,48,0.028
+Soil_1,Soil,1,0.001,Tween 80,144,1.396
+Soil_1,Soil,1,0.001,D-Mannitol,24,0.032
+Soil_1,Soil,1,0.001,D-Mannitol,48,0.7
+Soil_1,Soil,1,0.001,D-Mannitol,144,2.864
+Soil_1,Soil,1,0.001,4-Hydroxy Benzoic Acid,24,0.179
+Soil_1,Soil,1,0.001,4-Hydroxy Benzoic Acid,48,0.116
+Soil_1,Soil,1,0.001,4-Hydroxy Benzoic Acid,144,1.936
+Soil_1,Soil,1,0.001,L-Serine,24,0.185
+Soil_1,Soil,1,0.001,L-Serine,48,0.944
+Soil_1,Soil,1,0.001,L-Serine,144,2.082
+Soil_1,Soil,1,0.001,α-Cyclodextrin,24,0
+Soil_1,Soil,1,0.001,α-Cyclodextrin,48,0
+Soil_1,Soil,1,0.001,α-Cyclodextrin,144,1.794
+Soil_1,Soil,1,0.001,N-Acetyl-D-Glucosamine,24,0.179
+Soil_1,Soil,1,0.001,N-Acetyl-D-Glucosamine,48,1.832
+Soil_1,Soil,1,0.001,N-Acetyl-D-Glucosamine,144,2.319
+Soil_1,Soil,1,0.001,γ-Hydroxybutyric Acid,24,0.233
+Soil_1,Soil,1,0.001,γ-Hydroxybutyric Acid,48,0.125
+Soil_1,Soil,1,0.001,γ-Hydroxybutyric Acid,144,0.191
+Soil_1,Soil,1,0.001,L-Threonine,24,0.066
+Soil_1,Soil,1,0.001,L-Threonine,48,0
+Soil_1,Soil,1,0.001,L-Threonine,144,2.413
+Soil_1,Soil,1,0.001,Glycogen,24,0.026
+Soil_1,Soil,1,0.001,Glycogen,48,0
+Soil_1,Soil,1,0.001,Glycogen,144,0.458
+Soil_1,Soil,1,0.001,D-Glucosaminic Acid,24,0
+Soil_1,Soil,1,0.001,D-Glucosaminic Acid,48,0.013
+Soil_1,Soil,1,0.001,D-Glucosaminic Acid,144,1.666
+Soil_1,Soil,1,0.001,Itaconic Acid,24,0.059
+Soil_1,Soil,1,0.001,Itaconic Acid,48,0
+Soil_1,Soil,1,0.001,Itaconic Acid,144,2.138
+Soil_1,Soil,1,0.001,Glycyl-L-Glutamic Acid,24,0.277
+Soil_1,Soil,1,0.001,Glycyl-L-Glutamic Acid,48,0.175
+Soil_1,Soil,1,0.001,Glycyl-L-Glutamic Acid,144,2.5
+Soil_1,Soil,1,0.001,D-Cellobiose,24,0.002
+Soil_1,Soil,1,0.001,D-Cellobiose,48,1.183
+Soil_1,Soil,1,0.001,D-Cellobiose,144,1.232
+Soil_1,Soil,1,0.001,Glucose-1-Phosphate,24,0.086
+Soil_1,Soil,1,0.001,Glucose-1-Phosphate,48,1.035
+Soil_1,Soil,1,0.001,Glucose-1-Phosphate,144,1.555
+Soil_1,Soil,1,0.001,α-Ketobutyric Acid,24,0.004
+Soil_1,Soil,1,0.001,α-Ketobutyric Acid,48,0.089
+Soil_1,Soil,1,0.001,α-Ketobutyric Acid,144,2.224
+Soil_1,Soil,1,0.001,Phenylethylamine,24,0.031
+Soil_1,Soil,1,0.001,Phenylethylamine,48,0
+Soil_1,Soil,1,0.001,Phenylethylamine,144,1.871
+Soil_1,Soil,1,0.001,α-D-Lactose,24,0
+Soil_1,Soil,1,0.001,α-D-Lactose,48,0
+Soil_1,Soil,1,0.001,α-D-Lactose,144,1.462
+Soil_1,Soil,1,0.001,D.L -α-Glycerol Phosphate,24,0.005
+Soil_1,Soil,1,0.001,D.L -α-Glycerol Phosphate,48,0
+Soil_1,Soil,1,0.001,D.L -α-Glycerol Phosphate,144,0.286
+Soil_1,Soil,1,0.001,D-Mallic Acid,24,0
+Soil_1,Soil,1,0.001,D-Mallic Acid,48,0
+Soil_1,Soil,1,0.001,D-Mallic Acid,144,0.225
+Soil_1,Soil,1,0.001,Putrescine,24,0
+Soil_1,Soil,1,0.001,Putrescine,48,0.075
+Soil_1,Soil,1,0.001,Putrescine,144,0.365
+Soil_1,Soil,1,0.01,Water,24,0
+Soil_1,Soil,1,0.01,Water,48,0
+Soil_1,Soil,1,0.01,Water,144,0
+Soil_1,Soil,1,0.01,β-Methyl-D- Glucoside,24,0
+Soil_1,Soil,1,0.01,β-Methyl-D- Glucoside,48,0.764
+Soil_1,Soil,1,0.01,β-Methyl-D- Glucoside,144,0.517
+Soil_1,Soil,1,0.01,D-Galactonic Acid γ-Lactone,24,0
+Soil_1,Soil,1,0.01,D-Galactonic Acid γ-Lactone,48,0.504
+Soil_1,Soil,1,0.01,D-Galactonic Acid γ-Lactone,144,0.778
+Soil_1,Soil,1,0.01,L-Arginine,24,0
+Soil_1,Soil,1,0.01,L-Arginine,48,0.371
+Soil_1,Soil,1,0.01,L-Arginine,144,0.347
+Soil_1,Soil,1,0.01,Pyruvic Acid Methyl Ester,24,0.053
+Soil_1,Soil,1,0.01,Pyruvic Acid Methyl Ester,48,0
+Soil_1,Soil,1,0.01,Pyruvic Acid Methyl Ester,144,1.076
+Soil_1,Soil,1,0.01,D-Xylose,24,0.021
+Soil_1,Soil,1,0.01,D-Xylose,48,0.024
+Soil_1,Soil,1,0.01,D-Xylose,144,1.815
+Soil_1,Soil,1,0.01,D-Galacturonic Acid,24,0.076
+Soil_1,Soil,1,0.01,D-Galacturonic Acid,48,1.509
+Soil_1,Soil,1,0.01,D-Galacturonic Acid,144,1.742
+Soil_1,Soil,1,0.01,L-Asparganine,24,0.001
+Soil_1,Soil,1,0.01,L-Asparganine,48,1.704
+Soil_1,Soil,1,0.01,L-Asparganine,144,1.783
+Soil_1,Soil,1,0.01,Tween 40,24,0.205
+Soil_1,Soil,1,0.01,Tween 40,48,0.307
+Soil_1,Soil,1,0.01,Tween 40,144,1.681
+Soil_1,Soil,1,0.01,i-Erythitol,24,0.044
+Soil_1,Soil,1,0.01,i-Erythitol,48,0.027
+Soil_1,Soil,1,0.01,i-Erythitol,144,0.905
+Soil_1,Soil,1,0.01,2-Hydroxy Benzoic Acid,24,0
+Soil_1,Soil,1,0.01,2-Hydroxy Benzoic Acid,48,0
+Soil_1,Soil,1,0.01,2-Hydroxy Benzoic Acid,144,0.565
+Soil_1,Soil,1,0.01,L-Phenylalanine,24,0.154
+Soil_1,Soil,1,0.01,L-Phenylalanine,48,0
+Soil_1,Soil,1,0.01,L-Phenylalanine,144,1.994
+Soil_1,Soil,1,0.01,Tween 80,24,0.114
+Soil_1,Soil,1,0.01,Tween 80,48,0.161
+Soil_1,Soil,1,0.01,Tween 80,144,1.357
+Soil_1,Soil,1,0.01,D-Mannitol,24,0.03
+Soil_1,Soil,1,0.01,D-Mannitol,48,1.242
+Soil_1,Soil,1,0.01,D-Mannitol,144,2.223
+Soil_1,Soil,1,0.01,4-Hydroxy Benzoic Acid,24,0.1
+Soil_1,Soil,1,0.01,4-Hydroxy Benzoic Acid,48,0.738
+Soil_1,Soil,1,0.01,4-Hydroxy Benzoic Acid,144,1.736
+Soil_1,Soil,1,0.01,L-Serine,24,0.138
+Soil_1,Soil,1,0.01,L-Serine,48,0.719
+Soil_1,Soil,1,0.01,L-Serine,144,1.608
+Soil_1,Soil,1,0.01,α-Cyclodextrin,24,0.184
+Soil_1,Soil,1,0.01,α-Cyclodextrin,48,0.143
+Soil_1,Soil,1,0.01,α-Cyclodextrin,144,1.632
+Soil_1,Soil,1,0.01,N-Acetyl-D-Glucosamine,24,0.146
+Soil_1,Soil,1,0.01,N-Acetyl-D-Glucosamine,48,1.763
+Soil_1,Soil,1,0.01,N-Acetyl-D-Glucosamine,144,1.999
+Soil_1,Soil,1,0.01,γ-Hydroxybutyric Acid,24,0.216
+Soil_1,Soil,1,0.01,γ-Hydroxybutyric Acid,48,0.258
+Soil_1,Soil,1,0.01,γ-Hydroxybutyric Acid,144,0.24
+Soil_1,Soil,1,0.01,L-Threonine,24,0.209
+Soil_1,Soil,1,0.01,L-Threonine,48,0
+Soil_1,Soil,1,0.01,L-Threonine,144,1.268
+Soil_1,Soil,1,0.01,Glycogen,24,0.315
+Soil_1,Soil,1,0.01,Glycogen,48,0.269
+Soil_1,Soil,1,0.01,Glycogen,144,1.954
+Soil_1,Soil,1,0.01,D-Glucosaminic Acid,24,0.187
+Soil_1,Soil,1,0.01,D-Glucosaminic Acid,48,0.029
+Soil_1,Soil,1,0.01,D-Glucosaminic Acid,144,1.819
+Soil_1,Soil,1,0.01,Itaconic Acid,24,0.185
+Soil_1,Soil,1,0.01,Itaconic Acid,48,0.795
+Soil_1,Soil,1,0.01,Itaconic Acid,144,1.704
+Soil_1,Soil,1,0.01,Glycyl-L-Glutamic Acid,24,0.227
+Soil_1,Soil,1,0.01,Glycyl-L-Glutamic Acid,48,0
+Soil_1,Soil,1,0.01,Glycyl-L-Glutamic Acid,144,2.077
+Soil_1,Soil,1,0.01,D-Cellobiose,24,0.155
+Soil_1,Soil,1,0.01,D-Cellobiose,48,1.427
+Soil_1,Soil,1,0.01,D-Cellobiose,144,1.619
+Soil_1,Soil,1,0.01,Glucose-1-Phosphate,24,0.031
+Soil_1,Soil,1,0.01,Glucose-1-Phosphate,48,0
+Soil_1,Soil,1,0.01,Glucose-1-Phosphate,144,0.937
+Soil_1,Soil,1,0.01,α-Ketobutyric Acid,24,0.041
+Soil_1,Soil,1,0.01,α-Ketobutyric Acid,48,0
+Soil_1,Soil,1,0.01,α-Ketobutyric Acid,144,1.353
+Soil_1,Soil,1,0.01,Phenylethylamine,24,0.038
+Soil_1,Soil,1,0.01,Phenylethylamine,48,0
+Soil_1,Soil,1,0.01,Phenylethylamine,144,2.278
+Soil_1,Soil,1,0.01,α-D-Lactose,24,0.003
+Soil_1,Soil,1,0.01,α-D-Lactose,48,0
+Soil_1,Soil,1,0.01,α-D-Lactose,144,1.626
+Soil_1,Soil,1,0.01,D.L -α-Glycerol Phosphate,24,0.02
+Soil_1,Soil,1,0.01,D.L -α-Glycerol Phosphate,48,0.07
+Soil_1,Soil,1,0.01,D.L -α-Glycerol Phosphate,144,0.565
+Soil_1,Soil,1,0.01,D-Mallic Acid,24,0.005
+Soil_1,Soil,1,0.01,D-Mallic Acid,48,0.612
+Soil_1,Soil,1,0.01,D-Mallic Acid,144,0.672
+Soil_1,Soil,1,0.01,Putrescine,24,0.006
+Soil_1,Soil,1,0.01,Putrescine,48,1.011
+Soil_1,Soil,1,0.01,Putrescine,144,0.749
+Soil_1,Soil,1,0.1,Water,24,0
+Soil_1,Soil,1,0.1,Water,48,0
+Soil_1,Soil,1,0.1,Water,144,0
+Soil_1,Soil,1,0.1,β-Methyl-D- Glucoside,24,0.004
+Soil_1,Soil,1,0.1,β-Methyl-D- Glucoside,48,0.092
+Soil_1,Soil,1,0.1,β-Methyl-D- Glucoside,144,0.052
+Soil_1,Soil,1,0.1,D-Galactonic Acid γ-Lactone,24,0.008
+Soil_1,Soil,1,0.1,D-Galactonic Acid γ-Lactone,48,0.194
+Soil_1,Soil,1,0.1,D-Galactonic Acid γ-Lactone,144,0.174
+Soil_1,Soil,1,0.1,L-Arginine,24,0.003
+Soil_1,Soil,1,0.1,L-Arginine,48,0.609
+Soil_1,Soil,1,0.1,L-Arginine,144,0.396
+Soil_1,Soil,1,0.1,Pyruvic Acid Methyl Ester,24,0.002
+Soil_1,Soil,1,0.1,Pyruvic Acid Methyl Ester,48,0.537
+Soil_1,Soil,1,0.1,Pyruvic Acid Methyl Ester,144,0.656
+Soil_1,Soil,1,0.1,D-Xylose,24,0.011
+Soil_1,Soil,1,0.1,D-Xylose,48,0.251
+Soil_1,Soil,1,0.1,D-Xylose,144,0.36
+Soil_1,Soil,1,0.1,D-Galacturonic Acid,24,0.047
+Soil_1,Soil,1,0.1,D-Galacturonic Acid,48,0.494
+Soil_1,Soil,1,0.1,D-Galacturonic Acid,144,0.161
+Soil_1,Soil,1,0.1,L-Asparganine,24,0.001
+Soil_1,Soil,1,0.1,L-Asparganine,48,0.851
+Soil_1,Soil,1,0.1,L-Asparganine,144,0.877
+Soil_1,Soil,1,0.1,Tween 40,24,0.123
+Soil_1,Soil,1,0.1,Tween 40,48,0
+Soil_1,Soil,1,0.1,Tween 40,144,0.829
+Soil_1,Soil,1,0.1,i-Erythitol,24,0.007
+Soil_1,Soil,1,0.1,i-Erythitol,48,0.106
+Soil_1,Soil,1,0.1,i-Erythitol,144,0.904
+Soil_1,Soil,1,0.1,2-Hydroxy Benzoic Acid,24,0
+Soil_1,Soil,1,0.1,2-Hydroxy Benzoic Acid,48,0
+Soil_1,Soil,1,0.1,2-Hydroxy Benzoic Acid,144,0
+Soil_1,Soil,1,0.1,L-Phenylalanine,24,0
+Soil_1,Soil,1,0.1,L-Phenylalanine,48,0
+Soil_1,Soil,1,0.1,L-Phenylalanine,144,0.31
+Soil_1,Soil,1,0.1,Tween 80,24,0.476
+Soil_1,Soil,1,0.1,Tween 80,48,0.342
+Soil_1,Soil,1,0.1,Tween 80,144,1.134
+Soil_1,Soil,1,0.1,D-Mannitol,24,0.023
+Soil_1,Soil,1,0.1,D-Mannitol,48,0.565
+Soil_1,Soil,1,0.1,D-Mannitol,144,1.423
+Soil_1,Soil,1,0.1,4-Hydroxy Benzoic Acid,24,0.018
+Soil_1,Soil,1,0.1,4-Hydroxy Benzoic Acid,48,0.288
+Soil_1,Soil,1,0.1,4-Hydroxy Benzoic Acid,144,0.845
+Soil_1,Soil,1,0.1,L-Serine,24,0.003
+Soil_1,Soil,1,0.1,L-Serine,48,0
+Soil_1,Soil,1,0.1,L-Serine,144,0.323
+Soil_1,Soil,1,0.1,α-Cyclodextrin,24,0.138
+Soil_1,Soil,1,0.1,α-Cyclodextrin,48,0.266
+Soil_1,Soil,1,0.1,α-Cyclodextrin,144,0.637
+Soil_1,Soil,1,0.1,N-Acetyl-D-Glucosamine,24,0.094
+Soil_1,Soil,1,0.1,N-Acetyl-D-Glucosamine,48,0.677
+Soil_1,Soil,1,0.1,N-Acetyl-D-Glucosamine,144,1.384
+Soil_1,Soil,1,0.1,γ-Hydroxybutyric Acid,24,0.035
+Soil_1,Soil,1,0.1,γ-Hydroxybutyric Acid,48,0.129
+Soil_1,Soil,1,0.1,γ-Hydroxybutyric Acid,144,0.13
+Soil_1,Soil,1,0.1,L-Threonine,24,0.001
+Soil_1,Soil,1,0.1,L-Threonine,48,0
+Soil_1,Soil,1,0.1,L-Threonine,144,0.766
+Soil_1,Soil,1,0.1,Glycogen,24,0.184
+Soil_1,Soil,1,0.1,Glycogen,48,0.41
+Soil_1,Soil,1,0.1,Glycogen,144,1.117
+Soil_1,Soil,1,0.1,D-Glucosaminic Acid,24,0.076
+Soil_1,Soil,1,0.1,D-Glucosaminic Acid,48,0.331
+Soil_1,Soil,1,0.1,D-Glucosaminic Acid,144,1.141
+Soil_1,Soil,1,0.1,Itaconic Acid,24,0.029
+Soil_1,Soil,1,0.1,Itaconic Acid,48,0.615
+Soil_1,Soil,1,0.1,Itaconic Acid,144,1.584
+Soil_1,Soil,1,0.1,Glycyl-L-Glutamic Acid,24,0.001
+Soil_1,Soil,1,0.1,Glycyl-L-Glutamic Acid,48,0
+Soil_1,Soil,1,0.1,Glycyl-L-Glutamic Acid,144,0.083
+Soil_1,Soil,1,0.1,D-Cellobiose,24,0.109
+Soil_1,Soil,1,0.1,D-Cellobiose,48,0.934
+Soil_1,Soil,1,0.1,D-Cellobiose,144,1.628
+Soil_1,Soil,1,0.1,Glucose-1-Phosphate,24,0.052
+Soil_1,Soil,1,0.1,Glucose-1-Phosphate,48,0.298
+Soil_1,Soil,1,0.1,Glucose-1-Phosphate,144,0.571
+Soil_1,Soil,1,0.1,α-Ketobutyric Acid,24,0.038
+Soil_1,Soil,1,0.1,α-Ketobutyric Acid,48,0
+Soil_1,Soil,1,0.1,α-Ketobutyric Acid,144,0.483
+Soil_1,Soil,1,0.1,Phenylethylamine,24,0.003
+Soil_1,Soil,1,0.1,Phenylethylamine,48,0
+Soil_1,Soil,1,0.1,Phenylethylamine,144,0
+Soil_1,Soil,1,0.1,α-D-Lactose,24,0.009
+Soil_1,Soil,1,0.1,α-D-Lactose,48,0.192
+Soil_1,Soil,1,0.1,α-D-Lactose,144,1.026
+Soil_1,Soil,1,0.1,D.L -α-Glycerol Phosphate,24,0.01
+Soil_1,Soil,1,0.1,D.L -α-Glycerol Phosphate,48,0
+Soil_1,Soil,1,0.1,D.L -α-Glycerol Phosphate,144,0
+Soil_1,Soil,1,0.1,D-Mallic Acid,24,0.002
+Soil_1,Soil,1,0.1,D-Mallic Acid,48,0.086
+Soil_1,Soil,1,0.1,D-Mallic Acid,144,0
+Soil_1,Soil,1,0.1,Putrescine,24,0.025
+Soil_1,Soil,1,0.1,Putrescine,48,0
+Soil_1,Soil,1,0.1,Putrescine,144,0
+Soil_1,Soil,2,0.001,Water,24,0
+Soil_1,Soil,2,0.001,Water,48,0
+Soil_1,Soil,2,0.001,Water,144,0
+Soil_1,Soil,2,0.001,β-Methyl-D- Glucoside,24,0.004
+Soil_1,Soil,2,0.001,β-Methyl-D- Glucoside,48,1.638
+Soil_1,Soil,2,0.001,β-Methyl-D- Glucoside,144,1.227
+Soil_1,Soil,2,0.001,D-Galactonic Acid γ-Lactone,24,0.008
+Soil_1,Soil,2,0.001,D-Galactonic Acid γ-Lactone,48,1.133
+Soil_1,Soil,2,0.001,D-Galactonic Acid γ-Lactone,144,1.108
+Soil_1,Soil,2,0.001,L-Arginine,24,0.003
+Soil_1,Soil,2,0.001,L-Arginine,48,0.14
+Soil_1,Soil,2,0.001,L-Arginine,144,1.33
+Soil_1,Soil,2,0.001,Pyruvic Acid Methyl Ester,24,0.002
+Soil_1,Soil,2,0.001,Pyruvic Acid Methyl Ester,48,1.642
+Soil_1,Soil,2,0.001,Pyruvic Acid Methyl Ester,144,2.888
+Soil_1,Soil,2,0.001,D-Xylose,24,0.011
+Soil_1,Soil,2,0.001,D-Xylose,48,0.237
+Soil_1,Soil,2,0.001,D-Xylose,144,0.378
+Soil_1,Soil,2,0.001,D-Galacturonic Acid,24,0.047
+Soil_1,Soil,2,0.001,D-Galacturonic Acid,48,1.488
+Soil_1,Soil,2,0.001,D-Galacturonic Acid,144,1.247
+Soil_1,Soil,2,0.001,L-Asparganine,24,0.001
+Soil_1,Soil,2,0.001,L-Asparganine,48,2.467
+Soil_1,Soil,2,0.001,L-Asparganine,144,2.618
+Soil_1,Soil,2,0.001,Tween 40,24,0.123
+Soil_1,Soil,2,0.001,Tween 40,48,0.352
+Soil_1,Soil,2,0.001,Tween 40,144,2.685
+Soil_1,Soil,2,0.001,i-Erythitol,24,0.007
+Soil_1,Soil,2,0.001,i-Erythitol,48,0.176
+Soil_1,Soil,2,0.001,i-Erythitol,144,1.283
+Soil_1,Soil,2,0.001,2-Hydroxy Benzoic Acid,24,0
+Soil_1,Soil,2,0.001,2-Hydroxy Benzoic Acid,48,0.013
+Soil_1,Soil,2,0.001,2-Hydroxy Benzoic Acid,144,2.649
+Soil_1,Soil,2,0.001,L-Phenylalanine,24,0
+Soil_1,Soil,2,0.001,L-Phenylalanine,48,0.168
+Soil_1,Soil,2,0.001,L-Phenylalanine,144,2.231
+Soil_1,Soil,2,0.001,Tween 80,24,0.476
+Soil_1,Soil,2,0.001,Tween 80,48,0.367
+Soil_1,Soil,2,0.001,Tween 80,144,1.749
+Soil_1,Soil,2,0.001,D-Mannitol,24,0.023
+Soil_1,Soil,2,0.001,D-Mannitol,48,2.169
+Soil_1,Soil,2,0.001,D-Mannitol,144,2.628
+Soil_1,Soil,2,0.001,4-Hydroxy Benzoic Acid,24,0.018
+Soil_1,Soil,2,0.001,4-Hydroxy Benzoic Acid,48,1.594
+Soil_1,Soil,2,0.001,4-Hydroxy Benzoic Acid,144,2.218
+Soil_1,Soil,2,0.001,L-Serine,24,0.003
+Soil_1,Soil,2,0.001,L-Serine,48,0.934
+Soil_1,Soil,2,0.001,L-Serine,144,1.894
+Soil_1,Soil,2,0.001,α-Cyclodextrin,24,0.138
+Soil_1,Soil,2,0.001,α-Cyclodextrin,48,0
+Soil_1,Soil,2,0.001,α-Cyclodextrin,144,2.513
+Soil_1,Soil,2,0.001,N-Acetyl-D-Glucosamine,24,0.094
+Soil_1,Soil,2,0.001,N-Acetyl-D-Glucosamine,48,2.203
+Soil_1,Soil,2,0.001,N-Acetyl-D-Glucosamine,144,2.406
+Soil_1,Soil,2,0.001,γ-Hydroxybutyric Acid,24,0.035
+Soil_1,Soil,2,0.001,γ-Hydroxybutyric Acid,48,0.703
+Soil_1,Soil,2,0.001,γ-Hydroxybutyric Acid,144,0.678
+Soil_1,Soil,2,0.001,L-Threonine,24,0.001
+Soil_1,Soil,2,0.001,L-Threonine,48,0.006
+Soil_1,Soil,2,0.001,L-Threonine,144,2.204
+Soil_1,Soil,2,0.001,Glycogen,24,0.184
+Soil_1,Soil,2,0.001,Glycogen,48,0.443
+Soil_1,Soil,2,0.001,Glycogen,144,2.596
+Soil_1,Soil,2,0.001,D-Glucosaminic Acid,24,0.076
+Soil_1,Soil,2,0.001,D-Glucosaminic Acid,48,1.411
+Soil_1,Soil,2,0.001,D-Glucosaminic Acid,144,1.751
+Soil_1,Soil,2,0.001,Itaconic Acid,24,0.029
+Soil_1,Soil,2,0.001,Itaconic Acid,48,0.158
+Soil_1,Soil,2,0.001,Itaconic Acid,144,2.073
+Soil_1,Soil,2,0.001,Glycyl-L-Glutamic Acid,24,0.001
+Soil_1,Soil,2,0.001,Glycyl-L-Glutamic Acid,48,0
+Soil_1,Soil,2,0.001,Glycyl-L-Glutamic Acid,144,1.941
+Soil_1,Soil,2,0.001,D-Cellobiose,24,0.109
+Soil_1,Soil,2,0.001,D-Cellobiose,48,2.5
+Soil_1,Soil,2,0.001,D-Cellobiose,144,2.432
+Soil_1,Soil,2,0.001,Glucose-1-Phosphate,24,0.052
+Soil_1,Soil,2,0.001,Glucose-1-Phosphate,48,1.39
+Soil_1,Soil,2,0.001,Glucose-1-Phosphate,144,1.462
+Soil_1,Soil,2,0.001,α-Ketobutyric Acid,24,0.038
+Soil_1,Soil,2,0.001,α-Ketobutyric Acid,48,0.109
+Soil_1,Soil,2,0.001,α-Ketobutyric Acid,144,0.95
+Soil_1,Soil,2,0.001,Phenylethylamine,24,0.003
+Soil_1,Soil,2,0.001,Phenylethylamine,48,0.138
+Soil_1,Soil,2,0.001,Phenylethylamine,144,0.131
+Soil_1,Soil,2,0.001,α-D-Lactose,24,0.009
+Soil_1,Soil,2,0.001,α-D-Lactose,48,0
+Soil_1,Soil,2,0.001,α-D-Lactose,144,2.343
+Soil_1,Soil,2,0.001,D.L -α-Glycerol Phosphate,24,0.01
+Soil_1,Soil,2,0.001,D.L -α-Glycerol Phosphate,48,0.074
+Soil_1,Soil,2,0.001,D.L -α-Glycerol Phosphate,144,0.036
+Soil_1,Soil,2,0.001,D-Mallic Acid,24,0.002
+Soil_1,Soil,2,0.001,D-Mallic Acid,48,0
+Soil_1,Soil,2,0.001,D-Mallic Acid,144,0.692
+Soil_1,Soil,2,0.001,Putrescine,24,0.025
+Soil_1,Soil,2,0.001,Putrescine,48,0.599
+Soil_1,Soil,2,0.001,Putrescine,144,0.538
+Soil_1,Soil,2,0.01,Water,24,0
+Soil_1,Soil,2,0.01,Water,48,0
+Soil_1,Soil,2,0.01,Water,144,0
+Soil_1,Soil,2,0.01,β-Methyl-D- Glucoside,24,0
+Soil_1,Soil,2,0.01,β-Methyl-D- Glucoside,48,1.06
+Soil_1,Soil,2,0.01,β-Methyl-D- Glucoside,144,1.059
+Soil_1,Soil,2,0.01,D-Galactonic Acid γ-Lactone,24,0
+Soil_1,Soil,2,0.01,D-Galactonic Acid γ-Lactone,48,0.825
+Soil_1,Soil,2,0.01,D-Galactonic Acid γ-Lactone,144,0.996
+Soil_1,Soil,2,0.01,L-Arginine,24,0
+Soil_1,Soil,2,0.01,L-Arginine,48,1.348
+Soil_1,Soil,2,0.01,L-Arginine,144,1.65
+Soil_1,Soil,2,0.01,Pyruvic Acid Methyl Ester,24,0.053
+Soil_1,Soil,2,0.01,Pyruvic Acid Methyl Ester,48,1.473
+Soil_1,Soil,2,0.01,Pyruvic Acid Methyl Ester,144,1.876
+Soil_1,Soil,2,0.01,D-Xylose,24,0.021
+Soil_1,Soil,2,0.01,D-Xylose,48,1.437
+Soil_1,Soil,2,0.01,D-Xylose,144,1.895
+Soil_1,Soil,2,0.01,D-Galacturonic Acid,24,0.076
+Soil_1,Soil,2,0.01,D-Galacturonic Acid,48,1.186
+Soil_1,Soil,2,0.01,D-Galacturonic Acid,144,1.459
+Soil_1,Soil,2,0.01,L-Asparganine,24,0.001
+Soil_1,Soil,2,0.01,L-Asparganine,48,2.174
+Soil_1,Soil,2,0.01,L-Asparganine,144,2.139
+Soil_1,Soil,2,0.01,Tween 40,24,0.205
+Soil_1,Soil,2,0.01,Tween 40,48,0.811
+Soil_1,Soil,2,0.01,Tween 40,144,2.318
+Soil_1,Soil,2,0.01,i-Erythitol,24,0.044
+Soil_1,Soil,2,0.01,i-Erythitol,48,0.16
+Soil_1,Soil,2,0.01,i-Erythitol,144,1.886
+Soil_1,Soil,2,0.01,2-Hydroxy Benzoic Acid,24,0
+Soil_1,Soil,2,0.01,2-Hydroxy Benzoic Acid,48,0.254
+Soil_1,Soil,2,0.01,2-Hydroxy Benzoic Acid,144,2.248
+Soil_1,Soil,2,0.01,L-Phenylalanine,24,0.154
+Soil_1,Soil,2,0.01,L-Phenylalanine,48,0.409
+Soil_1,Soil,2,0.01,L-Phenylalanine,144,2.152
+Soil_1,Soil,2,0.01,Tween 80,24,0.114
+Soil_1,Soil,2,0.01,Tween 80,48,1.237
+Soil_1,Soil,2,0.01,Tween 80,144,1.729
+Soil_1,Soil,2,0.01,D-Mannitol,24,0.03
+Soil_1,Soil,2,0.01,D-Mannitol,48,2.127
+Soil_1,Soil,2,0.01,D-Mannitol,144,2.346
+Soil_1,Soil,2,0.01,4-Hydroxy Benzoic Acid,24,0.1
+Soil_1,Soil,2,0.01,4-Hydroxy Benzoic Acid,48,1.259
+Soil_1,Soil,2,0.01,4-Hydroxy Benzoic Acid,144,2.182
+Soil_1,Soil,2,0.01,L-Serine,24,0.138
+Soil_1,Soil,2,0.01,L-Serine,48,1.819
+Soil_1,Soil,2,0.01,L-Serine,144,2.292
+Soil_1,Soil,2,0.01,α-Cyclodextrin,24,0.184
+Soil_1,Soil,2,0.01,α-Cyclodextrin,48,0
+Soil_1,Soil,2,0.01,α-Cyclodextrin,144,1.885
+Soil_1,Soil,2,0.01,N-Acetyl-D-Glucosamine,24,0.146
+Soil_1,Soil,2,0.01,N-Acetyl-D-Glucosamine,48,1.867
+Soil_1,Soil,2,0.01,N-Acetyl-D-Glucosamine,144,2.29
+Soil_1,Soil,2,0.01,γ-Hydroxybutyric Acid,24,0.216
+Soil_1,Soil,2,0.01,γ-Hydroxybutyric Acid,48,0
+Soil_1,Soil,2,0.01,γ-Hydroxybutyric Acid,144,0.34
+Soil_1,Soil,2,0.01,L-Threonine,24,0.209
+Soil_1,Soil,2,0.01,L-Threonine,48,0.511
+Soil_1,Soil,2,0.01,L-Threonine,144,1.683
+Soil_1,Soil,2,0.01,Glycogen,24,0.315
+Soil_1,Soil,2,0.01,Glycogen,48,0.791
+Soil_1,Soil,2,0.01,Glycogen,144,2.085
+Soil_1,Soil,2,0.01,D-Glucosaminic Acid,24,0.187
+Soil_1,Soil,2,0.01,D-Glucosaminic Acid,48,1.154
+Soil_1,Soil,2,0.01,D-Glucosaminic Acid,144,2.221
+Soil_1,Soil,2,0.01,Itaconic Acid,24,0.185
+Soil_1,Soil,2,0.01,Itaconic Acid,48,1.409
+Soil_1,Soil,2,0.01,Itaconic Acid,144,1.893
+Soil_1,Soil,2,0.01,Glycyl-L-Glutamic Acid,24,0.227
+Soil_1,Soil,2,0.01,Glycyl-L-Glutamic Acid,48,0.738
+Soil_1,Soil,2,0.01,Glycyl-L-Glutamic Acid,144,1.795
+Soil_1,Soil,2,0.01,D-Cellobiose,24,0.155
+Soil_1,Soil,2,0.01,D-Cellobiose,48,2.252
+Soil_1,Soil,2,0.01,D-Cellobiose,144,2.236
+Soil_1,Soil,2,0.01,Glucose-1-Phosphate,24,0.031
+Soil_1,Soil,2,0.01,Glucose-1-Phosphate,48,1.222
+Soil_1,Soil,2,0.01,Glucose-1-Phosphate,144,1.322
+Soil_1,Soil,2,0.01,α-Ketobutyric Acid,24,0.041
+Soil_1,Soil,2,0.01,α-Ketobutyric Acid,48,0.244
+Soil_1,Soil,2,0.01,α-Ketobutyric Acid,144,0.462
+Soil_1,Soil,2,0.01,Phenylethylamine,24,0.038
+Soil_1,Soil,2,0.01,Phenylethylamine,48,0.205
+Soil_1,Soil,2,0.01,Phenylethylamine,144,2.144
+Soil_1,Soil,2,0.01,α-D-Lactose,24,0.003
+Soil_1,Soil,2,0.01,α-D-Lactose,48,0.152
+Soil_1,Soil,2,0.01,α-D-Lactose,144,1.833
+Soil_1,Soil,2,0.01,D.L -α-Glycerol Phosphate,24,0.02
+Soil_1,Soil,2,0.01,D.L -α-Glycerol Phosphate,48,0.144
+Soil_1,Soil,2,0.01,D.L -α-Glycerol Phosphate,144,0.082
+Soil_1,Soil,2,0.01,D-Mallic Acid,24,0.005
+Soil_1,Soil,2,0.01,D-Mallic Acid,48,0.846
+Soil_1,Soil,2,0.01,D-Mallic Acid,144,0.95
+Soil_1,Soil,2,0.01,Putrescine,24,0.006
+Soil_1,Soil,2,0.01,Putrescine,48,0.673
+Soil_1,Soil,2,0.01,Putrescine,144,0.81
+Soil_1,Soil,2,0.1,Water,24,0
+Soil_1,Soil,2,0.1,Water,48,0
+Soil_1,Soil,2,0.1,Water,144,0
+Soil_1,Soil,2,0.1,β-Methyl-D- Glucoside,24,0.01
+Soil_1,Soil,2,0.1,β-Methyl-D- Glucoside,48,0.418
+Soil_1,Soil,2,0.1,β-Methyl-D- Glucoside,144,0.545
+Soil_1,Soil,2,0.1,D-Galactonic Acid γ-Lactone,24,0.07
+Soil_1,Soil,2,0.1,D-Galactonic Acid γ-Lactone,48,0.379
+Soil_1,Soil,2,0.1,D-Galactonic Acid γ-Lactone,144,0.674
+Soil_1,Soil,2,0.1,L-Arginine,24,0.003
+Soil_1,Soil,2,0.1,L-Arginine,48,0.825
+Soil_1,Soil,2,0.1,L-Arginine,144,0.981
+Soil_1,Soil,2,0.1,Pyruvic Acid Methyl Ester,24,0
+Soil_1,Soil,2,0.1,Pyruvic Acid Methyl Ester,48,0.511
+Soil_1,Soil,2,0.1,Pyruvic Acid Methyl Ester,144,0.785
+Soil_1,Soil,2,0.1,D-Xylose,24,0
+Soil_1,Soil,2,0.1,D-Xylose,48,0.74
+Soil_1,Soil,2,0.1,D-Xylose,144,1.017
+Soil_1,Soil,2,0.1,D-Galacturonic Acid,24,0.016
+Soil_1,Soil,2,0.1,D-Galacturonic Acid,48,0.831
+Soil_1,Soil,2,0.1,D-Galacturonic Acid,144,0.998
+Soil_1,Soil,2,0.1,L-Asparganine,24,0.037
+Soil_1,Soil,2,0.1,L-Asparganine,48,1.084
+Soil_1,Soil,2,0.1,L-Asparganine,144,1.424
+Soil_1,Soil,2,0.1,Tween 40,24,0
+Soil_1,Soil,2,0.1,Tween 40,48,0
+Soil_1,Soil,2,0.1,Tween 40,144,0.651
+Soil_1,Soil,2,0.1,i-Erythitol,24,0.001
+Soil_1,Soil,2,0.1,i-Erythitol,48,0.814
+Soil_1,Soil,2,0.1,i-Erythitol,144,1.082
+Soil_1,Soil,2,0.1,2-Hydroxy Benzoic Acid,24,0.099
+Soil_1,Soil,2,0.1,2-Hydroxy Benzoic Acid,48,0.561
+Soil_1,Soil,2,0.1,2-Hydroxy Benzoic Acid,144,1.312
+Soil_1,Soil,2,0.1,L-Phenylalanine,24,0.153
+Soil_1,Soil,2,0.1,L-Phenylalanine,48,0.936
+Soil_1,Soil,2,0.1,L-Phenylalanine,144,1.24
+Soil_1,Soil,2,0.1,Tween 80,24,0.138
+Soil_1,Soil,2,0.1,Tween 80,48,0.541
+Soil_1,Soil,2,0.1,Tween 80,144,1.257
+Soil_1,Soil,2,0.1,D-Mannitol,24,0.032
+Soil_1,Soil,2,0.1,D-Mannitol,48,0.83
+Soil_1,Soil,2,0.1,D-Mannitol,144,1.35
+Soil_1,Soil,2,0.1,4-Hydroxy Benzoic Acid,24,0.179
+Soil_1,Soil,2,0.1,4-Hydroxy Benzoic Acid,48,0.798
+Soil_1,Soil,2,0.1,4-Hydroxy Benzoic Acid,144,1.256
+Soil_1,Soil,2,0.1,L-Serine,24,0.185
+Soil_1,Soil,2,0.1,L-Serine,48,0.967
+Soil_1,Soil,2,0.1,L-Serine,144,1.433
+Soil_1,Soil,2,0.1,α-Cyclodextrin,24,0
+Soil_1,Soil,2,0.1,α-Cyclodextrin,48,0.522
+Soil_1,Soil,2,0.1,α-Cyclodextrin,144,0.556
+Soil_1,Soil,2,0.1,N-Acetyl-D-Glucosamine,24,0.179
+Soil_1,Soil,2,0.1,N-Acetyl-D-Glucosamine,48,0.837
+Soil_1,Soil,2,0.1,N-Acetyl-D-Glucosamine,144,1.291
+Soil_1,Soil,2,0.1,γ-Hydroxybutyric Acid,24,0.233
+Soil_1,Soil,2,0.1,γ-Hydroxybutyric Acid,48,1.098
+Soil_1,Soil,2,0.1,γ-Hydroxybutyric Acid,144,1.191
+Soil_1,Soil,2,0.1,L-Threonine,24,0.066
+Soil_1,Soil,2,0.1,L-Threonine,48,0.844
+Soil_1,Soil,2,0.1,L-Threonine,144,1.241
+Soil_1,Soil,2,0.1,Glycogen,24,0.026
+Soil_1,Soil,2,0.1,Glycogen,48,0
+Soil_1,Soil,2,0.1,Glycogen,144,0
+Soil_1,Soil,2,0.1,D-Glucosaminic Acid,24,0
+Soil_1,Soil,2,0.1,D-Glucosaminic Acid,48,0.864
+Soil_1,Soil,2,0.1,D-Glucosaminic Acid,144,1.356
+Soil_1,Soil,2,0.1,Itaconic Acid,24,0.059
+Soil_1,Soil,2,0.1,Itaconic Acid,48,0.886
+Soil_1,Soil,2,0.1,Itaconic Acid,144,1.524
+Soil_1,Soil,2,0.1,Glycyl-L-Glutamic Acid,24,0.277
+Soil_1,Soil,2,0.1,Glycyl-L-Glutamic Acid,48,0.72
+Soil_1,Soil,2,0.1,Glycyl-L-Glutamic Acid,144,0.983
+Soil_1,Soil,2,0.1,D-Cellobiose,24,0.002
+Soil_1,Soil,2,0.1,D-Cellobiose,48,0.696
+Soil_1,Soil,2,0.1,D-Cellobiose,144,1.233
+Soil_1,Soil,2,0.1,Glucose-1-Phosphate,24,0.086
+Soil_1,Soil,2,0.1,Glucose-1-Phosphate,48,0.735
+Soil_1,Soil,2,0.1,Glucose-1-Phosphate,144,0.94
+Soil_1,Soil,2,0.1,α-Ketobutyric Acid,24,0.004
+Soil_1,Soil,2,0.1,α-Ketobutyric Acid,48,0.748
+Soil_1,Soil,2,0.1,α-Ketobutyric Acid,144,0.942
+Soil_1,Soil,2,0.1,Phenylethylamine,24,0.031
+Soil_1,Soil,2,0.1,Phenylethylamine,48,0
+Soil_1,Soil,2,0.1,Phenylethylamine,144,0
+Soil_1,Soil,2,0.1,α-D-Lactose,24,0
+Soil_1,Soil,2,0.1,α-D-Lactose,48,0.416
+Soil_1,Soil,2,0.1,α-D-Lactose,144,0.59
+Soil_1,Soil,2,0.1,D.L -α-Glycerol Phosphate,24,0.005
+Soil_1,Soil,2,0.1,D.L -α-Glycerol Phosphate,48,0.41
+Soil_1,Soil,2,0.1,D.L -α-Glycerol Phosphate,144,0.491
+Soil_1,Soil,2,0.1,D-Mallic Acid,24,0
+Soil_1,Soil,2,0.1,D-Mallic Acid,48,0.519
+Soil_1,Soil,2,0.1,D-Mallic Acid,144,0.629
+Soil_1,Soil,2,0.1,Putrescine,24,0
+Soil_1,Soil,2,0.1,Putrescine,48,0.514
+Soil_1,Soil,2,0.1,Putrescine,144,0.611
+Soil_1,Soil,3,0.001,Water,24,0
+Soil_1,Soil,3,0.001,Water,48,0
+Soil_1,Soil,3,0.001,Water,144,0
+Soil_1,Soil,3,0.001,β-Methyl-D- Glucoside,24,0.181
+Soil_1,Soil,3,0.001,β-Methyl-D- Glucoside,48,1.676
+Soil_1,Soil,3,0.001,β-Methyl-D- Glucoside,144,1.546
+Soil_1,Soil,3,0.001,D-Galactonic Acid γ-Lactone,24,1.242
+Soil_1,Soil,3,0.001,D-Galactonic Acid γ-Lactone,48,0.994
+Soil_1,Soil,3,0.001,D-Galactonic Acid γ-Lactone,144,1.002
+Soil_1,Soil,3,0.001,L-Arginine,24,1.936
+Soil_1,Soil,3,0.001,L-Arginine,48,2.547
+Soil_1,Soil,3,0.001,L-Arginine,144,2.447
+Soil_1,Soil,3,0.001,Pyruvic Acid Methyl Ester,24,1.201
+Soil_1,Soil,3,0.001,Pyruvic Acid Methyl Ester,48,1.633
+Soil_1,Soil,3,0.001,Pyruvic Acid Methyl Ester,144,2.981
+Soil_1,Soil,3,0.001,D-Xylose,24,0.112
+Soil_1,Soil,3,0.001,D-Xylose,48,0.676
+Soil_1,Soil,3,0.001,D-Xylose,144,2.637
+Soil_1,Soil,3,0.001,D-Galacturonic Acid,24,0.433
+Soil_1,Soil,3,0.001,D-Galacturonic Acid,48,1.34
+Soil_1,Soil,3,0.001,D-Galacturonic Acid,144,1.033
+Soil_1,Soil,3,0.001,L-Asparganine,24,2.65
+Soil_1,Soil,3,0.001,L-Asparganine,48,2.687
+Soil_1,Soil,3,0.001,L-Asparganine,144,2.587
+Soil_1,Soil,3,0.001,Tween 40,24,0.84
+Soil_1,Soil,3,0.001,Tween 40,48,1.278
+Soil_1,Soil,3,0.001,Tween 40,144,2.09
+Soil_1,Soil,3,0.001,i-Erythitol,24,0.073
+Soil_1,Soil,3,0.001,i-Erythitol,48,0.286
+Soil_1,Soil,3,0.001,i-Erythitol,144,2.372
+Soil_1,Soil,3,0.001,2-Hydroxy Benzoic Acid,24,0.086
+Soil_1,Soil,3,0.001,2-Hydroxy Benzoic Acid,48,0.012
+Soil_1,Soil,3,0.001,2-Hydroxy Benzoic Acid,144,1.887
+Soil_1,Soil,3,0.001,L-Phenylalanine,24,0.057
+Soil_1,Soil,3,0.001,L-Phenylalanine,48,0.26
+Soil_1,Soil,3,0.001,L-Phenylalanine,144,2.666
+Soil_1,Soil,3,0.001,Tween 80,24,1.015
+Soil_1,Soil,3,0.001,Tween 80,48,1.417
+Soil_1,Soil,3,0.001,Tween 80,144,2.385
+Soil_1,Soil,3,0.001,D-Mannitol,24,0.808
+Soil_1,Soil,3,0.001,D-Mannitol,48,2.682
+Soil_1,Soil,3,0.001,D-Mannitol,144,3.116
+Soil_1,Soil,3,0.001,4-Hydroxy Benzoic Acid,24,0.43
+Soil_1,Soil,3,0.001,4-Hydroxy Benzoic Acid,48,1.547
+Soil_1,Soil,3,0.001,4-Hydroxy Benzoic Acid,144,2.331
+Soil_1,Soil,3,0.001,L-Serine,24,1.356
+Soil_1,Soil,3,0.001,L-Serine,48,1.848
+Soil_1,Soil,3,0.001,L-Serine,144,1.664
+Soil_1,Soil,3,0.001,α-Cyclodextrin,24,0.088
+Soil_1,Soil,3,0.001,α-Cyclodextrin,48,0.456
+Soil_1,Soil,3,0.001,α-Cyclodextrin,144,2.617
+Soil_1,Soil,3,0.001,N-Acetyl-D-Glucosamine,24,0.656
+Soil_1,Soil,3,0.001,N-Acetyl-D-Glucosamine,48,2.188
+Soil_1,Soil,3,0.001,N-Acetyl-D-Glucosamine,144,2.353
+Soil_1,Soil,3,0.001,γ-Hydroxybutyric Acid,24,0.487
+Soil_1,Soil,3,0.001,γ-Hydroxybutyric Acid,48,0.527
+Soil_1,Soil,3,0.001,γ-Hydroxybutyric Acid,144,0.553
+Soil_1,Soil,3,0.001,L-Threonine,24,0.03
+Soil_1,Soil,3,0.001,L-Threonine,48,0.085
+Soil_1,Soil,3,0.001,L-Threonine,144,2.512
+Soil_1,Soil,3,0.001,Glycogen,24,0.166
+Soil_1,Soil,3,0.001,Glycogen,48,1.078
+Soil_1,Soil,3,0.001,Glycogen,144,2.407
+Soil_1,Soil,3,0.001,D-Glucosaminic Acid,24,0.407
+Soil_1,Soil,3,0.001,D-Glucosaminic Acid,48,1.045
+Soil_1,Soil,3,0.001,D-Glucosaminic Acid,144,2.434
+Soil_1,Soil,3,0.001,Itaconic Acid,24,0.518
+Soil_1,Soil,3,0.001,Itaconic Acid,48,1.183
+Soil_1,Soil,3,0.001,Itaconic Acid,144,2.387
+Soil_1,Soil,3,0.001,Glycyl-L-Glutamic Acid,24,0.05
+Soil_1,Soil,3,0.001,Glycyl-L-Glutamic Acid,48,0.215
+Soil_1,Soil,3,0.001,Glycyl-L-Glutamic Acid,144,2.299
+Soil_1,Soil,3,0.001,D-Cellobiose,24,0.21
+Soil_1,Soil,3,0.001,D-Cellobiose,48,2.324
+Soil_1,Soil,3,0.001,D-Cellobiose,144,2.73
+Soil_1,Soil,3,0.001,Glucose-1-Phosphate,24,0.063
+Soil_1,Soil,3,0.001,Glucose-1-Phosphate,48,1.354
+Soil_1,Soil,3,0.001,Glucose-1-Phosphate,144,2.34
+Soil_1,Soil,3,0.001,α-Ketobutyric Acid,24,0.055
+Soil_1,Soil,3,0.001,α-Ketobutyric Acid,48,0
+Soil_1,Soil,3,0.001,α-Ketobutyric Acid,144,2.028
+Soil_1,Soil,3,0.001,Phenylethylamine,24,0.15
+Soil_1,Soil,3,0.001,Phenylethylamine,48,0.313
+Soil_1,Soil,3,0.001,Phenylethylamine,144,2.358
+Soil_1,Soil,3,0.001,α-D-Lactose,24,0.012
+Soil_1,Soil,3,0.001,α-D-Lactose,48,0.087
+Soil_1,Soil,3,0.001,α-D-Lactose,144,2.343
+Soil_1,Soil,3,0.001,D.L -α-Glycerol Phosphate,24,0.164
+Soil_1,Soil,3,0.001,D.L -α-Glycerol Phosphate,48,0.336
+Soil_1,Soil,3,0.001,D.L -α-Glycerol Phosphate,144,0.415
+Soil_1,Soil,3,0.001,D-Mallic Acid,24,0.051
+Soil_1,Soil,3,0.001,D-Mallic Acid,48,0.153
+Soil_1,Soil,3,0.001,D-Mallic Acid,144,1.446
+Soil_1,Soil,3,0.001,Putrescine,24,0.766
+Soil_1,Soil,3,0.001,Putrescine,48,1.087
+Soil_1,Soil,3,0.001,Putrescine,144,1.369
+Soil_1,Soil,3,0.01,Water,24,0
+Soil_1,Soil,3,0.01,Water,48,0
+Soil_1,Soil,3,0.01,Water,144,0
+Soil_1,Soil,3,0.01,β-Methyl-D- Glucoside,24,0.441
+Soil_1,Soil,3,0.01,β-Methyl-D- Glucoside,48,1.161
+Soil_1,Soil,3,0.01,β-Methyl-D- Glucoside,144,0.928
+Soil_1,Soil,3,0.01,D-Galactonic Acid γ-Lactone,24,0.93
+Soil_1,Soil,3,0.01,D-Galactonic Acid γ-Lactone,48,0.986
+Soil_1,Soil,3,0.01,D-Galactonic Acid γ-Lactone,144,1.781
+Soil_1,Soil,3,0.01,L-Arginine,24,1.855
+Soil_1,Soil,3,0.01,L-Arginine,48,2.026
+Soil_1,Soil,3,0.01,L-Arginine,144,1.885
+Soil_1,Soil,3,0.01,Pyruvic Acid Methyl Ester,24,1.335
+Soil_1,Soil,3,0.01,Pyruvic Acid Methyl Ester,48,1.841
+Soil_1,Soil,3,0.01,Pyruvic Acid Methyl Ester,144,2.166
+Soil_1,Soil,3,0.01,D-Xylose,24,0.769
+Soil_1,Soil,3,0.01,D-Xylose,48,1.403
+Soil_1,Soil,3,0.01,D-Xylose,144,2.016
+Soil_1,Soil,3,0.01,D-Galacturonic Acid,24,0.991
+Soil_1,Soil,3,0.01,D-Galacturonic Acid,48,1.624
+Soil_1,Soil,3,0.01,D-Galacturonic Acid,144,1.685
+Soil_1,Soil,3,0.01,L-Asparganine,24,2.144
+Soil_1,Soil,3,0.01,L-Asparganine,48,2.138
+Soil_1,Soil,3,0.01,L-Asparganine,144,2.235
+Soil_1,Soil,3,0.01,Tween 40,24,1.317
+Soil_1,Soil,3,0.01,Tween 40,48,1.729
+Soil_1,Soil,3,0.01,Tween 40,144,2.516
+Soil_1,Soil,3,0.01,i-Erythitol,24,0
+Soil_1,Soil,3,0.01,i-Erythitol,48,0
+Soil_1,Soil,3,0.01,i-Erythitol,144,1.357
+Soil_1,Soil,3,0.01,2-Hydroxy Benzoic Acid,24,0
+Soil_1,Soil,3,0.01,2-Hydroxy Benzoic Acid,48,0
+Soil_1,Soil,3,0.01,2-Hydroxy Benzoic Acid,144,1.52
+Soil_1,Soil,3,0.01,L-Phenylalanine,24,0.13
+Soil_1,Soil,3,0.01,L-Phenylalanine,48,0.577
+Soil_1,Soil,3,0.01,L-Phenylalanine,144,2.416
+Soil_1,Soil,3,0.01,Tween 80,24,0.383
+Soil_1,Soil,3,0.01,Tween 80,48,0.755
+Soil_1,Soil,3,0.01,Tween 80,144,1.821
+Soil_1,Soil,3,0.01,D-Mannitol,24,1.304
+Soil_1,Soil,3,0.01,D-Mannitol,48,2.139
+Soil_1,Soil,3,0.01,D-Mannitol,144,2.382
+Soil_1,Soil,3,0.01,4-Hydroxy Benzoic Acid,24,1.046
+Soil_1,Soil,3,0.01,4-Hydroxy Benzoic Acid,48,2.017
+Soil_1,Soil,3,0.01,4-Hydroxy Benzoic Acid,144,2.45
+Soil_1,Soil,3,0.01,L-Serine,24,1.833
+Soil_1,Soil,3,0.01,L-Serine,48,2.217
+Soil_1,Soil,3,0.01,L-Serine,144,2.239
+Soil_1,Soil,3,0.01,α-Cyclodextrin,24,0
+Soil_1,Soil,3,0.01,α-Cyclodextrin,48,0.117
+Soil_1,Soil,3,0.01,α-Cyclodextrin,144,1.845
+Soil_1,Soil,3,0.01,N-Acetyl-D-Glucosamine,24,1.047
+Soil_1,Soil,3,0.01,N-Acetyl-D-Glucosamine,48,2.026
+Soil_1,Soil,3,0.01,N-Acetyl-D-Glucosamine,144,2.298
+Soil_1,Soil,3,0.01,γ-Hydroxybutyric Acid,24,1.117
+Soil_1,Soil,3,0.01,γ-Hydroxybutyric Acid,48,1.326
+Soil_1,Soil,3,0.01,γ-Hydroxybutyric Acid,144,1.469
+Soil_1,Soil,3,0.01,L-Threonine,24,0
+Soil_1,Soil,3,0.01,L-Threonine,48,0.248
+Soil_1,Soil,3,0.01,L-Threonine,144,1.99
+Soil_1,Soil,3,0.01,Glycogen,24,0.405
+Soil_1,Soil,3,0.01,Glycogen,48,1.167
+Soil_1,Soil,3,0.01,Glycogen,144,1.933
+Soil_1,Soil,3,0.01,D-Glucosaminic Acid,24,0.333
+Soil_1,Soil,3,0.01,D-Glucosaminic Acid,48,1.179
+Soil_1,Soil,3,0.01,D-Glucosaminic Acid,144,2.205
+Soil_1,Soil,3,0.01,Itaconic Acid,24,0.672
+Soil_1,Soil,3,0.01,Itaconic Acid,48,1.618
+Soil_1,Soil,3,0.01,Itaconic Acid,144,2.04
+Soil_1,Soil,3,0.01,Glycyl-L-Glutamic Acid,24,0.63
+Soil_1,Soil,3,0.01,Glycyl-L-Glutamic Acid,48,0.907
+Soil_1,Soil,3,0.01,Glycyl-L-Glutamic Acid,144,2.369
+Soil_1,Soil,3,0.01,D-Cellobiose,24,0.311
+Soil_1,Soil,3,0.01,D-Cellobiose,48,1.943
+Soil_1,Soil,3,0.01,D-Cellobiose,144,2.177
+Soil_1,Soil,3,0.01,Glucose-1-Phosphate,24,0.163
+Soil_1,Soil,3,0.01,Glucose-1-Phosphate,48,0.877
+Soil_1,Soil,3,0.01,Glucose-1-Phosphate,144,1.06
+Soil_1,Soil,3,0.01,α-Ketobutyric Acid,24,0.06
+Soil_1,Soil,3,0.01,α-Ketobutyric Acid,48,0.173
+Soil_1,Soil,3,0.01,α-Ketobutyric Acid,144,1.851
+Soil_1,Soil,3,0.01,Phenylethylamine,24,0
+Soil_1,Soil,3,0.01,Phenylethylamine,48,0.966
+Soil_1,Soil,3,0.01,Phenylethylamine,144,1.684
+Soil_1,Soil,3,0.01,α-D-Lactose,24,0.175
+Soil_1,Soil,3,0.01,α-D-Lactose,48,0.378
+Soil_1,Soil,3,0.01,α-D-Lactose,144,1.994
+Soil_1,Soil,3,0.01,D.L -α-Glycerol Phosphate,24,0.247
+Soil_1,Soil,3,0.01,D.L -α-Glycerol Phosphate,48,0.161
+Soil_1,Soil,3,0.01,D.L -α-Glycerol Phosphate,144,0.309
+Soil_1,Soil,3,0.01,D-Mallic Acid,24,0
+Soil_1,Soil,3,0.01,D-Mallic Acid,48,0.606
+Soil_1,Soil,3,0.01,D-Mallic Acid,144,1.704
+Soil_1,Soil,3,0.01,Putrescine,24,0.776
+Soil_1,Soil,3,0.01,Putrescine,48,0.958
+Soil_1,Soil,3,0.01,Putrescine,144,1.233
+Soil_1,Soil,3,0.1,Water,24,0
+Soil_1,Soil,3,0.1,Water,48,0
+Soil_1,Soil,3,0.1,Water,144,0
+Soil_1,Soil,3,0.1,β-Methyl-D- Glucoside,24,0.556
+Soil_1,Soil,3,0.1,β-Methyl-D- Glucoside,48,0.782
+Soil_1,Soil,3,0.1,β-Methyl-D- Glucoside,144,0.83
+Soil_1,Soil,3,0.1,D-Galactonic Acid γ-Lactone,24,0.637
+Soil_1,Soil,3,0.1,D-Galactonic Acid γ-Lactone,48,0.715
+Soil_1,Soil,3,0.1,D-Galactonic Acid γ-Lactone,144,0.721
+Soil_1,Soil,3,0.1,L-Arginine,24,1.12
+Soil_1,Soil,3,0.1,L-Arginine,48,1.156
+Soil_1,Soil,3,0.1,L-Arginine,144,1.297
+Soil_1,Soil,3,0.1,Pyruvic Acid Methyl Ester,24,0.652
+Soil_1,Soil,3,0.1,Pyruvic Acid Methyl Ester,48,0.873
+Soil_1,Soil,3,0.1,Pyruvic Acid Methyl Ester,144,1.09
+Soil_1,Soil,3,0.1,D-Xylose,24,0.666
+Soil_1,Soil,3,0.1,D-Xylose,48,0.951
+Soil_1,Soil,3,0.1,D-Xylose,144,1.184
+Soil_1,Soil,3,0.1,D-Galacturonic Acid,24,0.946
+Soil_1,Soil,3,0.1,D-Galacturonic Acid,48,1.154
+Soil_1,Soil,3,0.1,D-Galacturonic Acid,144,1.596
+Soil_1,Soil,3,0.1,L-Asparganine,24,1.457
+Soil_1,Soil,3,0.1,L-Asparganine,48,1.524
+Soil_1,Soil,3,0.1,L-Asparganine,144,1.746
+Soil_1,Soil,3,0.1,Tween 40,24,0.34
+Soil_1,Soil,3,0.1,Tween 40,48,0.486
+Soil_1,Soil,3,0.1,Tween 40,144,0.928
+Soil_1,Soil,3,0.1,i-Erythitol,24,0.587
+Soil_1,Soil,3,0.1,i-Erythitol,48,0.683
+Soil_1,Soil,3,0.1,i-Erythitol,144,1.457
+Soil_1,Soil,3,0.1,2-Hydroxy Benzoic Acid,24,0.484
+Soil_1,Soil,3,0.1,2-Hydroxy Benzoic Acid,48,0.55
+Soil_1,Soil,3,0.1,2-Hydroxy Benzoic Acid,144,1.444
+Soil_1,Soil,3,0.1,L-Phenylalanine,24,0.672
+Soil_1,Soil,3,0.1,L-Phenylalanine,48,0.993
+Soil_1,Soil,3,0.1,L-Phenylalanine,144,1.745
+Soil_1,Soil,3,0.1,Tween 80,24,0.755
+Soil_1,Soil,3,0.1,Tween 80,48,0.975
+Soil_1,Soil,3,0.1,Tween 80,144,1.657
+Soil_1,Soil,3,0.1,D-Mannitol,24,1.132
+Soil_1,Soil,3,0.1,D-Mannitol,48,1.394
+Soil_1,Soil,3,0.1,D-Mannitol,144,1.704
+Soil_1,Soil,3,0.1,4-Hydroxy Benzoic Acid,24,0.666
+Soil_1,Soil,3,0.1,4-Hydroxy Benzoic Acid,48,1.218
+Soil_1,Soil,3,0.1,4-Hydroxy Benzoic Acid,144,0
+Soil_1,Soil,3,0.1,L-Serine,24,1.24
+Soil_1,Soil,3,0.1,L-Serine,48,1.636
+Soil_1,Soil,3,0.1,L-Serine,144,0
+Soil_1,Soil,3,0.1,α-Cyclodextrin,24,0.316
+Soil_1,Soil,3,0.1,α-Cyclodextrin,48,0.615
+Soil_1,Soil,3,0.1,α-Cyclodextrin,144,0.765
+Soil_1,Soil,3,0.1,N-Acetyl-D-Glucosamine,24,0.823
+Soil_1,Soil,3,0.1,N-Acetyl-D-Glucosamine,48,1.242
+Soil_1,Soil,3,0.1,N-Acetyl-D-Glucosamine,144,1.804
+Soil_1,Soil,3,0.1,γ-Hydroxybutyric Acid,24,0
+Soil_1,Soil,3,0.1,γ-Hydroxybutyric Acid,48,0
+Soil_1,Soil,3,0.1,γ-Hydroxybutyric Acid,144,0
+Soil_1,Soil,3,0.1,L-Threonine,24,0.685
+Soil_1,Soil,3,0.1,L-Threonine,48,0.825
+Soil_1,Soil,3,0.1,L-Threonine,144,1.705
+Soil_1,Soil,3,0.1,Glycogen,24,0.582
+Soil_1,Soil,3,0.1,Glycogen,48,0.85
+Soil_1,Soil,3,0.1,Glycogen,144,0.977
+Soil_1,Soil,3,0.1,D-Glucosaminic Acid,24,0.462
+Soil_1,Soil,3,0.1,D-Glucosaminic Acid,48,0.776
+Soil_1,Soil,3,0.1,D-Glucosaminic Acid,144,1.333
+Soil_1,Soil,3,0.1,Itaconic Acid,24,0.546
+Soil_1,Soil,3,0.1,Itaconic Acid,48,1.043
+Soil_1,Soil,3,0.1,Itaconic Acid,144,1.58
+Soil_1,Soil,3,0.1,Glycyl-L-Glutamic Acid,24,0.559
+Soil_1,Soil,3,0.1,Glycyl-L-Glutamic Acid,48,0.735
+Soil_1,Soil,3,0.1,Glycyl-L-Glutamic Acid,144,1.069
+Soil_1,Soil,3,0.1,D-Cellobiose,24,0.472
+Soil_1,Soil,3,0.1,D-Cellobiose,48,1.123
+Soil_1,Soil,3,0.1,D-Cellobiose,144,1.493
+Soil_1,Soil,3,0.1,Glucose-1-Phosphate,24,0.761
+Soil_1,Soil,3,0.1,Glucose-1-Phosphate,48,0.912
+Soil_1,Soil,3,0.1,Glucose-1-Phosphate,144,1.002
+Soil_1,Soil,3,0.1,α-Ketobutyric Acid,24,0.6
+Soil_1,Soil,3,0.1,α-Ketobutyric Acid,48,0.655
+Soil_1,Soil,3,0.1,α-Ketobutyric Acid,144,0.866
+Soil_1,Soil,3,0.1,Phenylethylamine,24,0
+Soil_1,Soil,3,0.1,Phenylethylamine,48,0.249
+Soil_1,Soil,3,0.1,Phenylethylamine,144,1.546
+Soil_1,Soil,3,0.1,α-D-Lactose,24,0.33
+Soil_1,Soil,3,0.1,α-D-Lactose,48,0.68
+Soil_1,Soil,3,0.1,α-D-Lactose,144,0.806
+Soil_1,Soil,3,0.1,D.L -α-Glycerol Phosphate,24,0.334
+Soil_1,Soil,3,0.1,D.L -α-Glycerol Phosphate,48,0.354
+Soil_1,Soil,3,0.1,D.L -α-Glycerol Phosphate,144,0.368
+Soil_1,Soil,3,0.1,D-Mallic Acid,24,0.339
+Soil_1,Soil,3,0.1,D-Mallic Acid,48,0.708
+Soil_1,Soil,3,0.1,D-Mallic Acid,144,0.781
+Soil_1,Soil,3,0.1,Putrescine,24,0.636
+Soil_1,Soil,3,0.1,Putrescine,48,0.758
+Soil_1,Soil,3,0.1,Putrescine,144,0.824
+Soil_2,Soil,1,0.001,Water,24,0
+Soil_2,Soil,1,0.001,Water,48,0
+Soil_2,Soil,1,0.001,Water,144,0
+Soil_2,Soil,1,0.001,β-Methyl-D- Glucoside,24,1.807
+Soil_2,Soil,1,0.001,β-Methyl-D- Glucoside,48,2.06
+Soil_2,Soil,1,0.001,β-Methyl-D- Glucoside,144,2.235
+Soil_2,Soil,1,0.001,D-Galactonic Acid γ-Lactone,24,1.517
+Soil_2,Soil,1,0.001,D-Galactonic Acid γ-Lactone,48,1.327
+Soil_2,Soil,1,0.001,D-Galactonic Acid γ-Lactone,144,2.097
+Soil_2,Soil,1,0.001,L-Arginine,24,2.419
+Soil_2,Soil,1,0.001,L-Arginine,48,2.263
+Soil_2,Soil,1,0.001,L-Arginine,144,1.565
+Soil_2,Soil,1,0.001,Pyruvic Acid Methyl Ester,24,1.463
+Soil_2,Soil,1,0.001,Pyruvic Acid Methyl Ester,48,1.6
+Soil_2,Soil,1,0.001,Pyruvic Acid Methyl Ester,144,2.63
+Soil_2,Soil,1,0.001,D-Xylose,24,1.597
+Soil_2,Soil,1,0.001,D-Xylose,48,2.28
+Soil_2,Soil,1,0.001,D-Xylose,144,2.332
+Soil_2,Soil,1,0.001,D-Galacturonic Acid,24,1.649
+Soil_2,Soil,1,0.001,D-Galacturonic Acid,48,2.116
+Soil_2,Soil,1,0.001,D-Galacturonic Acid,144,2.664
+Soil_2,Soil,1,0.001,L-Asparganine,24,0.472
+Soil_2,Soil,1,0.001,L-Asparganine,48,0.274
+Soil_2,Soil,1,0.001,L-Asparganine,144,2.497
+Soil_2,Soil,1,0.001,Tween 40,24,1.006
+Soil_2,Soil,1,0.001,Tween 40,48,1.513
+Soil_2,Soil,1,0.001,Tween 40,144,2.377
+Soil_2,Soil,1,0.001,i-Erythitol,24,0.079
+Soil_2,Soil,1,0.001,i-Erythitol,48,0.023
+Soil_2,Soil,1,0.001,i-Erythitol,144,2.786
+Soil_2,Soil,1,0.001,2-Hydroxy Benzoic Acid,24,0.634
+Soil_2,Soil,1,0.001,2-Hydroxy Benzoic Acid,48,1.111
+Soil_2,Soil,1,0.001,2-Hydroxy Benzoic Acid,144,2.244
+Soil_2,Soil,1,0.001,L-Phenylalanine,24,0.331
+Soil_2,Soil,1,0.001,L-Phenylalanine,48,0.258
+Soil_2,Soil,1,0.001,L-Phenylalanine,144,2.48
+Soil_2,Soil,1,0.001,Tween 80,24,1.194
+Soil_2,Soil,1,0.001,Tween 80,48,1.208
+Soil_2,Soil,1,0.001,Tween 80,144,2.29
+Soil_2,Soil,1,0.001,D-Mannitol,24,0.955
+Soil_2,Soil,1,0.001,D-Mannitol,48,2.199
+Soil_2,Soil,1,0.001,D-Mannitol,144,2.492
+Soil_2,Soil,1,0.001,4-Hydroxy Benzoic Acid,24,0.763
+Soil_2,Soil,1,0.001,4-Hydroxy Benzoic Acid,48,1.331
+Soil_2,Soil,1,0.001,4-Hydroxy Benzoic Acid,144,2.294
+Soil_2,Soil,1,0.001,L-Serine,24,1.759
+Soil_2,Soil,1,0.001,L-Serine,48,1.943
+Soil_2,Soil,1,0.001,L-Serine,144,2.082
+Soil_2,Soil,1,0.001,α-Cyclodextrin,24,0.164
+Soil_2,Soil,1,0.001,α-Cyclodextrin,48,0
+Soil_2,Soil,1,0.001,α-Cyclodextrin,144,2.306
+Soil_2,Soil,1,0.001,N-Acetyl-D-Glucosamine,24,0.512
+Soil_2,Soil,1,0.001,N-Acetyl-D-Glucosamine,48,0.637
+Soil_2,Soil,1,0.001,N-Acetyl-D-Glucosamine,144,2.465
+Soil_2,Soil,1,0.001,γ-Hydroxybutyric Acid,24,0.899
+Soil_2,Soil,1,0.001,γ-Hydroxybutyric Acid,48,0.447
+Soil_2,Soil,1,0.001,γ-Hydroxybutyric Acid,144,0.797
+Soil_2,Soil,1,0.001,L-Threonine,24,0.223
+Soil_2,Soil,1,0.001,L-Threonine,48,0
+Soil_2,Soil,1,0.001,L-Threonine,144,2.257
+Soil_2,Soil,1,0.001,Glycogen,24,0.176
+Soil_2,Soil,1,0.001,Glycogen,48,0.021
+Soil_2,Soil,1,0.001,Glycogen,144,2.532
+Soil_2,Soil,1,0.001,D-Glucosaminic Acid,24,0.149
+Soil_2,Soil,1,0.001,D-Glucosaminic Acid,48,0.484
+Soil_2,Soil,1,0.001,D-Glucosaminic Acid,144,1.563
+Soil_2,Soil,1,0.001,Itaconic Acid,24,0.257
+Soil_2,Soil,1,0.001,Itaconic Acid,48,0.334
+Soil_2,Soil,1,0.001,Itaconic Acid,144,2.557
+Soil_2,Soil,1,0.001,Glycyl-L-Glutamic Acid,24,0.296
+Soil_2,Soil,1,0.001,Glycyl-L-Glutamic Acid,48,0.034
+Soil_2,Soil,1,0.001,Glycyl-L-Glutamic Acid,144,1.808
+Soil_2,Soil,1,0.001,D-Cellobiose,24,0.037
+Soil_2,Soil,1,0.001,D-Cellobiose,48,0.141
+Soil_2,Soil,1,0.001,D-Cellobiose,144,2.666
+Soil_2,Soil,1,0.001,Glucose-1-Phosphate,24,0
+Soil_2,Soil,1,0.001,Glucose-1-Phosphate,48,0.51
+Soil_2,Soil,1,0.001,Glucose-1-Phosphate,144,1.091
+Soil_2,Soil,1,0.001,α-Ketobutyric Acid,24,0.1
+Soil_2,Soil,1,0.001,α-Ketobutyric Acid,48,0
+Soil_2,Soil,1,0.001,α-Ketobutyric Acid,144,2.399
+Soil_2,Soil,1,0.001,Phenylethylamine,24,0.435
+Soil_2,Soil,1,0.001,Phenylethylamine,48,1.136
+Soil_2,Soil,1,0.001,Phenylethylamine,144,2.038
+Soil_2,Soil,1,0.001,α-D-Lactose,24,0.176
+Soil_2,Soil,1,0.001,α-D-Lactose,48,0.037
+Soil_2,Soil,1,0.001,α-D-Lactose,144,2.145
+Soil_2,Soil,1,0.001,D.L -α-Glycerol Phosphate,24,0.089
+Soil_2,Soil,1,0.001,D.L -α-Glycerol Phosphate,48,0.083
+Soil_2,Soil,1,0.001,D.L -α-Glycerol Phosphate,144,0.16
+Soil_2,Soil,1,0.001,D-Mallic Acid,24,1.559
+Soil_2,Soil,1,0.001,D-Mallic Acid,48,2.089
+Soil_2,Soil,1,0.001,D-Mallic Acid,144,2.132
+Soil_2,Soil,1,0.001,Putrescine,24,1.388
+Soil_2,Soil,1,0.001,Putrescine,48,0.911
+Soil_2,Soil,1,0.001,Putrescine,144,0.713
+Soil_2,Soil,1,0.01,Water,24,0
+Soil_2,Soil,1,0.01,Water,48,0
+Soil_2,Soil,1,0.01,Water,144,0
+Soil_2,Soil,1,0.01,β-Methyl-D- Glucoside,24,0.889
+Soil_2,Soil,1,0.01,β-Methyl-D- Glucoside,48,1.265
+Soil_2,Soil,1,0.01,β-Methyl-D- Glucoside,144,1.06
+Soil_2,Soil,1,0.01,D-Galactonic Acid γ-Lactone,24,0.748
+Soil_2,Soil,1,0.01,D-Galactonic Acid γ-Lactone,48,1.312
+Soil_2,Soil,1,0.01,D-Galactonic Acid γ-Lactone,144,1.334
+Soil_2,Soil,1,0.01,L-Arginine,24,1.137
+Soil_2,Soil,1,0.01,L-Arginine,48,1.823
+Soil_2,Soil,1,0.01,L-Arginine,144,1.795
+Soil_2,Soil,1,0.01,Pyruvic Acid Methyl Ester,24,0.802
+Soil_2,Soil,1,0.01,Pyruvic Acid Methyl Ester,48,1.341
+Soil_2,Soil,1,0.01,Pyruvic Acid Methyl Ester,144,2.171
+Soil_2,Soil,1,0.01,D-Xylose,24,0.712
+Soil_2,Soil,1,0.01,D-Xylose,48,1.893
+Soil_2,Soil,1,0.01,D-Xylose,144,2.084
+Soil_2,Soil,1,0.01,D-Galacturonic Acid,24,0
+Soil_2,Soil,1,0.01,D-Galacturonic Acid,48,0
+Soil_2,Soil,1,0.01,D-Galacturonic Acid,144,0
+Soil_2,Soil,1,0.01,L-Asparganine,24,1.245
+Soil_2,Soil,1,0.01,L-Asparganine,48,2.021
+Soil_2,Soil,1,0.01,L-Asparganine,144,2.135
+Soil_2,Soil,1,0.01,Tween 40,24,0.594
+Soil_2,Soil,1,0.01,Tween 40,48,1.162
+Soil_2,Soil,1,0.01,Tween 40,144,2.01
+Soil_2,Soil,1,0.01,i-Erythitol,24,0
+Soil_2,Soil,1,0.01,i-Erythitol,48,0.188
+Soil_2,Soil,1,0.01,i-Erythitol,144,1.257
+Soil_2,Soil,1,0.01,2-Hydroxy Benzoic Acid,24,0.446
+Soil_2,Soil,1,0.01,2-Hydroxy Benzoic Acid,48,0.847
+Soil_2,Soil,1,0.01,2-Hydroxy Benzoic Acid,144,0.646
+Soil_2,Soil,1,0.01,L-Phenylalanine,24,0.254
+Soil_2,Soil,1,0.01,L-Phenylalanine,48,0.446
+Soil_2,Soil,1,0.01,L-Phenylalanine,144,2.356
+Soil_2,Soil,1,0.01,Tween 80,24,0.674
+Soil_2,Soil,1,0.01,Tween 80,48,1.169
+Soil_2,Soil,1,0.01,Tween 80,144,2.157
+Soil_2,Soil,1,0.01,D-Mannitol,24,0
+Soil_2,Soil,1,0.01,D-Mannitol,48,0
+Soil_2,Soil,1,0.01,D-Mannitol,144,0
+Soil_2,Soil,1,0.01,4-Hydroxy Benzoic Acid,24,0.782
+Soil_2,Soil,1,0.01,4-Hydroxy Benzoic Acid,48,1.174
+Soil_2,Soil,1,0.01,4-Hydroxy Benzoic Acid,144,1.935
+Soil_2,Soil,1,0.01,L-Serine,24,1.907
+Soil_2,Soil,1,0.01,L-Serine,48,2.013
+Soil_2,Soil,1,0.01,L-Serine,144,1.99
+Soil_2,Soil,1,0.01,α-Cyclodextrin,24,0.121
+Soil_2,Soil,1,0.01,α-Cyclodextrin,48,0.581
+Soil_2,Soil,1,0.01,α-Cyclodextrin,144,1.75
+Soil_2,Soil,1,0.01,N-Acetyl-D-Glucosamine,24,0.822
+Soil_2,Soil,1,0.01,N-Acetyl-D-Glucosamine,48,1.632
+Soil_2,Soil,1,0.01,N-Acetyl-D-Glucosamine,144,2.174
+Soil_2,Soil,1,0.01,γ-Hydroxybutyric Acid,24,0
+Soil_2,Soil,1,0.01,γ-Hydroxybutyric Acid,48,0
+Soil_2,Soil,1,0.01,γ-Hydroxybutyric Acid,144,0
+Soil_2,Soil,1,0.01,L-Threonine,24,0.183
+Soil_2,Soil,1,0.01,L-Threonine,48,0.481
+Soil_2,Soil,1,0.01,L-Threonine,144,1.936
+Soil_2,Soil,1,0.01,Glycogen,24,0.758
+Soil_2,Soil,1,0.01,Glycogen,48,1.764
+Soil_2,Soil,1,0.01,Glycogen,144,2.139
+Soil_2,Soil,1,0.01,D-Glucosaminic Acid,24,0.016
+Soil_2,Soil,1,0.01,D-Glucosaminic Acid,48,0.577
+Soil_2,Soil,1,0.01,D-Glucosaminic Acid,144,1.907
+Soil_2,Soil,1,0.01,Itaconic Acid,24,0.168
+Soil_2,Soil,1,0.01,Itaconic Acid,48,1.145
+Soil_2,Soil,1,0.01,Itaconic Acid,144,1.951
+Soil_2,Soil,1,0.01,Glycyl-L-Glutamic Acid,24,0.098
+Soil_2,Soil,1,0.01,Glycyl-L-Glutamic Acid,48,0.354
+Soil_2,Soil,1,0.01,Glycyl-L-Glutamic Acid,144,1.476
+Soil_2,Soil,1,0.01,D-Cellobiose,24,0.778
+Soil_2,Soil,1,0.01,D-Cellobiose,48,1.441
+Soil_2,Soil,1,0.01,D-Cellobiose,144,2.024
+Soil_2,Soil,1,0.01,Glucose-1-Phosphate,24,0.066
+Soil_2,Soil,1,0.01,Glucose-1-Phosphate,48,0.488
+Soil_2,Soil,1,0.01,Glucose-1-Phosphate,144,1.362
+Soil_2,Soil,1,0.01,α-Ketobutyric Acid,24,0.098
+Soil_2,Soil,1,0.01,α-Ketobutyric Acid,48,0.512
+Soil_2,Soil,1,0.01,α-Ketobutyric Acid,144,1.708
+Soil_2,Soil,1,0.01,Phenylethylamine,24,0.77
+Soil_2,Soil,1,0.01,Phenylethylamine,48,1.145
+Soil_2,Soil,1,0.01,Phenylethylamine,144,1.699
+Soil_2,Soil,1,0.01,α-D-Lactose,24,0
+Soil_2,Soil,1,0.01,α-D-Lactose,48,0.131
+Soil_2,Soil,1,0.01,α-D-Lactose,144,1.534
+Soil_2,Soil,1,0.01,D.L -α-Glycerol Phosphate,24,0.141
+Soil_2,Soil,1,0.01,D.L -α-Glycerol Phosphate,48,0.233
+Soil_2,Soil,1,0.01,D.L -α-Glycerol Phosphate,144,0.212
+Soil_2,Soil,1,0.01,D-Mallic Acid,24,0.912
+Soil_2,Soil,1,0.01,D-Mallic Acid,48,1.448
+Soil_2,Soil,1,0.01,D-Mallic Acid,144,1.293
+Soil_2,Soil,1,0.01,Putrescine,24,0.541
+Soil_2,Soil,1,0.01,Putrescine,48,0.793
+Soil_2,Soil,1,0.01,Putrescine,144,0.887
+Soil_2,Soil,1,0.1,Water,24,0
+Soil_2,Soil,1,0.1,Water,48,0
+Soil_2,Soil,1,0.1,Water,144,0
+Soil_2,Soil,1,0.1,β-Methyl-D- Glucoside,24,0
+Soil_2,Soil,1,0.1,β-Methyl-D- Glucoside,48,0.014
+Soil_2,Soil,1,0.1,β-Methyl-D- Glucoside,144,0.097
+Soil_2,Soil,1,0.1,D-Galactonic Acid γ-Lactone,24,0.008
+Soil_2,Soil,1,0.1,D-Galactonic Acid γ-Lactone,48,0.081
+Soil_2,Soil,1,0.1,D-Galactonic Acid γ-Lactone,144,0.279
+Soil_2,Soil,1,0.1,L-Arginine,24,0.051
+Soil_2,Soil,1,0.1,L-Arginine,48,0.142
+Soil_2,Soil,1,0.1,L-Arginine,144,0.408
+Soil_2,Soil,1,0.1,Pyruvic Acid Methyl Ester,24,0.218
+Soil_2,Soil,1,0.1,Pyruvic Acid Methyl Ester,48,0.302
+Soil_2,Soil,1,0.1,Pyruvic Acid Methyl Ester,144,0.614
+Soil_2,Soil,1,0.1,D-Xylose,24,0.323
+Soil_2,Soil,1,0.1,D-Xylose,48,0.491
+Soil_2,Soil,1,0.1,D-Xylose,144,0.954
+Soil_2,Soil,1,0.1,D-Galacturonic Acid,24,0.382
+Soil_2,Soil,1,0.1,D-Galacturonic Acid,48,0.443
+Soil_2,Soil,1,0.1,D-Galacturonic Acid,144,0.85
+Soil_2,Soil,1,0.1,L-Asparganine,24,0.344
+Soil_2,Soil,1,0.1,L-Asparganine,48,0.434
+Soil_2,Soil,1,0.1,L-Asparganine,144,0.986
+Soil_2,Soil,1,0.1,Tween 40,24,0.121
+Soil_2,Soil,1,0.1,Tween 40,48,0.153
+Soil_2,Soil,1,0.1,Tween 40,144,0.532
+Soil_2,Soil,1,0.1,i-Erythitol,24,0.356
+Soil_2,Soil,1,0.1,i-Erythitol,48,0.381
+Soil_2,Soil,1,0.1,i-Erythitol,144,0.824
+Soil_2,Soil,1,0.1,2-Hydroxy Benzoic Acid,24,0.343
+Soil_2,Soil,1,0.1,2-Hydroxy Benzoic Acid,48,0.342
+Soil_2,Soil,1,0.1,2-Hydroxy Benzoic Acid,144,0.943
+Soil_2,Soil,1,0.1,L-Phenylalanine,24,0.452
+Soil_2,Soil,1,0.1,L-Phenylalanine,48,0.448
+Soil_2,Soil,1,0.1,L-Phenylalanine,144,0.948
+Soil_2,Soil,1,0.1,Tween 80,24,0.228
+Soil_2,Soil,1,0.1,Tween 80,48,0.241
+Soil_2,Soil,1,0.1,Tween 80,144,0.745
+Soil_2,Soil,1,0.1,D-Mannitol,24,0.403
+Soil_2,Soil,1,0.1,D-Mannitol,48,0.471
+Soil_2,Soil,1,0.1,D-Mannitol,144,1.006
+Soil_2,Soil,1,0.1,4-Hydroxy Benzoic Acid,24,0.564
+Soil_2,Soil,1,0.1,4-Hydroxy Benzoic Acid,48,0.644
+Soil_2,Soil,1,0.1,4-Hydroxy Benzoic Acid,144,0.843
+Soil_2,Soil,1,0.1,L-Serine,24,0.353
+Soil_2,Soil,1,0.1,L-Serine,48,0.498
+Soil_2,Soil,1,0.1,L-Serine,144,1.024
+Soil_2,Soil,1,0.1,α-Cyclodextrin,24,0.243
+Soil_2,Soil,1,0.1,α-Cyclodextrin,48,0.272
+Soil_2,Soil,1,0.1,α-Cyclodextrin,144,0.724
+Soil_2,Soil,1,0.1,N-Acetyl-D-Glucosamine,24,0.404
+Soil_2,Soil,1,0.1,N-Acetyl-D-Glucosamine,48,0.592
+Soil_2,Soil,1,0.1,N-Acetyl-D-Glucosamine,144,0.984
+Soil_2,Soil,1,0.1,γ-Hydroxybutyric Acid,24,0.537
+Soil_2,Soil,1,0.1,γ-Hydroxybutyric Acid,48,0.554
+Soil_2,Soil,1,0.1,γ-Hydroxybutyric Acid,144,0.96
+Soil_2,Soil,1,0.1,L-Threonine,24,0.344
+Soil_2,Soil,1,0.1,L-Threonine,48,0.39
+Soil_2,Soil,1,0.1,L-Threonine,144,0.825
+Soil_2,Soil,1,0.1,Glycogen,24,0.241
+Soil_2,Soil,1,0.1,Glycogen,48,0.375
+Soil_2,Soil,1,0.1,Glycogen,144,0.652
+Soil_2,Soil,1,0.1,D-Glucosaminic Acid,24,0.474
+Soil_2,Soil,1,0.1,D-Glucosaminic Acid,48,0.507
+Soil_2,Soil,1,0.1,D-Glucosaminic Acid,144,1.036
+Soil_2,Soil,1,0.1,Itaconic Acid,24,0.405
+Soil_2,Soil,1,0.1,Itaconic Acid,48,0.463
+Soil_2,Soil,1,0.1,Itaconic Acid,144,0.811
+Soil_2,Soil,1,0.1,Glycyl-L-Glutamic Acid,24,0.292
+Soil_2,Soil,1,0.1,Glycyl-L-Glutamic Acid,48,0.343
+Soil_2,Soil,1,0.1,Glycyl-L-Glutamic Acid,144,0.757
+Soil_2,Soil,1,0.1,D-Cellobiose,24,0.124
+Soil_2,Soil,1,0.1,D-Cellobiose,48,0.289
+Soil_2,Soil,1,0.1,D-Cellobiose,144,0.387
+Soil_2,Soil,1,0.1,Glucose-1-Phosphate,24,0.437
+Soil_2,Soil,1,0.1,Glucose-1-Phosphate,48,0.447
+Soil_2,Soil,1,0.1,Glucose-1-Phosphate,144,0.817
+Soil_2,Soil,1,0.1,α-Ketobutyric Acid,24,0.334
+Soil_2,Soil,1,0.1,α-Ketobutyric Acid,48,0.4
+Soil_2,Soil,1,0.1,α-Ketobutyric Acid,144,0.781
+Soil_2,Soil,1,0.1,Phenylethylamine,24,0.446
+Soil_2,Soil,1,0.1,Phenylethylamine,48,0.498
+Soil_2,Soil,1,0.1,Phenylethylamine,144,0.899
+Soil_2,Soil,1,0.1,α-D-Lactose,24,0.052
+Soil_2,Soil,1,0.1,α-D-Lactose,48,0.072
+Soil_2,Soil,1,0.1,α-D-Lactose,144,0.364
+Soil_2,Soil,1,0.1,D.L -α-Glycerol Phosphate,24,0.237
+Soil_2,Soil,1,0.1,D.L -α-Glycerol Phosphate,48,0.172
+Soil_2,Soil,1,0.1,D.L -α-Glycerol Phosphate,144,0.252
+Soil_2,Soil,1,0.1,D-Mallic Acid,24,0.218
+Soil_2,Soil,1,0.1,D-Mallic Acid,48,0.274
+Soil_2,Soil,1,0.1,D-Mallic Acid,144,0.456
+Soil_2,Soil,1,0.1,Putrescine,24,0.277
+Soil_2,Soil,1,0.1,Putrescine,48,0.342
+Soil_2,Soil,1,0.1,Putrescine,144,0.467
+Soil_2,Soil,2,0.001,Water,24,0
+Soil_2,Soil,2,0.001,Water,48,0
+Soil_2,Soil,2,0.001,Water,144,0
+Soil_2,Soil,2,0.001,β-Methyl-D- Glucoside,24,0
+Soil_2,Soil,2,0.001,β-Methyl-D- Glucoside,48,0.209
+Soil_2,Soil,2,0.001,β-Methyl-D- Glucoside,144,1.372
+Soil_2,Soil,2,0.001,D-Galactonic Acid γ-Lactone,24,0.733
+Soil_2,Soil,2,0.001,D-Galactonic Acid γ-Lactone,48,1.365
+Soil_2,Soil,2,0.001,D-Galactonic Acid γ-Lactone,144,1.826
+Soil_2,Soil,2,0.001,L-Arginine,24,1.273
+Soil_2,Soil,2,0.001,L-Arginine,48,1.988
+Soil_2,Soil,2,0.001,L-Arginine,144,1.807
+Soil_2,Soil,2,0.001,Pyruvic Acid Methyl Ester,24,0.932
+Soil_2,Soil,2,0.001,Pyruvic Acid Methyl Ester,48,1.513
+Soil_2,Soil,2,0.001,Pyruvic Acid Methyl Ester,144,2.559
+Soil_2,Soil,2,0.001,D-Xylose,24,0.127
+Soil_2,Soil,2,0.001,D-Xylose,48,0.264
+Soil_2,Soil,2,0.001,D-Xylose,144,2.632
+Soil_2,Soil,2,0.001,D-Galacturonic Acid,24,0.164
+Soil_2,Soil,2,0.001,D-Galacturonic Acid,48,1.232
+Soil_2,Soil,2,0.001,D-Galacturonic Acid,144,2.433
+Soil_2,Soil,2,0.001,L-Asparganine,24,1.501
+Soil_2,Soil,2,0.001,L-Asparganine,48,2.518
+Soil_2,Soil,2,0.001,L-Asparganine,144,2.643
+Soil_2,Soil,2,0.001,Tween 40,24,0.677
+Soil_2,Soil,2,0.001,Tween 40,48,0.958
+Soil_2,Soil,2,0.001,Tween 40,144,1.707
+Soil_2,Soil,2,0.001,i-Erythitol,24,0
+Soil_2,Soil,2,0.001,i-Erythitol,48,0.462
+Soil_2,Soil,2,0.001,i-Erythitol,144,2.922
+Soil_2,Soil,2,0.001,2-Hydroxy Benzoic Acid,24,0.153
+Soil_2,Soil,2,0.001,2-Hydroxy Benzoic Acid,48,0.357
+Soil_2,Soil,2,0.001,2-Hydroxy Benzoic Acid,144,1.269
+Soil_2,Soil,2,0.001,L-Phenylalanine,24,0
+Soil_2,Soil,2,0.001,L-Phenylalanine,48,0.157
+Soil_2,Soil,2,0.001,L-Phenylalanine,144,2.503
+Soil_2,Soil,2,0.001,Tween 80,24,0.631
+Soil_2,Soil,2,0.001,Tween 80,48,1.014
+Soil_2,Soil,2,0.001,Tween 80,144,1.951
+Soil_2,Soil,2,0.001,D-Mannitol,24,0.559
+Soil_2,Soil,2,0.001,D-Mannitol,48,1.58
+Soil_2,Soil,2,0.001,D-Mannitol,144,2.644
+Soil_2,Soil,2,0.001,4-Hydroxy Benzoic Acid,24,0.37
+Soil_2,Soil,2,0.001,4-Hydroxy Benzoic Acid,48,1.115
+Soil_2,Soil,2,0.001,4-Hydroxy Benzoic Acid,144,1.777
+Soil_2,Soil,2,0.001,L-Serine,24,0.688
+Soil_2,Soil,2,0.001,L-Serine,48,1.762
+Soil_2,Soil,2,0.001,L-Serine,144,1.9
+Soil_2,Soil,2,0.001,α-Cyclodextrin,24,0.326
+Soil_2,Soil,2,0.001,α-Cyclodextrin,48,0.169
+Soil_2,Soil,2,0.001,α-Cyclodextrin,144,0.88
+Soil_2,Soil,2,0.001,N-Acetyl-D-Glucosamine,24,0.269
+Soil_2,Soil,2,0.001,N-Acetyl-D-Glucosamine,48,0.79
+Soil_2,Soil,2,0.001,N-Acetyl-D-Glucosamine,144,2.406
+Soil_2,Soil,2,0.001,γ-Hydroxybutyric Acid,24,0.259
+Soil_2,Soil,2,0.001,γ-Hydroxybutyric Acid,48,0.349
+Soil_2,Soil,2,0.001,γ-Hydroxybutyric Acid,144,0.831
+Soil_2,Soil,2,0.001,L-Threonine,24,0
+Soil_2,Soil,2,0.001,L-Threonine,48,0.014
+Soil_2,Soil,2,0.001,L-Threonine,144,2.002
+Soil_2,Soil,2,0.001,Glycogen,24,0.56
+Soil_2,Soil,2,0.001,Glycogen,48,0.856
+Soil_2,Soil,2,0.001,Glycogen,144,1.708
+Soil_2,Soil,2,0.001,D-Glucosaminic Acid,24,0
+Soil_2,Soil,2,0.001,D-Glucosaminic Acid,48,0.317
+Soil_2,Soil,2,0.001,D-Glucosaminic Acid,144,2.801
+Soil_2,Soil,2,0.001,Itaconic Acid,24,0
+Soil_2,Soil,2,0.001,Itaconic Acid,48,0
+Soil_2,Soil,2,0.001,Itaconic Acid,144,2.462
+Soil_2,Soil,2,0.001,Glycyl-L-Glutamic Acid,24,0.241
+Soil_2,Soil,2,0.001,Glycyl-L-Glutamic Acid,48,0.968
+Soil_2,Soil,2,0.001,Glycyl-L-Glutamic Acid,144,1.344
+Soil_2,Soil,2,0.001,D-Cellobiose,24,0.126
+Soil_2,Soil,2,0.001,D-Cellobiose,48,0.309
+Soil_2,Soil,2,0.001,D-Cellobiose,144,1.526
+Soil_2,Soil,2,0.001,Glucose-1-Phosphate,24,0
+Soil_2,Soil,2,0.001,Glucose-1-Phosphate,48,0.445
+Soil_2,Soil,2,0.001,Glucose-1-Phosphate,144,1.803
+Soil_2,Soil,2,0.001,α-Ketobutyric Acid,24,0
+Soil_2,Soil,2,0.001,α-Ketobutyric Acid,48,0.293
+Soil_2,Soil,2,0.001,α-Ketobutyric Acid,144,2.174
+Soil_2,Soil,2,0.001,Phenylethylamine,24,0.784
+Soil_2,Soil,2,0.001,Phenylethylamine,48,1.58
+Soil_2,Soil,2,0.001,Phenylethylamine,144,2.177
+Soil_2,Soil,2,0.001,α-D-Lactose,24,0
+Soil_2,Soil,2,0.001,α-D-Lactose,48,0.144
+Soil_2,Soil,2,0.001,α-D-Lactose,144,1.772
+Soil_2,Soil,2,0.001,D.L -α-Glycerol Phosphate,24,0.584
+Soil_2,Soil,2,0.001,D.L -α-Glycerol Phosphate,48,0
+Soil_2,Soil,2,0.001,D.L -α-Glycerol Phosphate,144,0.144
+Soil_2,Soil,2,0.001,D-Mallic Acid,24,0.57
+Soil_2,Soil,2,0.001,D-Mallic Acid,48,1.241
+Soil_2,Soil,2,0.001,D-Mallic Acid,144,1.316
+Soil_2,Soil,2,0.001,Putrescine,24,0.899
+Soil_2,Soil,2,0.001,Putrescine,48,1.006
+Soil_2,Soil,2,0.001,Putrescine,144,0.77
+Soil_2,Soil,2,0.01,Water,24,0
+Soil_2,Soil,2,0.01,Water,48,0
+Soil_2,Soil,2,0.01,Water,144,0
+Soil_2,Soil,2,0.01,β-Methyl-D- Glucoside,24,0
+Soil_2,Soil,2,0.01,β-Methyl-D- Glucoside,48,0.96
+Soil_2,Soil,2,0.01,β-Methyl-D- Glucoside,144,0.758
+Soil_2,Soil,2,0.01,D-Galactonic Acid γ-Lactone,24,0.529
+Soil_2,Soil,2,0.01,D-Galactonic Acid γ-Lactone,48,0.92
+Soil_2,Soil,2,0.01,D-Galactonic Acid γ-Lactone,144,1.298
+Soil_2,Soil,2,0.01,L-Arginine,24,0.887
+Soil_2,Soil,2,0.01,L-Arginine,48,1.24
+Soil_2,Soil,2,0.01,L-Arginine,144,1.5
+Soil_2,Soil,2,0.01,Pyruvic Acid Methyl Ester,24,0.574
+Soil_2,Soil,2,0.01,Pyruvic Acid Methyl Ester,48,0.926
+Soil_2,Soil,2,0.01,Pyruvic Acid Methyl Ester,144,1.595
+Soil_2,Soil,2,0.01,D-Xylose,24,0.903
+Soil_2,Soil,2,0.01,D-Xylose,48,1.738
+Soil_2,Soil,2,0.01,D-Xylose,144,2.14
+Soil_2,Soil,2,0.01,D-Galacturonic Acid,24,1.13
+Soil_2,Soil,2,0.01,D-Galacturonic Acid,48,1.372
+Soil_2,Soil,2,0.01,D-Galacturonic Acid,144,1.666
+Soil_2,Soil,2,0.01,L-Asparganine,24,0.893
+Soil_2,Soil,2,0.01,L-Asparganine,48,1.513
+Soil_2,Soil,2,0.01,L-Asparganine,144,1.727
+Soil_2,Soil,2,0.01,Tween 40,24,0.04
+Soil_2,Soil,2,0.01,Tween 40,48,0.606
+Soil_2,Soil,2,0.01,Tween 40,144,1.967
+Soil_2,Soil,2,0.01,i-Erythitol,24,0.114
+Soil_2,Soil,2,0.01,i-Erythitol,48,0.346
+Soil_2,Soil,2,0.01,i-Erythitol,144,1.461
+Soil_2,Soil,2,0.01,2-Hydroxy Benzoic Acid,24,0.28
+Soil_2,Soil,2,0.01,2-Hydroxy Benzoic Acid,48,0.589
+Soil_2,Soil,2,0.01,2-Hydroxy Benzoic Acid,144,1.925
+Soil_2,Soil,2,0.01,L-Phenylalanine,24,0
+Soil_2,Soil,2,0.01,L-Phenylalanine,48,0.143
+Soil_2,Soil,2,0.01,L-Phenylalanine,144,1.694
+Soil_2,Soil,2,0.01,Tween 80,24,0.588
+Soil_2,Soil,2,0.01,Tween 80,48,0.809
+Soil_2,Soil,2,0.01,Tween 80,144,1.769
+Soil_2,Soil,2,0.01,D-Mannitol,24,0.534
+Soil_2,Soil,2,0.01,D-Mannitol,48,1.438
+Soil_2,Soil,2,0.01,D-Mannitol,144,1.873
+Soil_2,Soil,2,0.01,4-Hydroxy Benzoic Acid,24,0.512
+Soil_2,Soil,2,0.01,4-Hydroxy Benzoic Acid,48,1.077
+Soil_2,Soil,2,0.01,4-Hydroxy Benzoic Acid,144,1.874
+Soil_2,Soil,2,0.01,L-Serine,24,0.873
+Soil_2,Soil,2,0.01,L-Serine,48,1.529
+Soil_2,Soil,2,0.01,L-Serine,144,1.937
+Soil_2,Soil,2,0.01,α-Cyclodextrin,24,0.146
+Soil_2,Soil,2,0.01,α-Cyclodextrin,48,0.237
+Soil_2,Soil,2,0.01,α-Cyclodextrin,144,1.652
+Soil_2,Soil,2,0.01,N-Acetyl-D-Glucosamine,24,0.633
+Soil_2,Soil,2,0.01,N-Acetyl-D-Glucosamine,48,1.429
+Soil_2,Soil,2,0.01,N-Acetyl-D-Glucosamine,144,1.685
+Soil_2,Soil,2,0.01,γ-Hydroxybutyric Acid,24,0
+Soil_2,Soil,2,0.01,γ-Hydroxybutyric Acid,48,0.153
+Soil_2,Soil,2,0.01,γ-Hydroxybutyric Acid,144,0.127
+Soil_2,Soil,2,0.01,L-Threonine,24,0.24
+Soil_2,Soil,2,0.01,L-Threonine,48,0.391
+Soil_2,Soil,2,0.01,L-Threonine,144,1.455
+Soil_2,Soil,2,0.01,Glycogen,24,0.265
+Soil_2,Soil,2,0.01,Glycogen,48,1.072
+Soil_2,Soil,2,0.01,Glycogen,144,1.28
+Soil_2,Soil,2,0.01,D-Glucosaminic Acid,24,0.033
+Soil_2,Soil,2,0.01,D-Glucosaminic Acid,48,0.318
+Soil_2,Soil,2,0.01,D-Glucosaminic Acid,144,1.816
+Soil_2,Soil,2,0.01,Itaconic Acid,24,0.126
+Soil_2,Soil,2,0.01,Itaconic Acid,48,0.512
+Soil_2,Soil,2,0.01,Itaconic Acid,144,1.469
+Soil_2,Soil,2,0.01,Glycyl-L-Glutamic Acid,24,0.179
+Soil_2,Soil,2,0.01,Glycyl-L-Glutamic Acid,48,0.279
+Soil_2,Soil,2,0.01,Glycyl-L-Glutamic Acid,144,0.985
+Soil_2,Soil,2,0.01,D-Cellobiose,24,0.798
+Soil_2,Soil,2,0.01,D-Cellobiose,48,0.976
+Soil_2,Soil,2,0.01,D-Cellobiose,144,1.635
+Soil_2,Soil,2,0.01,Glucose-1-Phosphate,24,0
+Soil_2,Soil,2,0.01,Glucose-1-Phosphate,48,0.485
+Soil_2,Soil,2,0.01,Glucose-1-Phosphate,144,0.645
+Soil_2,Soil,2,0.01,α-Ketobutyric Acid,24,0
+Soil_2,Soil,2,0.01,α-Ketobutyric Acid,48,0
+Soil_2,Soil,2,0.01,α-Ketobutyric Acid,144,0
+Soil_2,Soil,2,0.01,Phenylethylamine,24,0.726
+Soil_2,Soil,2,0.01,Phenylethylamine,48,1.18
+Soil_2,Soil,2,0.01,Phenylethylamine,144,1.946
+Soil_2,Soil,2,0.01,α-D-Lactose,24,0
+Soil_2,Soil,2,0.01,α-D-Lactose,48,0.047
+Soil_2,Soil,2,0.01,α-D-Lactose,144,1.527
+Soil_2,Soil,2,0.01,D.L -α-Glycerol Phosphate,24,0.361
+Soil_2,Soil,2,0.01,D.L -α-Glycerol Phosphate,48,0.569
+Soil_2,Soil,2,0.01,D.L -α-Glycerol Phosphate,144,0.662
+Soil_2,Soil,2,0.01,D-Mallic Acid,24,0.407
+Soil_2,Soil,2,0.01,D-Mallic Acid,48,0.949
+Soil_2,Soil,2,0.01,D-Mallic Acid,144,1.356
+Soil_2,Soil,2,0.01,Putrescine,24,0.238
+Soil_2,Soil,2,0.01,Putrescine,48,0.603
+Soil_2,Soil,2,0.01,Putrescine,144,1.144
+Soil_2,Soil,2,0.1,Water,24,0
+Soil_2,Soil,2,0.1,Water,48,0
+Soil_2,Soil,2,0.1,Water,144,0
+Soil_2,Soil,2,0.1,β-Methyl-D- Glucoside,24,0.703
+Soil_2,Soil,2,0.1,β-Methyl-D- Glucoside,48,0.878
+Soil_2,Soil,2,0.1,β-Methyl-D- Glucoside,144,0.853
+Soil_2,Soil,2,0.1,D-Galactonic Acid γ-Lactone,24,0.374
+Soil_2,Soil,2,0.1,D-Galactonic Acid γ-Lactone,48,0.717
+Soil_2,Soil,2,0.1,D-Galactonic Acid γ-Lactone,144,0.957
+Soil_2,Soil,2,0.1,L-Arginine,24,0.575
+Soil_2,Soil,2,0.1,L-Arginine,48,0.984
+Soil_2,Soil,2,0.1,L-Arginine,144,1.306
+Soil_2,Soil,2,0.1,Pyruvic Acid Methyl Ester,24,0.499
+Soil_2,Soil,2,0.1,Pyruvic Acid Methyl Ester,48,0.637
+Soil_2,Soil,2,0.1,Pyruvic Acid Methyl Ester,144,0.565
+Soil_2,Soil,2,0.1,D-Xylose,24,0.513
+Soil_2,Soil,2,0.1,D-Xylose,48,1.015
+Soil_2,Soil,2,0.1,D-Xylose,144,1.594
+Soil_2,Soil,2,0.1,D-Galacturonic Acid,24,0.708
+Soil_2,Soil,2,0.1,D-Galacturonic Acid,48,0.943
+Soil_2,Soil,2,0.1,D-Galacturonic Acid,144,1.308
+Soil_2,Soil,2,0.1,L-Asparganine,24,0.761
+Soil_2,Soil,2,0.1,L-Asparganine,48,1.25
+Soil_2,Soil,2,0.1,L-Asparganine,144,1.725
+Soil_2,Soil,2,0.1,Tween 40,24,0.255
+Soil_2,Soil,2,0.1,Tween 40,48,0.584
+Soil_2,Soil,2,0.1,Tween 40,144,1.204
+Soil_2,Soil,2,0.1,i-Erythitol,24,0.153
+Soil_2,Soil,2,0.1,i-Erythitol,48,0.295
+Soil_2,Soil,2,0.1,i-Erythitol,144,1.618
+Soil_2,Soil,2,0.1,2-Hydroxy Benzoic Acid,24,0
+Soil_2,Soil,2,0.1,2-Hydroxy Benzoic Acid,48,0
+Soil_2,Soil,2,0.1,2-Hydroxy Benzoic Acid,144,0.79
+Soil_2,Soil,2,0.1,L-Phenylalanine,24,0.285
+Soil_2,Soil,2,0.1,L-Phenylalanine,48,0.403
+Soil_2,Soil,2,0.1,L-Phenylalanine,144,1.727
+Soil_2,Soil,2,0.1,Tween 80,24,0.516
+Soil_2,Soil,2,0.1,Tween 80,48,0.805
+Soil_2,Soil,2,0.1,Tween 80,144,1.415
+Soil_2,Soil,2,0.1,D-Mannitol,24,0.786
+Soil_2,Soil,2,0.1,D-Mannitol,48,1.127
+Soil_2,Soil,2,0.1,D-Mannitol,144,1.837
+Soil_2,Soil,2,0.1,4-Hydroxy Benzoic Acid,24,0.382
+Soil_2,Soil,2,0.1,4-Hydroxy Benzoic Acid,48,0.521
+Soil_2,Soil,2,0.1,4-Hydroxy Benzoic Acid,144,1.143
+Soil_2,Soil,2,0.1,L-Serine,24,0.662
+Soil_2,Soil,2,0.1,L-Serine,48,1.075
+Soil_2,Soil,2,0.1,L-Serine,144,1.67
+Soil_2,Soil,2,0.1,α-Cyclodextrin,24,0
+Soil_2,Soil,2,0.1,α-Cyclodextrin,48,0.545
+Soil_2,Soil,2,0.1,α-Cyclodextrin,144,1.276
+Soil_2,Soil,2,0.1,N-Acetyl-D-Glucosamine,24,0.472
+Soil_2,Soil,2,0.1,N-Acetyl-D-Glucosamine,48,1.103
+Soil_2,Soil,2,0.1,N-Acetyl-D-Glucosamine,144,1.641
+Soil_2,Soil,2,0.1,γ-Hydroxybutyric Acid,24,0
+Soil_2,Soil,2,0.1,γ-Hydroxybutyric Acid,48,0
+Soil_2,Soil,2,0.1,γ-Hydroxybutyric Acid,144,0
+Soil_2,Soil,2,0.1,L-Threonine,24,0.287
+Soil_2,Soil,2,0.1,L-Threonine,48,0.575
+Soil_2,Soil,2,0.1,L-Threonine,144,1.704
+Soil_2,Soil,2,0.1,Glycogen,24,0.566
+Soil_2,Soil,2,0.1,Glycogen,48,0.811
+Soil_2,Soil,2,0.1,Glycogen,144,0.834
+Soil_2,Soil,2,0.1,D-Glucosaminic Acid,24,0.229
+Soil_2,Soil,2,0.1,D-Glucosaminic Acid,48,0.4
+Soil_2,Soil,2,0.1,D-Glucosaminic Acid,144,1.284
+Soil_2,Soil,2,0.1,Itaconic Acid,24,0.339
+Soil_2,Soil,2,0.1,Itaconic Acid,48,0.683
+Soil_2,Soil,2,0.1,Itaconic Acid,144,1.585
+Soil_2,Soil,2,0.1,Glycyl-L-Glutamic Acid,24,0.186
+Soil_2,Soil,2,0.1,Glycyl-L-Glutamic Acid,48,0.319
+Soil_2,Soil,2,0.1,Glycyl-L-Glutamic Acid,144,1.113
+Soil_2,Soil,2,0.1,D-Cellobiose,24,0.05
+Soil_2,Soil,2,0.1,D-Cellobiose,48,0.821
+Soil_2,Soil,2,0.1,D-Cellobiose,144,1.153
+Soil_2,Soil,2,0.1,Glucose-1-Phosphate,24,0
+Soil_2,Soil,2,0.1,Glucose-1-Phosphate,48,0
+Soil_2,Soil,2,0.1,Glucose-1-Phosphate,144,0.704
+Soil_2,Soil,2,0.1,α-Ketobutyric Acid,24,0.244
+Soil_2,Soil,2,0.1,α-Ketobutyric Acid,48,0.385
+Soil_2,Soil,2,0.1,α-Ketobutyric Acid,144,1.006
+Soil_2,Soil,2,0.1,Phenylethylamine,24,0
+Soil_2,Soil,2,0.1,Phenylethylamine,48,0.112
+Soil_2,Soil,2,0.1,Phenylethylamine,144,1.717
+Soil_2,Soil,2,0.1,α-D-Lactose,24,0.043
+Soil_2,Soil,2,0.1,α-D-Lactose,48,0.559
+Soil_2,Soil,2,0.1,α-D-Lactose,144,0.963
+Soil_2,Soil,2,0.1,D.L -α-Glycerol Phosphate,24,0.265
+Soil_2,Soil,2,0.1,D.L -α-Glycerol Phosphate,48,0.273
+Soil_2,Soil,2,0.1,D.L -α-Glycerol Phosphate,144,0.218
+Soil_2,Soil,2,0.1,D-Mallic Acid,24,0.445
+Soil_2,Soil,2,0.1,D-Mallic Acid,48,0.446
+Soil_2,Soil,2,0.1,D-Mallic Acid,144,0.984
+Soil_2,Soil,2,0.1,Putrescine,24,0.48
+Soil_2,Soil,2,0.1,Putrescine,48,0.653
+Soil_2,Soil,2,0.1,Putrescine,144,0.794
+Soil_2,Soil,3,0.001,Water,24,0
+Soil_2,Soil,3,0.001,Water,48,0
+Soil_2,Soil,3,0.001,Water,144,0
+Soil_2,Soil,3,0.001,β-Methyl-D- Glucoside,24,0.06
+Soil_2,Soil,3,0.001,β-Methyl-D- Glucoside,48,0
+Soil_2,Soil,3,0.001,β-Methyl-D- Glucoside,144,1.493
+Soil_2,Soil,3,0.001,D-Galactonic Acid γ-Lactone,24,0.041
+Soil_2,Soil,3,0.001,D-Galactonic Acid γ-Lactone,48,0.729
+Soil_2,Soil,3,0.001,D-Galactonic Acid γ-Lactone,144,1.783
+Soil_2,Soil,3,0.001,L-Arginine,24,0.001
+Soil_2,Soil,3,0.001,L-Arginine,48,2.332
+Soil_2,Soil,3,0.001,L-Arginine,144,2.071
+Soil_2,Soil,3,0.001,Pyruvic Acid Methyl Ester,24,0.029
+Soil_2,Soil,3,0.001,Pyruvic Acid Methyl Ester,48,1.167
+Soil_2,Soil,3,0.001,Pyruvic Acid Methyl Ester,144,1.1
+Soil_2,Soil,3,0.001,D-Xylose,24,0.004
+Soil_2,Soil,3,0.001,D-Xylose,48,0
+Soil_2,Soil,3,0.001,D-Xylose,144,2.374
+Soil_2,Soil,3,0.001,D-Galacturonic Acid,24,0.167
+Soil_2,Soil,3,0.001,D-Galacturonic Acid,48,2.154
+Soil_2,Soil,3,0.001,D-Galacturonic Acid,144,2.156
+Soil_2,Soil,3,0.001,L-Asparganine,24,0.061
+Soil_2,Soil,3,0.001,L-Asparganine,48,2.785
+Soil_2,Soil,3,0.001,L-Asparganine,144,2.705
+Soil_2,Soil,3,0.001,Tween 40,24,0
+Soil_2,Soil,3,0.001,Tween 40,48,1.424
+Soil_2,Soil,3,0.001,Tween 40,144,2.134
+Soil_2,Soil,3,0.001,i-Erythitol,24,0
+Soil_2,Soil,3,0.001,i-Erythitol,48,0
+Soil_2,Soil,3,0.001,i-Erythitol,144,1.902
+Soil_2,Soil,3,0.001,2-Hydroxy Benzoic Acid,24,0.067
+Soil_2,Soil,3,0.001,2-Hydroxy Benzoic Acid,48,0
+Soil_2,Soil,3,0.001,2-Hydroxy Benzoic Acid,144,1.06
+Soil_2,Soil,3,0.001,L-Phenylalanine,24,0.139
+Soil_2,Soil,3,0.001,L-Phenylalanine,48,0.103
+Soil_2,Soil,3,0.001,L-Phenylalanine,144,1.856
+Soil_2,Soil,3,0.001,Tween 80,24,0.048
+Soil_2,Soil,3,0.001,Tween 80,48,1.494
+Soil_2,Soil,3,0.001,Tween 80,144,2.374
+Soil_2,Soil,3,0.001,D-Mannitol,24,0.229
+Soil_2,Soil,3,0.001,D-Mannitol,48,1.778
+Soil_2,Soil,3,0.001,D-Mannitol,144,2.79
+Soil_2,Soil,3,0.001,4-Hydroxy Benzoic Acid,24,0.307
+Soil_2,Soil,3,0.001,4-Hydroxy Benzoic Acid,48,1.465
+Soil_2,Soil,3,0.001,4-Hydroxy Benzoic Acid,144,2.587
+Soil_2,Soil,3,0.001,L-Serine,24,0.289
+Soil_2,Soil,3,0.001,L-Serine,48,2.451
+Soil_2,Soil,3,0.001,L-Serine,144,2.247
+Soil_2,Soil,3,0.001,α-Cyclodextrin,24,0.007
+Soil_2,Soil,3,0.001,α-Cyclodextrin,48,0.251
+Soil_2,Soil,3,0.001,α-Cyclodextrin,144,2.628
+Soil_2,Soil,3,0.001,N-Acetyl-D-Glucosamine,24,0.146
+Soil_2,Soil,3,0.001,N-Acetyl-D-Glucosamine,48,0.85
+Soil_2,Soil,3,0.001,N-Acetyl-D-Glucosamine,144,2.618
+Soil_2,Soil,3,0.001,γ-Hydroxybutyric Acid,24,0.12
+Soil_2,Soil,3,0.001,γ-Hydroxybutyric Acid,48,0.476
+Soil_2,Soil,3,0.001,γ-Hydroxybutyric Acid,144,0.33
+Soil_2,Soil,3,0.001,L-Threonine,24,0.202
+Soil_2,Soil,3,0.001,L-Threonine,48,0
+Soil_2,Soil,3,0.001,L-Threonine,144,1.148
+Soil_2,Soil,3,0.001,Glycogen,24,0.041
+Soil_2,Soil,3,0.001,Glycogen,48,2.022
+Soil_2,Soil,3,0.001,Glycogen,144,1.721
+Soil_2,Soil,3,0.001,D-Glucosaminic Acid,24,0.022
+Soil_2,Soil,3,0.001,D-Glucosaminic Acid,48,0.871
+Soil_2,Soil,3,0.001,D-Glucosaminic Acid,144,2.492
+Soil_2,Soil,3,0.001,Itaconic Acid,24,0.128
+Soil_2,Soil,3,0.001,Itaconic Acid,48,0
+Soil_2,Soil,3,0.001,Itaconic Acid,144,2.35
+Soil_2,Soil,3,0.001,Glycyl-L-Glutamic Acid,24,0.152
+Soil_2,Soil,3,0.001,Glycyl-L-Glutamic Acid,48,0.235
+Soil_2,Soil,3,0.001,Glycyl-L-Glutamic Acid,144,1.494
+Soil_2,Soil,3,0.001,D-Cellobiose,24,0
+Soil_2,Soil,3,0.001,D-Cellobiose,48,2.048
+Soil_2,Soil,3,0.001,D-Cellobiose,144,1.673
+Soil_2,Soil,3,0.001,Glucose-1-Phosphate,24,0.006
+Soil_2,Soil,3,0.001,Glucose-1-Phosphate,48,0
+Soil_2,Soil,3,0.001,Glucose-1-Phosphate,144,2.065
+Soil_2,Soil,3,0.001,α-Ketobutyric Acid,24,0.005
+Soil_2,Soil,3,0.001,α-Ketobutyric Acid,48,0.195
+Soil_2,Soil,3,0.001,α-Ketobutyric Acid,144,1.062
+Soil_2,Soil,3,0.001,Phenylethylamine,24,0.02
+Soil_2,Soil,3,0.001,Phenylethylamine,48,0.538
+Soil_2,Soil,3,0.001,Phenylethylamine,144,2.501
+Soil_2,Soil,3,0.001,α-D-Lactose,24,0.007
+Soil_2,Soil,3,0.001,α-D-Lactose,48,0
+Soil_2,Soil,3,0.001,α-D-Lactose,144,2.107
+Soil_2,Soil,3,0.001,D.L -α-Glycerol Phosphate,24,0.101
+Soil_2,Soil,3,0.001,D.L -α-Glycerol Phosphate,48,0.158
+Soil_2,Soil,3,0.001,D.L -α-Glycerol Phosphate,144,0.323
+Soil_2,Soil,3,0.001,D-Mallic Acid,24,0
+Soil_2,Soil,3,0.001,D-Mallic Acid,48,0.947
+Soil_2,Soil,3,0.001,D-Mallic Acid,144,1.65
+Soil_2,Soil,3,0.001,Putrescine,24,0.11
+Soil_2,Soil,3,0.001,Putrescine,48,1.47
+Soil_2,Soil,3,0.001,Putrescine,144,1.222
+Soil_2,Soil,3,0.01,Water,24,0
+Soil_2,Soil,3,0.01,Water,48,0
+Soil_2,Soil,3,0.01,Water,144,0
+Soil_2,Soil,3,0.01,β-Methyl-D- Glucoside,24,0
+Soil_2,Soil,3,0.01,β-Methyl-D- Glucoside,48,1.139
+Soil_2,Soil,3,0.01,β-Methyl-D- Glucoside,144,1.046
+Soil_2,Soil,3,0.01,D-Galactonic Acid γ-Lactone,24,0.004
+Soil_2,Soil,3,0.01,D-Galactonic Acid γ-Lactone,48,0.794
+Soil_2,Soil,3,0.01,D-Galactonic Acid γ-Lactone,144,1.332
+Soil_2,Soil,3,0.01,L-Arginine,24,0.006
+Soil_2,Soil,3,0.01,L-Arginine,48,1.623
+Soil_2,Soil,3,0.01,L-Arginine,144,1.369
+Soil_2,Soil,3,0.01,Pyruvic Acid Methyl Ester,24,0.024
+Soil_2,Soil,3,0.01,Pyruvic Acid Methyl Ester,48,1.1
+Soil_2,Soil,3,0.01,Pyruvic Acid Methyl Ester,144,1.878
+Soil_2,Soil,3,0.01,D-Xylose,24,0.065
+Soil_2,Soil,3,0.01,D-Xylose,48,1.413
+Soil_2,Soil,3,0.01,D-Xylose,144,1.802
+Soil_2,Soil,3,0.01,D-Galacturonic Acid,24,0.155
+Soil_2,Soil,3,0.01,D-Galacturonic Acid,48,1.593
+Soil_2,Soil,3,0.01,D-Galacturonic Acid,144,1.586
+Soil_2,Soil,3,0.01,L-Asparganine,24,0.171
+Soil_2,Soil,3,0.01,L-Asparganine,48,1.817
+Soil_2,Soil,3,0.01,L-Asparganine,144,1.914
+Soil_2,Soil,3,0.01,Tween 40,24,0.05
+Soil_2,Soil,3,0.01,Tween 40,48,1.241
+Soil_2,Soil,3,0.01,Tween 40,144,1.707
+Soil_2,Soil,3,0.01,i-Erythitol,24,0.165
+Soil_2,Soil,3,0.01,i-Erythitol,48,0.478
+Soil_2,Soil,3,0.01,i-Erythitol,144,1.11
+Soil_2,Soil,3,0.01,2-Hydroxy Benzoic Acid,24,0.198
+Soil_2,Soil,3,0.01,2-Hydroxy Benzoic Acid,48,0.422
+Soil_2,Soil,3,0.01,2-Hydroxy Benzoic Acid,144,1.807
+Soil_2,Soil,3,0.01,L-Phenylalanine,24,0.23
+Soil_2,Soil,3,0.01,L-Phenylalanine,48,0.798
+Soil_2,Soil,3,0.01,L-Phenylalanine,144,1.871
+Soil_2,Soil,3,0.01,Tween 80,24,0.181
+Soil_2,Soil,3,0.01,Tween 80,48,0.922
+Soil_2,Soil,3,0.01,Tween 80,144,1.918
+Soil_2,Soil,3,0.01,D-Mannitol,24,0.169
+Soil_2,Soil,3,0.01,D-Mannitol,48,1.734
+Soil_2,Soil,3,0.01,D-Mannitol,144,2.078
+Soil_2,Soil,3,0.01,4-Hydroxy Benzoic Acid,24,0.107
+Soil_2,Soil,3,0.01,4-Hydroxy Benzoic Acid,48,1.226
+Soil_2,Soil,3,0.01,4-Hydroxy Benzoic Acid,144,1.764
+Soil_2,Soil,3,0.01,L-Serine,24,0.263
+Soil_2,Soil,3,0.01,L-Serine,48,1.698
+Soil_2,Soil,3,0.01,L-Serine,144,1.975
+Soil_2,Soil,3,0.01,α-Cyclodextrin,24,0.239
+Soil_2,Soil,3,0.01,α-Cyclodextrin,48,0.328
+Soil_2,Soil,3,0.01,α-Cyclodextrin,144,1.691
+Soil_2,Soil,3,0.01,N-Acetyl-D-Glucosamine,24,0.188
+Soil_2,Soil,3,0.01,N-Acetyl-D-Glucosamine,48,1.46
+Soil_2,Soil,3,0.01,N-Acetyl-D-Glucosamine,144,1.744
+Soil_2,Soil,3,0.01,γ-Hydroxybutyric Acid,24,0.68
+Soil_2,Soil,3,0.01,γ-Hydroxybutyric Acid,48,0.47
+Soil_2,Soil,3,0.01,γ-Hydroxybutyric Acid,144,0.488
+Soil_2,Soil,3,0.01,L-Threonine,24,0.197
+Soil_2,Soil,3,0.01,L-Threonine,48,0.244
+Soil_2,Soil,3,0.01,L-Threonine,144,1.557
+Soil_2,Soil,3,0.01,Glycogen,24,0.213
+Soil_2,Soil,3,0.01,Glycogen,48,1.705
+Soil_2,Soil,3,0.01,Glycogen,144,1.544
+Soil_2,Soil,3,0.01,D-Glucosaminic Acid,24,0.197
+Soil_2,Soil,3,0.01,D-Glucosaminic Acid,48,0.672
+Soil_2,Soil,3,0.01,D-Glucosaminic Acid,144,2.124
+Soil_2,Soil,3,0.01,Itaconic Acid,24,0.199
+Soil_2,Soil,3,0.01,Itaconic Acid,48,0.883
+Soil_2,Soil,3,0.01,Itaconic Acid,144,1.911
+Soil_2,Soil,3,0.01,Glycyl-L-Glutamic Acid,24,0.255
+Soil_2,Soil,3,0.01,Glycyl-L-Glutamic Acid,48,0
+Soil_2,Soil,3,0.01,Glycyl-L-Glutamic Acid,144,1.336
+Soil_2,Soil,3,0.01,D-Cellobiose,24,0.055
+Soil_2,Soil,3,0.01,D-Cellobiose,48,0.344
+Soil_2,Soil,3,0.01,D-Cellobiose,144,1.835
+Soil_2,Soil,3,0.01,Glucose-1-Phosphate,24,0.062
+Soil_2,Soil,3,0.01,Glucose-1-Phosphate,48,0.144
+Soil_2,Soil,3,0.01,Glucose-1-Phosphate,144,1.072
+Soil_2,Soil,3,0.01,α-Ketobutyric Acid,24,0.084
+Soil_2,Soil,3,0.01,α-Ketobutyric Acid,48,0.203
+Soil_2,Soil,3,0.01,α-Ketobutyric Acid,144,1.228
+Soil_2,Soil,3,0.01,Phenylethylamine,24,0.079
+Soil_2,Soil,3,0.01,Phenylethylamine,48,1.495
+Soil_2,Soil,3,0.01,Phenylethylamine,144,2.053
+Soil_2,Soil,3,0.01,α-D-Lactose,24,0
+Soil_2,Soil,3,0.01,α-D-Lactose,48,0
+Soil_2,Soil,3,0.01,α-D-Lactose,144,0.681
+Soil_2,Soil,3,0.01,D.L -α-Glycerol Phosphate,24,0
+Soil_2,Soil,3,0.01,D.L -α-Glycerol Phosphate,48,0.031
+Soil_2,Soil,3,0.01,D.L -α-Glycerol Phosphate,144,0.002
+Soil_2,Soil,3,0.01,D-Mallic Acid,24,0.027
+Soil_2,Soil,3,0.01,D-Mallic Acid,48,0.583
+Soil_2,Soil,3,0.01,D-Mallic Acid,144,1.084
+Soil_2,Soil,3,0.01,Putrescine,24,0
+Soil_2,Soil,3,0.01,Putrescine,48,0.746
+Soil_2,Soil,3,0.01,Putrescine,144,1.081
+Soil_2,Soil,3,0.1,Water,24,0
+Soil_2,Soil,3,0.1,Water,48,0
+Soil_2,Soil,3,0.1,Water,144,0
+Soil_2,Soil,3,0.1,β-Methyl-D- Glucoside,24,0
+Soil_2,Soil,3,0.1,β-Methyl-D- Glucoside,48,0
+Soil_2,Soil,3,0.1,β-Methyl-D- Glucoside,144,0
+Soil_2,Soil,3,0.1,D-Galactonic Acid γ-Lactone,24,0.001
+Soil_2,Soil,3,0.1,D-Galactonic Acid γ-Lactone,48,0
+Soil_2,Soil,3,0.1,D-Galactonic Acid γ-Lactone,144,0
+Soil_2,Soil,3,0.1,L-Arginine,24,0
+Soil_2,Soil,3,0.1,L-Arginine,48,0
+Soil_2,Soil,3,0.1,L-Arginine,144,0
+Soil_2,Soil,3,0.1,Pyruvic Acid Methyl Ester,24,0.192
+Soil_2,Soil,3,0.1,Pyruvic Acid Methyl Ester,48,0.494
+Soil_2,Soil,3,0.1,Pyruvic Acid Methyl Ester,144,0.589
+Soil_2,Soil,3,0.1,D-Xylose,24,0.147
+Soil_2,Soil,3,0.1,D-Xylose,48,0.324
+Soil_2,Soil,3,0.1,D-Xylose,144,0.364
+Soil_2,Soil,3,0.1,D-Galacturonic Acid,24,0.008
+Soil_2,Soil,3,0.1,D-Galacturonic Acid,48,0.382
+Soil_2,Soil,3,0.1,D-Galacturonic Acid,144,0.305
+Soil_2,Soil,3,0.1,L-Asparganine,24,0
+Soil_2,Soil,3,0.1,L-Asparganine,48,0
+Soil_2,Soil,3,0.1,L-Asparganine,144,0
+Soil_2,Soil,3,0.1,Tween 40,24,0
+Soil_2,Soil,3,0.1,Tween 40,48,0.172
+Soil_2,Soil,3,0.1,Tween 40,144,0.346
+Soil_2,Soil,3,0.1,i-Erythitol,24,0.182
+Soil_2,Soil,3,0.1,i-Erythitol,48,0.303
+Soil_2,Soil,3,0.1,i-Erythitol,144,0.423
+Soil_2,Soil,3,0.1,2-Hydroxy Benzoic Acid,24,0.003
+Soil_2,Soil,3,0.1,2-Hydroxy Benzoic Acid,48,0.297
+Soil_2,Soil,3,0.1,2-Hydroxy Benzoic Acid,144,0.532
+Soil_2,Soil,3,0.1,L-Phenylalanine,24,0
+Soil_2,Soil,3,0.1,L-Phenylalanine,48,0
+Soil_2,Soil,3,0.1,L-Phenylalanine,144,0
+Soil_2,Soil,3,0.1,Tween 80,24,0
+Soil_2,Soil,3,0.1,Tween 80,48,0.27
+Soil_2,Soil,3,0.1,Tween 80,144,0.337
+Soil_2,Soil,3,0.1,D-Mannitol,24,0
+Soil_2,Soil,3,0.1,D-Mannitol,48,0.414
+Soil_2,Soil,3,0.1,D-Mannitol,144,0.63
+Soil_2,Soil,3,0.1,4-Hydroxy Benzoic Acid,24,0.081
+Soil_2,Soil,3,0.1,4-Hydroxy Benzoic Acid,48,0.66
+Soil_2,Soil,3,0.1,4-Hydroxy Benzoic Acid,144,0.606
+Soil_2,Soil,3,0.1,L-Serine,24,0
+Soil_2,Soil,3,0.1,L-Serine,48,0
+Soil_2,Soil,3,0.1,L-Serine,144,0
+Soil_2,Soil,3,0.1,α-Cyclodextrin,24,0.188
+Soil_2,Soil,3,0.1,α-Cyclodextrin,48,0.479
+Soil_2,Soil,3,0.1,α-Cyclodextrin,144,0.585
+Soil_2,Soil,3,0.1,N-Acetyl-D-Glucosamine,24,0.258
+Soil_2,Soil,3,0.1,N-Acetyl-D-Glucosamine,48,0.5
+Soil_2,Soil,3,0.1,N-Acetyl-D-Glucosamine,144,0.478
+Soil_2,Soil,3,0.1,γ-Hydroxybutyric Acid,24,0.54
+Soil_2,Soil,3,0.1,γ-Hydroxybutyric Acid,48,0.471
+Soil_2,Soil,3,0.1,γ-Hydroxybutyric Acid,144,0.369
+Soil_2,Soil,3,0.1,L-Threonine,24,0
+Soil_2,Soil,3,0.1,L-Threonine,48,0
+Soil_2,Soil,3,0.1,L-Threonine,144,0
+Soil_2,Soil,3,0.1,Glycogen,24,0.198
+Soil_2,Soil,3,0.1,Glycogen,48,0.503
+Soil_2,Soil,3,0.1,Glycogen,144,0.67
+Soil_2,Soil,3,0.1,D-Glucosaminic Acid,24,0.215
+Soil_2,Soil,3,0.1,D-Glucosaminic Acid,48,0.302
+Soil_2,Soil,3,0.1,D-Glucosaminic Acid,144,0.276
+Soil_2,Soil,3,0.1,Itaconic Acid,24,0.1
+Soil_2,Soil,3,0.1,Itaconic Acid,48,0.331
+Soil_2,Soil,3,0.1,Itaconic Acid,144,0.586
+Soil_2,Soil,3,0.1,Glycyl-L-Glutamic Acid,24,0
+Soil_2,Soil,3,0.1,Glycyl-L-Glutamic Acid,48,0
+Soil_2,Soil,3,0.1,Glycyl-L-Glutamic Acid,144,0
+Soil_2,Soil,3,0.1,D-Cellobiose,24,0.058
+Soil_2,Soil,3,0.1,D-Cellobiose,48,0.442
+Soil_2,Soil,3,0.1,D-Cellobiose,144,0.602
+Soil_2,Soil,3,0.1,Glucose-1-Phosphate,24,0.11
+Soil_2,Soil,3,0.1,Glucose-1-Phosphate,48,0.355
+Soil_2,Soil,3,0.1,Glucose-1-Phosphate,144,0.309
+Soil_2,Soil,3,0.1,α-Ketobutyric Acid,24,0.005
+Soil_2,Soil,3,0.1,α-Ketobutyric Acid,48,0.203
+Soil_2,Soil,3,0.1,α-Ketobutyric Acid,144,0.345
+Soil_2,Soil,3,0.1,Phenylethylamine,24,0
+Soil_2,Soil,3,0.1,Phenylethylamine,48,0
+Soil_2,Soil,3,0.1,Phenylethylamine,144,0
+Soil_2,Soil,3,0.1,α-D-Lactose,24,0.002
+Soil_2,Soil,3,0.1,α-D-Lactose,48,0
+Soil_2,Soil,3,0.1,α-D-Lactose,144,0.025
+Soil_2,Soil,3,0.1,D.L -α-Glycerol Phosphate,24,0.001
+Soil_2,Soil,3,0.1,D.L -α-Glycerol Phosphate,48,0
+Soil_2,Soil,3,0.1,D.L -α-Glycerol Phosphate,144,0
+Soil_2,Soil,3,0.1,D-Mallic Acid,24,0
+Soil_2,Soil,3,0.1,D-Mallic Acid,48,0
+Soil_2,Soil,3,0.1,D-Mallic Acid,144,0
+Soil_2,Soil,3,0.1,Putrescine,24,0
+Soil_2,Soil,3,0.1,Putrescine,48,0
+Soil_2,Soil,3,0.1,Putrescine,144,0
+Waste_Water,Water,1,0.001,Water,24,0
+Waste_Water,Water,1,0.001,Water,48,0
+Waste_Water,Water,1,0.001,Water,144,0
+Waste_Water,Water,1,0.001,β-Methyl-D- Glucoside,24,0
+Waste_Water,Water,1,0.001,β-Methyl-D- Glucoside,48,0
+Waste_Water,Water,1,0.001,β-Methyl-D- Glucoside,144,0
+Waste_Water,Water,1,0.001,D-Galactonic Acid γ-Lactone,24,0
+Waste_Water,Water,1,0.001,D-Galactonic Acid γ-Lactone,48,0.037
+Waste_Water,Water,1,0.001,D-Galactonic Acid γ-Lactone,144,0
+Waste_Water,Water,1,0.001,L-Arginine,24,0.396
+Waste_Water,Water,1,0.001,L-Arginine,48,0
+Waste_Water,Water,1,0.001,L-Arginine,144,0
+Waste_Water,Water,1,0.001,Pyruvic Acid Methyl Ester,24,0
+Waste_Water,Water,1,0.001,Pyruvic Acid Methyl Ester,48,0.497
+Waste_Water,Water,1,0.001,Pyruvic Acid Methyl Ester,144,0.673
+Waste_Water,Water,1,0.001,D-Xylose,24,0.017
+Waste_Water,Water,1,0.001,D-Xylose,48,0
+Waste_Water,Water,1,0.001,D-Xylose,144,0.251
+Waste_Water,Water,1,0.001,D-Galacturonic Acid,24,0
+Waste_Water,Water,1,0.001,D-Galacturonic Acid,48,0
+Waste_Water,Water,1,0.001,D-Galacturonic Acid,144,0.224
+Waste_Water,Water,1,0.001,L-Asparganine,24,0
+Waste_Water,Water,1,0.001,L-Asparganine,48,0
+Waste_Water,Water,1,0.001,L-Asparganine,144,0
+Waste_Water,Water,1,0.001,Tween 40,24,0.002
+Waste_Water,Water,1,0.001,Tween 40,48,0.261
+Waste_Water,Water,1,0.001,Tween 40,144,1.025
+Waste_Water,Water,1,0.001,i-Erythitol,24,0
+Waste_Water,Water,1,0.001,i-Erythitol,48,0.364
+Waste_Water,Water,1,0.001,i-Erythitol,144,1.394
+Waste_Water,Water,1,0.001,2-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,1,0.001,2-Hydroxy Benzoic Acid,48,0
+Waste_Water,Water,1,0.001,2-Hydroxy Benzoic Acid,144,0
+Waste_Water,Water,1,0.001,L-Phenylalanine,24,0
+Waste_Water,Water,1,0.001,L-Phenylalanine,48,0.007
+Waste_Water,Water,1,0.001,L-Phenylalanine,144,0
+Waste_Water,Water,1,0.001,Tween 80,24,0
+Waste_Water,Water,1,0.001,Tween 80,48,0.31
+Waste_Water,Water,1,0.001,Tween 80,144,1.365
+Waste_Water,Water,1,0.001,D-Mannitol,24,0
+Waste_Water,Water,1,0.001,D-Mannitol,48,0.755
+Waste_Water,Water,1,0.001,D-Mannitol,144,1.073
+Waste_Water,Water,1,0.001,4-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,1,0.001,4-Hydroxy Benzoic Acid,48,0.005
+Waste_Water,Water,1,0.001,4-Hydroxy Benzoic Acid,144,0
+Waste_Water,Water,1,0.001,L-Serine,24,0
+Waste_Water,Water,1,0.001,L-Serine,48,0.013
+Waste_Water,Water,1,0.001,L-Serine,144,0
+Waste_Water,Water,1,0.001,α-Cyclodextrin,24,0.008
+Waste_Water,Water,1,0.001,α-Cyclodextrin,48,0.971
+Waste_Water,Water,1,0.001,α-Cyclodextrin,144,1.385
+Waste_Water,Water,1,0.001,N-Acetyl-D-Glucosamine,24,0.008
+Waste_Water,Water,1,0.001,N-Acetyl-D-Glucosamine,48,0.325
+Waste_Water,Water,1,0.001,N-Acetyl-D-Glucosamine,144,1.687
+Waste_Water,Water,1,0.001,γ-Hydroxybutyric Acid,24,0
+Waste_Water,Water,1,0.001,γ-Hydroxybutyric Acid,48,0.04
+Waste_Water,Water,1,0.001,γ-Hydroxybutyric Acid,144,0.694
+Waste_Water,Water,1,0.001,L-Threonine,24,0
+Waste_Water,Water,1,0.001,L-Threonine,48,0.017
+Waste_Water,Water,1,0.001,L-Threonine,144,0
+Waste_Water,Water,1,0.001,Glycogen,24,0
+Waste_Water,Water,1,0.001,Glycogen,48,0.262
+Waste_Water,Water,1,0.001,Glycogen,144,1.63
+Waste_Water,Water,1,0.001,D-Glucosaminic Acid,24,0
+Waste_Water,Water,1,0.001,D-Glucosaminic Acid,48,0.003
+Waste_Water,Water,1,0.001,D-Glucosaminic Acid,144,0
+Waste_Water,Water,1,0.001,Itaconic Acid,24,0
+Waste_Water,Water,1,0.001,Itaconic Acid,48,0
+Waste_Water,Water,1,0.001,Itaconic Acid,144,0
+Waste_Water,Water,1,0.001,Glycyl-L-Glutamic Acid,24,0
+Waste_Water,Water,1,0.001,Glycyl-L-Glutamic Acid,48,0
+Waste_Water,Water,1,0.001,Glycyl-L-Glutamic Acid,144,0.061
+Waste_Water,Water,1,0.001,D-Cellobiose,24,0
+Waste_Water,Water,1,0.001,D-Cellobiose,48,0
+Waste_Water,Water,1,0.001,D-Cellobiose,144,1.448
+Waste_Water,Water,1,0.001,Glucose-1-Phosphate,24,0
+Waste_Water,Water,1,0.001,Glucose-1-Phosphate,48,0.003
+Waste_Water,Water,1,0.001,Glucose-1-Phosphate,144,0
+Waste_Water,Water,1,0.001,α-Ketobutyric Acid,24,0
+Waste_Water,Water,1,0.001,α-Ketobutyric Acid,48,0
+Waste_Water,Water,1,0.001,α-Ketobutyric Acid,144,0
+Waste_Water,Water,1,0.001,Phenylethylamine,24,0.315
+Waste_Water,Water,1,0.001,Phenylethylamine,48,0
+Waste_Water,Water,1,0.001,Phenylethylamine,144,0
+Waste_Water,Water,1,0.001,α-D-Lactose,24,0
+Waste_Water,Water,1,0.001,α-D-Lactose,48,0.001
+Waste_Water,Water,1,0.001,α-D-Lactose,144,0
+Waste_Water,Water,1,0.001,D.L -α-Glycerol Phosphate,24,0
+Waste_Water,Water,1,0.001,D.L -α-Glycerol Phosphate,48,0.002
+Waste_Water,Water,1,0.001,D.L -α-Glycerol Phosphate,144,0
+Waste_Water,Water,1,0.001,D-Mallic Acid,24,0.057
+Waste_Water,Water,1,0.001,D-Mallic Acid,48,0.001
+Waste_Water,Water,1,0.001,D-Mallic Acid,144,0
+Waste_Water,Water,1,0.001,Putrescine,24,0
+Waste_Water,Water,1,0.001,Putrescine,48,0
+Waste_Water,Water,1,0.001,Putrescine,144,0
+Waste_Water,Water,1,0.01,Water,24,0
+Waste_Water,Water,1,0.01,Water,48,0
+Waste_Water,Water,1,0.01,Water,144,0
+Waste_Water,Water,1,0.01,β-Methyl-D- Glucoside,24,0
+Waste_Water,Water,1,0.01,β-Methyl-D- Glucoside,48,0.019
+Waste_Water,Water,1,0.01,β-Methyl-D- Glucoside,144,0
+Waste_Water,Water,1,0.01,D-Galactonic Acid γ-Lactone,24,0
+Waste_Water,Water,1,0.01,D-Galactonic Acid γ-Lactone,48,0
+Waste_Water,Water,1,0.01,D-Galactonic Acid γ-Lactone,144,0
+Waste_Water,Water,1,0.01,L-Arginine,24,0.016
+Waste_Water,Water,1,0.01,L-Arginine,48,0.017
+Waste_Water,Water,1,0.01,L-Arginine,144,0
+Waste_Water,Water,1,0.01,Pyruvic Acid Methyl Ester,24,0.032
+Waste_Water,Water,1,0.01,Pyruvic Acid Methyl Ester,48,0.388
+Waste_Water,Water,1,0.01,Pyruvic Acid Methyl Ester,144,1.022
+Waste_Water,Water,1,0.01,D-Xylose,24,0.029
+Waste_Water,Water,1,0.01,D-Xylose,48,0
+Waste_Water,Water,1,0.01,D-Xylose,144,0.01
+Waste_Water,Water,1,0.01,D-Galacturonic Acid,24,0.004
+Waste_Water,Water,1,0.01,D-Galacturonic Acid,48,0.05
+Waste_Water,Water,1,0.01,D-Galacturonic Acid,144,0.303
+Waste_Water,Water,1,0.01,L-Asparganine,24,0.005
+Waste_Water,Water,1,0.01,L-Asparganine,48,0.626
+Waste_Water,Water,1,0.01,L-Asparganine,144,1.613
+Waste_Water,Water,1,0.01,Tween 40,24,0.011
+Waste_Water,Water,1,0.01,Tween 40,48,0
+Waste_Water,Water,1,0.01,Tween 40,144,0.016
+Waste_Water,Water,1,0.01,i-Erythitol,24,0
+Waste_Water,Water,1,0.01,i-Erythitol,48,0.099
+Waste_Water,Water,1,0.01,i-Erythitol,144,0.238
+Waste_Water,Water,1,0.01,2-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,1,0.01,2-Hydroxy Benzoic Acid,48,0
+Waste_Water,Water,1,0.01,2-Hydroxy Benzoic Acid,144,0.016
+Waste_Water,Water,1,0.01,L-Phenylalanine,24,0.003
+Waste_Water,Water,1,0.01,L-Phenylalanine,48,0
+Waste_Water,Water,1,0.01,L-Phenylalanine,144,0
+Waste_Water,Water,1,0.01,Tween 80,24,0.028
+Waste_Water,Water,1,0.01,Tween 80,48,0
+Waste_Water,Water,1,0.01,Tween 80,144,1.712
+Waste_Water,Water,1,0.01,D-Mannitol,24,0.032
+Waste_Water,Water,1,0.01,D-Mannitol,48,0.84
+Waste_Water,Water,1,0.01,D-Mannitol,144,1.594
+Waste_Water,Water,1,0.01,4-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,1,0.01,4-Hydroxy Benzoic Acid,48,0.506
+Waste_Water,Water,1,0.01,4-Hydroxy Benzoic Acid,144,1.331
+Waste_Water,Water,1,0.01,L-Serine,24,0
+Waste_Water,Water,1,0.01,L-Serine,48,0.437
+Waste_Water,Water,1,0.01,L-Serine,144,1.085
+Waste_Water,Water,1,0.01,α-Cyclodextrin,24,0.048
+Waste_Water,Water,1,0.01,α-Cyclodextrin,48,0.002
+Waste_Water,Water,1,0.01,α-Cyclodextrin,144,0
+Waste_Water,Water,1,0.01,N-Acetyl-D-Glucosamine,24,0.022
+Waste_Water,Water,1,0.01,N-Acetyl-D-Glucosamine,48,0.686
+Waste_Water,Water,1,0.01,N-Acetyl-D-Glucosamine,144,0.824
+Waste_Water,Water,1,0.01,γ-Hydroxybutyric Acid,24,0.017
+Waste_Water,Water,1,0.01,γ-Hydroxybutyric Acid,48,0.737
+Waste_Water,Water,1,0.01,γ-Hydroxybutyric Acid,144,0.779
+Waste_Water,Water,1,0.01,L-Threonine,24,0.053
+Waste_Water,Water,1,0.01,L-Threonine,48,1.372
+Waste_Water,Water,1,0.01,L-Threonine,144,1.696
+Waste_Water,Water,1,0.01,Glycogen,24,0.025
+Waste_Water,Water,1,0.01,Glycogen,48,0.651
+Waste_Water,Water,1,0.01,Glycogen,144,0.757
+Waste_Water,Water,1,0.01,D-Glucosaminic Acid,24,0
+Waste_Water,Water,1,0.01,D-Glucosaminic Acid,48,0.131
+Waste_Water,Water,1,0.01,D-Glucosaminic Acid,144,0.261
+Waste_Water,Water,1,0.01,Itaconic Acid,24,0
+Waste_Water,Water,1,0.01,Itaconic Acid,48,0.247
+Waste_Water,Water,1,0.01,Itaconic Acid,144,0.345
+Waste_Water,Water,1,0.01,Glycyl-L-Glutamic Acid,24,0
+Waste_Water,Water,1,0.01,Glycyl-L-Glutamic Acid,48,0.53
+Waste_Water,Water,1,0.01,Glycyl-L-Glutamic Acid,144,1.159
+Waste_Water,Water,1,0.01,D-Cellobiose,24,0.031
+Waste_Water,Water,1,0.01,D-Cellobiose,48,0.287
+Waste_Water,Water,1,0.01,D-Cellobiose,144,0.142
+Waste_Water,Water,1,0.01,Glucose-1-Phosphate,24,0.026
+Waste_Water,Water,1,0.01,Glucose-1-Phosphate,48,0.379
+Waste_Water,Water,1,0.01,Glucose-1-Phosphate,144,2.07
+Waste_Water,Water,1,0.01,α-Ketobutyric Acid,24,0.002
+Waste_Water,Water,1,0.01,α-Ketobutyric Acid,48,0
+Waste_Water,Water,1,0.01,α-Ketobutyric Acid,144,0.063
+Waste_Water,Water,1,0.01,Phenylethylamine,24,0.023
+Waste_Water,Water,1,0.01,Phenylethylamine,48,0.325
+Waste_Water,Water,1,0.01,Phenylethylamine,144,0.565
+Waste_Water,Water,1,0.01,α-D-Lactose,24,0
+Waste_Water,Water,1,0.01,α-D-Lactose,48,0
+Waste_Water,Water,1,0.01,α-D-Lactose,144,0.032
+Waste_Water,Water,1,0.01,D.L -α-Glycerol Phosphate,24,0
+Waste_Water,Water,1,0.01,D.L -α-Glycerol Phosphate,48,0.315
+Waste_Water,Water,1,0.01,D.L -α-Glycerol Phosphate,144,0.407
+Waste_Water,Water,1,0.01,D-Mallic Acid,24,0
+Waste_Water,Water,1,0.01,D-Mallic Acid,48,0.01
+Waste_Water,Water,1,0.01,D-Mallic Acid,144,0.012
+Waste_Water,Water,1,0.01,Putrescine,24,0
+Waste_Water,Water,1,0.01,Putrescine,48,0.354
+Waste_Water,Water,1,0.01,Putrescine,144,1.073
+Waste_Water,Water,1,0.1,Water,24,0
+Waste_Water,Water,1,0.1,Water,48,0
+Waste_Water,Water,1,0.1,Water,144,0
+Waste_Water,Water,1,0.1,β-Methyl-D- Glucoside,24,0
+Waste_Water,Water,1,0.1,β-Methyl-D- Glucoside,48,1.072
+Waste_Water,Water,1,0.1,β-Methyl-D- Glucoside,144,1.56
+Waste_Water,Water,1,0.1,D-Galactonic Acid γ-Lactone,24,0.011
+Waste_Water,Water,1,0.1,D-Galactonic Acid γ-Lactone,48,1.926
+Waste_Water,Water,1,0.1,D-Galactonic Acid γ-Lactone,144,1.619
+Waste_Water,Water,1,0.1,L-Arginine,24,0.245
+Waste_Water,Water,1,0.1,L-Arginine,48,0.433
+Waste_Water,Water,1,0.1,L-Arginine,144,2.545
+Waste_Water,Water,1,0.1,Pyruvic Acid Methyl Ester,24,0
+Waste_Water,Water,1,0.1,Pyruvic Acid Methyl Ester,48,0.626
+Waste_Water,Water,1,0.1,Pyruvic Acid Methyl Ester,144,0.948
+Waste_Water,Water,1,0.1,D-Xylose,24,0.019
+Waste_Water,Water,1,0.1,D-Xylose,48,0
+Waste_Water,Water,1,0.1,D-Xylose,144,0
+Waste_Water,Water,1,0.1,D-Galacturonic Acid,24,0.2
+Waste_Water,Water,1,0.1,D-Galacturonic Acid,48,0.578
+Waste_Water,Water,1,0.1,D-Galacturonic Acid,144,1.807
+Waste_Water,Water,1,0.1,L-Asparganine,24,0.059
+Waste_Water,Water,1,0.1,L-Asparganine,48,1.223
+Waste_Water,Water,1,0.1,L-Asparganine,144,1.932
+Waste_Water,Water,1,0.1,Tween 40,24,0
+Waste_Water,Water,1,0.1,Tween 40,48,0
+Waste_Water,Water,1,0.1,Tween 40,144,0.045
+Waste_Water,Water,1,0.1,i-Erythitol,24,0.017
+Waste_Water,Water,1,0.1,i-Erythitol,48,0.141
+Waste_Water,Water,1,0.1,i-Erythitol,144,0.717
+Waste_Water,Water,1,0.1,2-Hydroxy Benzoic Acid,24,0.009
+Waste_Water,Water,1,0.1,2-Hydroxy Benzoic Acid,48,0
+Waste_Water,Water,1,0.1,2-Hydroxy Benzoic Acid,144,0
+Waste_Water,Water,1,0.1,L-Phenylalanine,24,0.014
+Waste_Water,Water,1,0.1,L-Phenylalanine,48,0.537
+Waste_Water,Water,1,0.1,L-Phenylalanine,144,1.62
+Waste_Water,Water,1,0.1,Tween 80,24,0.062
+Waste_Water,Water,1,0.1,Tween 80,48,0.74
+Waste_Water,Water,1,0.1,Tween 80,144,2.195
+Waste_Water,Water,1,0.1,D-Mannitol,24,0.123
+Waste_Water,Water,1,0.1,D-Mannitol,48,1.084
+Waste_Water,Water,1,0.1,D-Mannitol,144,2.316
+Waste_Water,Water,1,0.1,4-Hydroxy Benzoic Acid,24,0.008
+Waste_Water,Water,1,0.1,4-Hydroxy Benzoic Acid,48,0.402
+Waste_Water,Water,1,0.1,4-Hydroxy Benzoic Acid,144,1.665
+Waste_Water,Water,1,0.1,L-Serine,24,0.014
+Waste_Water,Water,1,0.1,L-Serine,48,1.269
+Waste_Water,Water,1,0.1,L-Serine,144,2.008
+Waste_Water,Water,1,0.1,α-Cyclodextrin,24,0.029
+Waste_Water,Water,1,0.1,α-Cyclodextrin,48,0.13
+Waste_Water,Water,1,0.1,α-Cyclodextrin,144,0.345
+Waste_Water,Water,1,0.1,N-Acetyl-D-Glucosamine,24,0.019
+Waste_Water,Water,1,0.1,N-Acetyl-D-Glucosamine,48,1.181
+Waste_Water,Water,1,0.1,N-Acetyl-D-Glucosamine,144,2.377
+Waste_Water,Water,1,0.1,γ-Hydroxybutyric Acid,24,0.066
+Waste_Water,Water,1,0.1,γ-Hydroxybutyric Acid,48,0.43
+Waste_Water,Water,1,0.1,γ-Hydroxybutyric Acid,144,0.618
+Waste_Water,Water,1,0.1,L-Threonine,24,0.058
+Waste_Water,Water,1,0.1,L-Threonine,48,0.596
+Waste_Water,Water,1,0.1,L-Threonine,144,1.071
+Waste_Water,Water,1,0.1,Glycogen,24,0.885
+Waste_Water,Water,1,0.1,Glycogen,48,1.489
+Waste_Water,Water,1,0.1,Glycogen,144,1.667
+Waste_Water,Water,1,0.1,D-Glucosaminic Acid,24,0.009
+Waste_Water,Water,1,0.1,D-Glucosaminic Acid,48,0.008
+Waste_Water,Water,1,0.1,D-Glucosaminic Acid,144,0.15
+Waste_Water,Water,1,0.1,Itaconic Acid,24,0.037
+Waste_Water,Water,1,0.1,Itaconic Acid,48,0.182
+Waste_Water,Water,1,0.1,Itaconic Acid,144,0.308
+Waste_Water,Water,1,0.1,Glycyl-L-Glutamic Acid,24,0.014
+Waste_Water,Water,1,0.1,Glycyl-L-Glutamic Acid,48,0.224
+Waste_Water,Water,1,0.1,Glycyl-L-Glutamic Acid,144,0.724
+Waste_Water,Water,1,0.1,D-Cellobiose,24,0.177
+Waste_Water,Water,1,0.1,D-Cellobiose,48,1.074
+Waste_Water,Water,1,0.1,D-Cellobiose,144,1.139
+Waste_Water,Water,1,0.1,Glucose-1-Phosphate,24,0.033
+Waste_Water,Water,1,0.1,Glucose-1-Phosphate,48,0.493
+Waste_Water,Water,1,0.1,Glucose-1-Phosphate,144,1.193
+Waste_Water,Water,1,0.1,α-Ketobutyric Acid,24,0.025
+Waste_Water,Water,1,0.1,α-Ketobutyric Acid,48,0
+Waste_Water,Water,1,0.1,α-Ketobutyric Acid,144,0.063
+Waste_Water,Water,1,0.1,Phenylethylamine,24,0.04
+Waste_Water,Water,1,0.1,Phenylethylamine,48,0.239
+Waste_Water,Water,1,0.1,Phenylethylamine,144,1.421
+Waste_Water,Water,1,0.1,α-D-Lactose,24,0.01
+Waste_Water,Water,1,0.1,α-D-Lactose,48,0
+Waste_Water,Water,1,0.1,α-D-Lactose,144,0.911
+Waste_Water,Water,1,0.1,D.L -α-Glycerol Phosphate,24,0
+Waste_Water,Water,1,0.1,D.L -α-Glycerol Phosphate,48,0.246
+Waste_Water,Water,1,0.1,D.L -α-Glycerol Phosphate,144,0.3
+Waste_Water,Water,1,0.1,D-Mallic Acid,24,0.041
+Waste_Water,Water,1,0.1,D-Mallic Acid,48,1.01
+Waste_Water,Water,1,0.1,D-Mallic Acid,144,0.646
+Waste_Water,Water,1,0.1,Putrescine,24,0.012
+Waste_Water,Water,1,0.1,Putrescine,48,0.488
+Waste_Water,Water,1,0.1,Putrescine,144,0.466
+Waste_Water,Water,2,0.001,Water,24,0
+Waste_Water,Water,2,0.001,Water,48,0
+Waste_Water,Water,2,0.001,Water,144,0
+Waste_Water,Water,2,0.001,β-Methyl-D- Glucoside,24,0
+Waste_Water,Water,2,0.001,β-Methyl-D- Glucoside,48,0.01
+Waste_Water,Water,2,0.001,β-Methyl-D- Glucoside,144,0
+Waste_Water,Water,2,0.001,D-Galactonic Acid γ-Lactone,24,0
+Waste_Water,Water,2,0.001,D-Galactonic Acid γ-Lactone,48,0.379
+Waste_Water,Water,2,0.001,D-Galactonic Acid γ-Lactone,144,0
+Waste_Water,Water,2,0.001,L-Arginine,24,0.396
+Waste_Water,Water,2,0.001,L-Arginine,48,0
+Waste_Water,Water,2,0.001,L-Arginine,144,0
+Waste_Water,Water,2,0.001,Pyruvic Acid Methyl Ester,24,0
+Waste_Water,Water,2,0.001,Pyruvic Acid Methyl Ester,48,0.538
+Waste_Water,Water,2,0.001,Pyruvic Acid Methyl Ester,144,0.594
+Waste_Water,Water,2,0.001,D-Xylose,24,0.017
+Waste_Water,Water,2,0.001,D-Xylose,48,0.262
+Waste_Water,Water,2,0.001,D-Xylose,144,0.209
+Waste_Water,Water,2,0.001,D-Galacturonic Acid,24,0
+Waste_Water,Water,2,0.001,D-Galacturonic Acid,48,0.57
+Waste_Water,Water,2,0.001,D-Galacturonic Acid,144,0.109
+Waste_Water,Water,2,0.001,L-Asparganine,24,0
+Waste_Water,Water,2,0.001,L-Asparganine,48,0
+Waste_Water,Water,2,0.001,L-Asparganine,144,0
+Waste_Water,Water,2,0.001,Tween 40,24,0.002
+Waste_Water,Water,2,0.001,Tween 40,48,0.236
+Waste_Water,Water,2,0.001,Tween 40,144,0
+Waste_Water,Water,2,0.001,i-Erythitol,24,0
+Waste_Water,Water,2,0.001,i-Erythitol,48,0.259
+Waste_Water,Water,2,0.001,i-Erythitol,144,0.709
+Waste_Water,Water,2,0.001,2-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,2,0.001,2-Hydroxy Benzoic Acid,48,0.182
+Waste_Water,Water,2,0.001,2-Hydroxy Benzoic Acid,144,0.104
+Waste_Water,Water,2,0.001,L-Phenylalanine,24,0
+Waste_Water,Water,2,0.001,L-Phenylalanine,48,0
+Waste_Water,Water,2,0.001,L-Phenylalanine,144,0
+Waste_Water,Water,2,0.001,Tween 80,24,0
+Waste_Water,Water,2,0.001,Tween 80,48,0.263
+Waste_Water,Water,2,0.001,Tween 80,144,1.843
+Waste_Water,Water,2,0.001,D-Mannitol,24,0
+Waste_Water,Water,2,0.001,D-Mannitol,48,0.654
+Waste_Water,Water,2,0.001,D-Mannitol,144,2.792
+Waste_Water,Water,2,0.001,4-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,2,0.001,4-Hydroxy Benzoic Acid,48,0.075
+Waste_Water,Water,2,0.001,4-Hydroxy Benzoic Acid,144,0.027
+Waste_Water,Water,2,0.001,L-Serine,24,0
+Waste_Water,Water,2,0.001,L-Serine,48,0
+Waste_Water,Water,2,0.001,L-Serine,144,0
+Waste_Water,Water,2,0.001,α-Cyclodextrin,24,0.008
+Waste_Water,Water,2,0.001,α-Cyclodextrin,48,0.534
+Waste_Water,Water,2,0.001,α-Cyclodextrin,144,1.579
+Waste_Water,Water,2,0.001,N-Acetyl-D-Glucosamine,24,0.008
+Waste_Water,Water,2,0.001,N-Acetyl-D-Glucosamine,48,0.606
+Waste_Water,Water,2,0.001,N-Acetyl-D-Glucosamine,144,2.08
+Waste_Water,Water,2,0.001,γ-Hydroxybutyric Acid,24,0
+Waste_Water,Water,2,0.001,γ-Hydroxybutyric Acid,48,0.051
+Waste_Water,Water,2,0.001,γ-Hydroxybutyric Acid,144,0.034
+Waste_Water,Water,2,0.001,L-Threonine,24,0
+Waste_Water,Water,2,0.001,L-Threonine,48,0.004
+Waste_Water,Water,2,0.001,L-Threonine,144,0
+Waste_Water,Water,2,0.001,Glycogen,24,0
+Waste_Water,Water,2,0.001,Glycogen,48,0.093
+Waste_Water,Water,2,0.001,Glycogen,144,1.551
+Waste_Water,Water,2,0.001,D-Glucosaminic Acid,24,0
+Waste_Water,Water,2,0.001,D-Glucosaminic Acid,48,0.098
+Waste_Water,Water,2,0.001,D-Glucosaminic Acid,144,1.812
+Waste_Water,Water,2,0.001,Itaconic Acid,24,0
+Waste_Water,Water,2,0.001,Itaconic Acid,48,0.555
+Waste_Water,Water,2,0.001,Itaconic Acid,144,0
+Waste_Water,Water,2,0.001,Glycyl-L-Glutamic Acid,24,0
+Waste_Water,Water,2,0.001,Glycyl-L-Glutamic Acid,48,0.003
+Waste_Water,Water,2,0.001,Glycyl-L-Glutamic Acid,144,0
+Waste_Water,Water,2,0.001,D-Cellobiose,24,0
+Waste_Water,Water,2,0.001,D-Cellobiose,48,0.259
+Waste_Water,Water,2,0.001,D-Cellobiose,144,3.092
+Waste_Water,Water,2,0.001,Glucose-1-Phosphate,24,0
+Waste_Water,Water,2,0.001,Glucose-1-Phosphate,48,0.058
+Waste_Water,Water,2,0.001,Glucose-1-Phosphate,144,0.009
+Waste_Water,Water,2,0.001,α-Ketobutyric Acid,24,0
+Waste_Water,Water,2,0.001,α-Ketobutyric Acid,48,0
+Waste_Water,Water,2,0.001,α-Ketobutyric Acid,144,0.001
+Waste_Water,Water,2,0.001,Phenylethylamine,24,0.315
+Waste_Water,Water,2,0.001,Phenylethylamine,48,0
+Waste_Water,Water,2,0.001,Phenylethylamine,144,0
+Waste_Water,Water,2,0.001,α-D-Lactose,24,0
+Waste_Water,Water,2,0.001,α-D-Lactose,48,0
+Waste_Water,Water,2,0.001,α-D-Lactose,144,0.006
+Waste_Water,Water,2,0.001,D.L -α-Glycerol Phosphate,24,0
+Waste_Water,Water,2,0.001,D.L -α-Glycerol Phosphate,48,0
+Waste_Water,Water,2,0.001,D.L -α-Glycerol Phosphate,144,0
+Waste_Water,Water,2,0.001,D-Mallic Acid,24,0.057
+Waste_Water,Water,2,0.001,D-Mallic Acid,48,0
+Waste_Water,Water,2,0.001,D-Mallic Acid,144,0
+Waste_Water,Water,2,0.001,Putrescine,24,0
+Waste_Water,Water,2,0.001,Putrescine,48,0
+Waste_Water,Water,2,0.001,Putrescine,144,0
+Waste_Water,Water,2,0.01,Water,24,0
+Waste_Water,Water,2,0.01,Water,48,0
+Waste_Water,Water,2,0.01,Water,144,0
+Waste_Water,Water,2,0.01,β-Methyl-D- Glucoside,24,0
+Waste_Water,Water,2,0.01,β-Methyl-D- Glucoside,48,0.005
+Waste_Water,Water,2,0.01,β-Methyl-D- Glucoside,144,0
+Waste_Water,Water,2,0.01,D-Galactonic Acid γ-Lactone,24,0
+Waste_Water,Water,2,0.01,D-Galactonic Acid γ-Lactone,48,0
+Waste_Water,Water,2,0.01,D-Galactonic Acid γ-Lactone,144,0
+Waste_Water,Water,2,0.01,L-Arginine,24,0.016
+Waste_Water,Water,2,0.01,L-Arginine,48,0.413
+Waste_Water,Water,2,0.01,L-Arginine,144,0.797
+Waste_Water,Water,2,0.01,Pyruvic Acid Methyl Ester,24,0.032
+Waste_Water,Water,2,0.01,Pyruvic Acid Methyl Ester,48,0.547
+Waste_Water,Water,2,0.01,Pyruvic Acid Methyl Ester,144,1.853
+Waste_Water,Water,2,0.01,D-Xylose,24,0.029
+Waste_Water,Water,2,0.01,D-Xylose,48,0.263
+Waste_Water,Water,2,0.01,D-Xylose,144,0.195
+Waste_Water,Water,2,0.01,D-Galacturonic Acid,24,0.004
+Waste_Water,Water,2,0.01,D-Galacturonic Acid,48,0.249
+Waste_Water,Water,2,0.01,D-Galacturonic Acid,144,0.105
+Waste_Water,Water,2,0.01,L-Asparganine,24,0.005
+Waste_Water,Water,2,0.01,L-Asparganine,48,0.927
+Waste_Water,Water,2,0.01,L-Asparganine,144,2.385
+Waste_Water,Water,2,0.01,Tween 40,24,0.011
+Waste_Water,Water,2,0.01,Tween 40,48,0.224
+Waste_Water,Water,2,0.01,Tween 40,144,0.26
+Waste_Water,Water,2,0.01,i-Erythitol,24,0
+Waste_Water,Water,2,0.01,i-Erythitol,48,0.241
+Waste_Water,Water,2,0.01,i-Erythitol,144,0.198
+Waste_Water,Water,2,0.01,2-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,2,0.01,2-Hydroxy Benzoic Acid,48,0.215
+Waste_Water,Water,2,0.01,2-Hydroxy Benzoic Acid,144,0.176
+Waste_Water,Water,2,0.01,L-Phenylalanine,24,0.003
+Waste_Water,Water,2,0.01,L-Phenylalanine,48,0.355
+Waste_Water,Water,2,0.01,L-Phenylalanine,144,1.027
+Waste_Water,Water,2,0.01,Tween 80,24,0.028
+Waste_Water,Water,2,0.01,Tween 80,48,0.578
+Waste_Water,Water,2,0.01,Tween 80,144,0.713
+Waste_Water,Water,2,0.01,D-Mannitol,24,0.032
+Waste_Water,Water,2,0.01,D-Mannitol,48,0.418
+Waste_Water,Water,2,0.01,D-Mannitol,144,0.512
+Waste_Water,Water,2,0.01,4-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,2,0.01,4-Hydroxy Benzoic Acid,48,0.253
+Waste_Water,Water,2,0.01,4-Hydroxy Benzoic Acid,144,0.043
+Waste_Water,Water,2,0.01,L-Serine,24,0
+Waste_Water,Water,2,0.01,L-Serine,48,0.296
+Waste_Water,Water,2,0.01,L-Serine,144,1.572
+Waste_Water,Water,2,0.01,α-Cyclodextrin,24,0.048
+Waste_Water,Water,2,0.01,α-Cyclodextrin,48,0.263
+Waste_Water,Water,2,0.01,α-Cyclodextrin,144,0
+Waste_Water,Water,2,0.01,N-Acetyl-D-Glucosamine,24,0.022
+Waste_Water,Water,2,0.01,N-Acetyl-D-Glucosamine,48,1.193
+Waste_Water,Water,2,0.01,N-Acetyl-D-Glucosamine,144,1.405
+Waste_Water,Water,2,0.01,γ-Hydroxybutyric Acid,24,0.017
+Waste_Water,Water,2,0.01,γ-Hydroxybutyric Acid,48,1.12
+Waste_Water,Water,2,0.01,γ-Hydroxybutyric Acid,144,1.098
+Waste_Water,Water,2,0.01,L-Threonine,24,0.053
+Waste_Water,Water,2,0.01,L-Threonine,48,0.32
+Waste_Water,Water,2,0.01,L-Threonine,144,1.174
+Waste_Water,Water,2,0.01,Glycogen,24,0.025
+Waste_Water,Water,2,0.01,Glycogen,48,0.31
+Waste_Water,Water,2,0.01,Glycogen,144,0.191
+Waste_Water,Water,2,0.01,D-Glucosaminic Acid,24,0
+Waste_Water,Water,2,0.01,D-Glucosaminic Acid,48,0.257
+Waste_Water,Water,2,0.01,D-Glucosaminic Acid,144,0.058
+Waste_Water,Water,2,0.01,Itaconic Acid,24,0
+Waste_Water,Water,2,0.01,Itaconic Acid,48,0.269
+Waste_Water,Water,2,0.01,Itaconic Acid,144,0.271
+Waste_Water,Water,2,0.01,Glycyl-L-Glutamic Acid,24,0
+Waste_Water,Water,2,0.01,Glycyl-L-Glutamic Acid,48,0.345
+Waste_Water,Water,2,0.01,Glycyl-L-Glutamic Acid,144,0.415
+Waste_Water,Water,2,0.01,D-Cellobiose,24,0.031
+Waste_Water,Water,2,0.01,D-Cellobiose,48,1.015
+Waste_Water,Water,2,0.01,D-Cellobiose,144,1.211
+Waste_Water,Water,2,0.01,Glucose-1-Phosphate,24,0.026
+Waste_Water,Water,2,0.01,Glucose-1-Phosphate,48,0.541
+Waste_Water,Water,2,0.01,Glucose-1-Phosphate,144,1.188
+Waste_Water,Water,2,0.01,α-Ketobutyric Acid,24,0.002
+Waste_Water,Water,2,0.01,α-Ketobutyric Acid,48,0.106
+Waste_Water,Water,2,0.01,α-Ketobutyric Acid,144,0.189
+Waste_Water,Water,2,0.01,Phenylethylamine,24,0.023
+Waste_Water,Water,2,0.01,Phenylethylamine,48,0.19
+Waste_Water,Water,2,0.01,Phenylethylamine,144,0.716
+Waste_Water,Water,2,0.01,α-D-Lactose,24,0
+Waste_Water,Water,2,0.01,α-D-Lactose,48,0.348
+Waste_Water,Water,2,0.01,α-D-Lactose,144,1.474
+Waste_Water,Water,2,0.01,D.L -α-Glycerol Phosphate,24,0
+Waste_Water,Water,2,0.01,D.L -α-Glycerol Phosphate,48,0.294
+Waste_Water,Water,2,0.01,D.L -α-Glycerol Phosphate,144,0.493
+Waste_Water,Water,2,0.01,D-Mallic Acid,24,0
+Waste_Water,Water,2,0.01,D-Mallic Acid,48,0
+Waste_Water,Water,2,0.01,D-Mallic Acid,144,0.26
+Waste_Water,Water,2,0.01,Putrescine,24,0
+Waste_Water,Water,2,0.01,Putrescine,48,0.011
+Waste_Water,Water,2,0.01,Putrescine,144,0.187
+Waste_Water,Water,2,0.1,Water,24,0
+Waste_Water,Water,2,0.1,Water,48,0
+Waste_Water,Water,2,0.1,Water,144,0
+Waste_Water,Water,2,0.1,β-Methyl-D- Glucoside,24,0
+Waste_Water,Water,2,0.1,β-Methyl-D- Glucoside,48,1.241
+Waste_Water,Water,2,0.1,β-Methyl-D- Glucoside,144,1.859
+Waste_Water,Water,2,0.1,D-Galactonic Acid γ-Lactone,24,0.011
+Waste_Water,Water,2,0.1,D-Galactonic Acid γ-Lactone,48,0
+Waste_Water,Water,2,0.1,D-Galactonic Acid γ-Lactone,144,0
+Waste_Water,Water,2,0.1,L-Arginine,24,0.245
+Waste_Water,Water,2,0.1,L-Arginine,48,0.19
+Waste_Water,Water,2,0.1,L-Arginine,144,0.635
+Waste_Water,Water,2,0.1,Pyruvic Acid Methyl Ester,24,0
+Waste_Water,Water,2,0.1,Pyruvic Acid Methyl Ester,48,0.097
+Waste_Water,Water,2,0.1,Pyruvic Acid Methyl Ester,144,0.221
+Waste_Water,Water,2,0.1,D-Xylose,24,0.019
+Waste_Water,Water,2,0.1,D-Xylose,48,0
+Waste_Water,Water,2,0.1,D-Xylose,144,0
+Waste_Water,Water,2,0.1,D-Galacturonic Acid,24,0.2
+Waste_Water,Water,2,0.1,D-Galacturonic Acid,48,0.374
+Waste_Water,Water,2,0.1,D-Galacturonic Acid,144,1.911
+Waste_Water,Water,2,0.1,L-Asparganine,24,0.059
+Waste_Water,Water,2,0.1,L-Asparganine,48,1.178
+Waste_Water,Water,2,0.1,L-Asparganine,144,1.389
+Waste_Water,Water,2,0.1,Tween 40,24,0
+Waste_Water,Water,2,0.1,Tween 40,48,0
+Waste_Water,Water,2,0.1,Tween 40,144,0.563
+Waste_Water,Water,2,0.1,i-Erythitol,24,0.017
+Waste_Water,Water,2,0.1,i-Erythitol,48,0
+Waste_Water,Water,2,0.1,i-Erythitol,144,0.495
+Waste_Water,Water,2,0.1,2-Hydroxy Benzoic Acid,24,0.009
+Waste_Water,Water,2,0.1,2-Hydroxy Benzoic Acid,48,0
+Waste_Water,Water,2,0.1,2-Hydroxy Benzoic Acid,144,0
+Waste_Water,Water,2,0.1,L-Phenylalanine,24,0.014
+Waste_Water,Water,2,0.1,L-Phenylalanine,48,0.06
+Waste_Water,Water,2,0.1,L-Phenylalanine,144,1.271
+Waste_Water,Water,2,0.1,Tween 80,24,0.062
+Waste_Water,Water,2,0.1,Tween 80,48,0.701
+Waste_Water,Water,2,0.1,Tween 80,144,1.935
+Waste_Water,Water,2,0.1,D-Mannitol,24,0.123
+Waste_Water,Water,2,0.1,D-Mannitol,48,0.395
+Waste_Water,Water,2,0.1,D-Mannitol,144,1.244
+Waste_Water,Water,2,0.1,4-Hydroxy Benzoic Acid,24,0.008
+Waste_Water,Water,2,0.1,4-Hydroxy Benzoic Acid,48,0.205
+Waste_Water,Water,2,0.1,4-Hydroxy Benzoic Acid,144,0.819
+Waste_Water,Water,2,0.1,L-Serine,24,0.014
+Waste_Water,Water,2,0.1,L-Serine,48,1.012
+Waste_Water,Water,2,0.1,L-Serine,144,1.31
+Waste_Water,Water,2,0.1,α-Cyclodextrin,24,0.029
+Waste_Water,Water,2,0.1,α-Cyclodextrin,48,0
+Waste_Water,Water,2,0.1,α-Cyclodextrin,144,0
+Waste_Water,Water,2,0.1,N-Acetyl-D-Glucosamine,24,0.019
+Waste_Water,Water,2,0.1,N-Acetyl-D-Glucosamine,48,0.848
+Waste_Water,Water,2,0.1,N-Acetyl-D-Glucosamine,144,1.679
+Waste_Water,Water,2,0.1,γ-Hydroxybutyric Acid,24,0.066
+Waste_Water,Water,2,0.1,γ-Hydroxybutyric Acid,48,0.106
+Waste_Water,Water,2,0.1,γ-Hydroxybutyric Acid,144,0.122
+Waste_Water,Water,2,0.1,L-Threonine,24,0.058
+Waste_Water,Water,2,0.1,L-Threonine,48,0.099
+Waste_Water,Water,2,0.1,L-Threonine,144,0.594
+Waste_Water,Water,2,0.1,Glycogen,24,0.885
+Waste_Water,Water,2,0.1,Glycogen,48,1.579
+Waste_Water,Water,2,0.1,Glycogen,144,1.682
+Waste_Water,Water,2,0.1,D-Glucosaminic Acid,24,0.009
+Waste_Water,Water,2,0.1,D-Glucosaminic Acid,48,0
+Waste_Water,Water,2,0.1,D-Glucosaminic Acid,144,0.177
+Waste_Water,Water,2,0.1,Itaconic Acid,24,0.037
+Waste_Water,Water,2,0.1,Itaconic Acid,48,0
+Waste_Water,Water,2,0.1,Itaconic Acid,144,0
+Waste_Water,Water,2,0.1,Glycyl-L-Glutamic Acid,24,0.014
+Waste_Water,Water,2,0.1,Glycyl-L-Glutamic Acid,48,0.159
+Waste_Water,Water,2,0.1,Glycyl-L-Glutamic Acid,144,1.311
+Waste_Water,Water,2,0.1,D-Cellobiose,24,0.177
+Waste_Water,Water,2,0.1,D-Cellobiose,48,1.1
+Waste_Water,Water,2,0.1,D-Cellobiose,144,1.316
+Waste_Water,Water,2,0.1,Glucose-1-Phosphate,24,0.033
+Waste_Water,Water,2,0.1,Glucose-1-Phosphate,48,0
+Waste_Water,Water,2,0.1,Glucose-1-Phosphate,144,0.073
+Waste_Water,Water,2,0.1,α-Ketobutyric Acid,24,0.025
+Waste_Water,Water,2,0.1,α-Ketobutyric Acid,48,0
+Waste_Water,Water,2,0.1,α-Ketobutyric Acid,144,0
+Waste_Water,Water,2,0.1,Phenylethylamine,24,0.04
+Waste_Water,Water,2,0.1,Phenylethylamine,48,0.752
+Waste_Water,Water,2,0.1,Phenylethylamine,144,0.628
+Waste_Water,Water,2,0.1,α-D-Lactose,24,0.01
+Waste_Water,Water,2,0.1,α-D-Lactose,48,0.412
+Waste_Water,Water,2,0.1,α-D-Lactose,144,1.542
+Waste_Water,Water,2,0.1,D.L -α-Glycerol Phosphate,24,0
+Waste_Water,Water,2,0.1,D.L -α-Glycerol Phosphate,48,0
+Waste_Water,Water,2,0.1,D.L -α-Glycerol Phosphate,144,0.144
+Waste_Water,Water,2,0.1,D-Mallic Acid,24,0.041
+Waste_Water,Water,2,0.1,D-Mallic Acid,48,0
+Waste_Water,Water,2,0.1,D-Mallic Acid,144,0
+Waste_Water,Water,2,0.1,Putrescine,24,0.012
+Waste_Water,Water,2,0.1,Putrescine,48,0
+Waste_Water,Water,2,0.1,Putrescine,144,2.056
+Waste_Water,Water,3,0.001,Water,24,0
+Waste_Water,Water,3,0.001,Water,48,0
+Waste_Water,Water,3,0.001,Water,144,0
+Waste_Water,Water,3,0.001,β-Methyl-D- Glucoside,24,0
+Waste_Water,Water,3,0.001,β-Methyl-D- Glucoside,48,0.001
+Waste_Water,Water,3,0.001,β-Methyl-D- Glucoside,144,0
+Waste_Water,Water,3,0.001,D-Galactonic Acid γ-Lactone,24,0
+Waste_Water,Water,3,0.001,D-Galactonic Acid γ-Lactone,48,0
+Waste_Water,Water,3,0.001,D-Galactonic Acid γ-Lactone,144,0
+Waste_Water,Water,3,0.001,L-Arginine,24,0
+Waste_Water,Water,3,0.001,L-Arginine,48,0
+Waste_Water,Water,3,0.001,L-Arginine,144,0
+Waste_Water,Water,3,0.001,Pyruvic Acid Methyl Ester,24,0.042
+Waste_Water,Water,3,0.001,Pyruvic Acid Methyl Ester,48,0.151
+Waste_Water,Water,3,0.001,Pyruvic Acid Methyl Ester,144,0.002
+Waste_Water,Water,3,0.001,D-Xylose,24,0.012
+Waste_Water,Water,3,0.001,D-Xylose,48,0.148
+Waste_Water,Water,3,0.001,D-Xylose,144,0.009
+Waste_Water,Water,3,0.001,D-Galacturonic Acid,24,0
+Waste_Water,Water,3,0.001,D-Galacturonic Acid,48,0
+Waste_Water,Water,3,0.001,D-Galacturonic Acid,144,0.007
+Waste_Water,Water,3,0.001,L-Asparganine,24,0
+Waste_Water,Water,3,0.001,L-Asparganine,48,0
+Waste_Water,Water,3,0.001,L-Asparganine,144,0
+Waste_Water,Water,3,0.001,Tween 40,24,0.439
+Waste_Water,Water,3,0.001,Tween 40,48,0.718
+Waste_Water,Water,3,0.001,Tween 40,144,1.405
+Waste_Water,Water,3,0.001,i-Erythitol,24,0.069
+Waste_Water,Water,3,0.001,i-Erythitol,48,0.264
+Waste_Water,Water,3,0.001,i-Erythitol,144,0.01
+Waste_Water,Water,3,0.001,2-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,3,0.001,2-Hydroxy Benzoic Acid,48,0.026
+Waste_Water,Water,3,0.001,2-Hydroxy Benzoic Acid,144,0.014
+Waste_Water,Water,3,0.001,L-Phenylalanine,24,0
+Waste_Water,Water,3,0.001,L-Phenylalanine,48,0
+Waste_Water,Water,3,0.001,L-Phenylalanine,144,0
+Waste_Water,Water,3,0.001,Tween 80,24,0.046
+Waste_Water,Water,3,0.001,Tween 80,48,0.285
+Waste_Water,Water,3,0.001,Tween 80,144,0.044
+Waste_Water,Water,3,0.001,D-Mannitol,24,0
+Waste_Water,Water,3,0.001,D-Mannitol,48,0.615
+Waste_Water,Water,3,0.001,D-Mannitol,144,0.906
+Waste_Water,Water,3,0.001,4-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,3,0.001,4-Hydroxy Benzoic Acid,48,0.002
+Waste_Water,Water,3,0.001,4-Hydroxy Benzoic Acid,144,0.011
+Waste_Water,Water,3,0.001,L-Serine,24,0.002
+Waste_Water,Water,3,0.001,L-Serine,48,0
+Waste_Water,Water,3,0.001,L-Serine,144,0
+Waste_Water,Water,3,0.001,α-Cyclodextrin,24,0.367
+Waste_Water,Water,3,0.001,α-Cyclodextrin,48,0.349
+Waste_Water,Water,3,0.001,α-Cyclodextrin,144,0.308
+Waste_Water,Water,3,0.001,N-Acetyl-D-Glucosamine,24,0.088
+Waste_Water,Water,3,0.001,N-Acetyl-D-Glucosamine,48,0.316
+Waste_Water,Water,3,0.001,N-Acetyl-D-Glucosamine,144,0.05
+Waste_Water,Water,3,0.001,γ-Hydroxybutyric Acid,24,0.068
+Waste_Water,Water,3,0.001,γ-Hydroxybutyric Acid,48,0.132
+Waste_Water,Water,3,0.001,γ-Hydroxybutyric Acid,144,0.158
+Waste_Water,Water,3,0.001,L-Threonine,24,0.028
+Waste_Water,Water,3,0.001,L-Threonine,48,0.03
+Waste_Water,Water,3,0.001,L-Threonine,144,0.023
+Waste_Water,Water,3,0.001,Glycogen,24,0.016
+Waste_Water,Water,3,0.001,Glycogen,48,0.249
+Waste_Water,Water,3,0.001,Glycogen,144,0.013
+Waste_Water,Water,3,0.001,D-Glucosaminic Acid,24,0.002
+Waste_Water,Water,3,0.001,D-Glucosaminic Acid,48,0.255
+Waste_Water,Water,3,0.001,D-Glucosaminic Acid,144,0.005
+Waste_Water,Water,3,0.001,Itaconic Acid,24,0.004
+Waste_Water,Water,3,0.001,Itaconic Acid,48,0.005
+Waste_Water,Water,3,0.001,Itaconic Acid,144,0.01
+Waste_Water,Water,3,0.001,Glycyl-L-Glutamic Acid,24,0.001
+Waste_Water,Water,3,0.001,Glycyl-L-Glutamic Acid,48,0
+Waste_Water,Water,3,0.001,Glycyl-L-Glutamic Acid,144,0
+Waste_Water,Water,3,0.001,D-Cellobiose,24,0
+Waste_Water,Water,3,0.001,D-Cellobiose,48,0.119
+Waste_Water,Water,3,0.001,D-Cellobiose,144,0.003
+Waste_Water,Water,3,0.001,Glucose-1-Phosphate,24,0.002
+Waste_Water,Water,3,0.001,Glucose-1-Phosphate,48,0.003
+Waste_Water,Water,3,0.001,Glucose-1-Phosphate,144,0.012
+Waste_Water,Water,3,0.001,α-Ketobutyric Acid,24,0
+Waste_Water,Water,3,0.001,α-Ketobutyric Acid,48,0.001
+Waste_Water,Water,3,0.001,α-Ketobutyric Acid,144,0.007
+Waste_Water,Water,3,0.001,Phenylethylamine,24,0.315
+Waste_Water,Water,3,0.001,Phenylethylamine,48,0.358
+Waste_Water,Water,3,0.001,Phenylethylamine,144,0
+Waste_Water,Water,3,0.001,α-D-Lactose,24,0.002
+Waste_Water,Water,3,0.001,α-D-Lactose,48,0.003
+Waste_Water,Water,3,0.001,α-D-Lactose,144,0
+Waste_Water,Water,3,0.001,D.L -α-Glycerol Phosphate,24,0.004
+Waste_Water,Water,3,0.001,D.L -α-Glycerol Phosphate,48,0.006
+Waste_Water,Water,3,0.001,D.L -α-Glycerol Phosphate,144,0
+Waste_Water,Water,3,0.001,D-Mallic Acid,24,0.013
+Waste_Water,Water,3,0.001,D-Mallic Acid,48,0.03
+Waste_Water,Water,3,0.001,D-Mallic Acid,144,0.02
+Waste_Water,Water,3,0.001,Putrescine,24,0.015
+Waste_Water,Water,3,0.001,Putrescine,48,0.018
+Waste_Water,Water,3,0.001,Putrescine,144,0.026
+Waste_Water,Water,3,0.01,Water,24,0
+Waste_Water,Water,3,0.01,Water,48,0
+Waste_Water,Water,3,0.01,Water,144,0
+Waste_Water,Water,3,0.01,β-Methyl-D- Glucoside,24,0.667
+Waste_Water,Water,3,0.01,β-Methyl-D- Glucoside,48,0.773
+Waste_Water,Water,3,0.01,β-Methyl-D- Glucoside,144,0.943
+Waste_Water,Water,3,0.01,D-Galactonic Acid γ-Lactone,24,0.001
+Waste_Water,Water,3,0.01,D-Galactonic Acid γ-Lactone,48,0.003
+Waste_Water,Water,3,0.01,D-Galactonic Acid γ-Lactone,144,0.012
+Waste_Water,Water,3,0.01,L-Arginine,24,0.002
+Waste_Water,Water,3,0.01,L-Arginine,48,0.002
+Waste_Water,Water,3,0.01,L-Arginine,144,0.02
+Waste_Water,Water,3,0.01,Pyruvic Acid Methyl Ester,24,0.123
+Waste_Water,Water,3,0.01,Pyruvic Acid Methyl Ester,48,0.783
+Waste_Water,Water,3,0.01,Pyruvic Acid Methyl Ester,144,2.33
+Waste_Water,Water,3,0.01,D-Xylose,24,0.011
+Waste_Water,Water,3,0.01,D-Xylose,48,0.233
+Waste_Water,Water,3,0.01,D-Xylose,144,0.029
+Waste_Water,Water,3,0.01,D-Galacturonic Acid,24,0.199
+Waste_Water,Water,3,0.01,D-Galacturonic Acid,48,0.528
+Waste_Water,Water,3,0.01,D-Galacturonic Acid,144,0.488
+Waste_Water,Water,3,0.01,L-Asparganine,24,0.001
+Waste_Water,Water,3,0.01,L-Asparganine,48,0.201
+Waste_Water,Water,3,0.01,L-Asparganine,144,0.154
+Waste_Water,Water,3,0.01,Tween 40,24,0.024
+Waste_Water,Water,3,0.01,Tween 40,48,0.256
+Waste_Water,Water,3,0.01,Tween 40,144,1.427
+Waste_Water,Water,3,0.01,i-Erythitol,24,0.026
+Waste_Water,Water,3,0.01,i-Erythitol,48,0.304
+Waste_Water,Water,3,0.01,i-Erythitol,144,0.502
+Waste_Water,Water,3,0.01,2-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,3,0.01,2-Hydroxy Benzoic Acid,48,0
+Waste_Water,Water,3,0.01,2-Hydroxy Benzoic Acid,144,0.199
+Waste_Water,Water,3,0.01,L-Phenylalanine,24,0.038
+Waste_Water,Water,3,0.01,L-Phenylalanine,48,0.341
+Waste_Water,Water,3,0.01,L-Phenylalanine,144,0.165
+Waste_Water,Water,3,0.01,Tween 80,24,0.111
+Waste_Water,Water,3,0.01,Tween 80,48,0.339
+Waste_Water,Water,3,0.01,Tween 80,144,0.765
+Waste_Water,Water,3,0.01,D-Mannitol,24,0.103
+Waste_Water,Water,3,0.01,D-Mannitol,48,0.409
+Waste_Water,Water,3,0.01,D-Mannitol,144,0.332
+Waste_Water,Water,3,0.01,4-Hydroxy Benzoic Acid,24,1.38777878078145e-17
+Waste_Water,Water,3,0.01,4-Hydroxy Benzoic Acid,48,0.254
+Waste_Water,Water,3,0.01,4-Hydroxy Benzoic Acid,144,0.026
+Waste_Water,Water,3,0.01,L-Serine,24,0.02
+Waste_Water,Water,3,0.01,L-Serine,48,0.372
+Waste_Water,Water,3,0.01,L-Serine,144,1.742
+Waste_Water,Water,3,0.01,α-Cyclodextrin,24,0.025
+Waste_Water,Water,3,0.01,α-Cyclodextrin,48,0.242
+Waste_Water,Water,3,0.01,α-Cyclodextrin,144,0.049
+Waste_Water,Water,3,0.01,N-Acetyl-D-Glucosamine,24,0.136
+Waste_Water,Water,3,0.01,N-Acetyl-D-Glucosamine,48,0.602
+Waste_Water,Water,3,0.01,N-Acetyl-D-Glucosamine,144,1.596
+Waste_Water,Water,3,0.01,γ-Hydroxybutyric Acid,24,0.037
+Waste_Water,Water,3,0.01,γ-Hydroxybutyric Acid,48,0.354
+Waste_Water,Water,3,0.01,γ-Hydroxybutyric Acid,144,0.132
+Waste_Water,Water,3,0.01,L-Threonine,24,0.036
+Waste_Water,Water,3,0.01,L-Threonine,48,0.288
+Waste_Water,Water,3,0.01,L-Threonine,144,0.061
+Waste_Water,Water,3,0.01,Glycogen,24,0.014
+Waste_Water,Water,3,0.01,Glycogen,48,0.255
+Waste_Water,Water,3,0.01,Glycogen,144,0.032
+Waste_Water,Water,3,0.01,D-Glucosaminic Acid,24,0.019
+Waste_Water,Water,3,0.01,D-Glucosaminic Acid,48,0.324
+Waste_Water,Water,3,0.01,D-Glucosaminic Acid,144,0.3
+Waste_Water,Water,3,0.01,Itaconic Acid,24,0.026
+Waste_Water,Water,3,0.01,Itaconic Acid,48,0.257
+Waste_Water,Water,3,0.01,Itaconic Acid,144,0.041
+Waste_Water,Water,3,0.01,Glycyl-L-Glutamic Acid,24,0.051
+Waste_Water,Water,3,0.01,Glycyl-L-Glutamic Acid,48,0.321
+Waste_Water,Water,3,0.01,Glycyl-L-Glutamic Acid,144,0.183
+Waste_Water,Water,3,0.01,D-Cellobiose,24,0.026
+Waste_Water,Water,3,0.01,D-Cellobiose,48,0.141
+Waste_Water,Water,3,0.01,D-Cellobiose,144,0.09
+Waste_Water,Water,3,0.01,Glucose-1-Phosphate,24,0.005
+Waste_Water,Water,3,0.01,Glucose-1-Phosphate,48,0.03
+Waste_Water,Water,3,0.01,Glucose-1-Phosphate,144,0.027
+Waste_Water,Water,3,0.01,α-Ketobutyric Acid,24,0
+Waste_Water,Water,3,0.01,α-Ketobutyric Acid,48,0.076
+Waste_Water,Water,3,0.01,α-Ketobutyric Acid,144,0.026
+Waste_Water,Water,3,0.01,Phenylethylamine,24,0.373
+Waste_Water,Water,3,0.01,Phenylethylamine,48,0.11
+Waste_Water,Water,3,0.01,Phenylethylamine,144,0.563
+Waste_Water,Water,3,0.01,α-D-Lactose,24,0.013
+Waste_Water,Water,3,0.01,α-D-Lactose,48,0.037
+Waste_Water,Water,3,0.01,α-D-Lactose,144,2.64
+Waste_Water,Water,3,0.01,D.L -α-Glycerol Phosphate,24,0.32
+Waste_Water,Water,3,0.01,D.L -α-Glycerol Phosphate,48,0.428
+Waste_Water,Water,3,0.01,D.L -α-Glycerol Phosphate,144,0.578
+Waste_Water,Water,3,0.01,D-Mallic Acid,24,0.009
+Waste_Water,Water,3,0.01,D-Mallic Acid,48,0.268
+Waste_Water,Water,3,0.01,D-Mallic Acid,144,1.471
+Waste_Water,Water,3,0.01,Putrescine,24,0.003
+Waste_Water,Water,3,0.01,Putrescine,48,0.015
+Waste_Water,Water,3,0.01,Putrescine,144,0.026
+Waste_Water,Water,3,0.1,Water,24,0
+Waste_Water,Water,3,0.1,Water,48,0
+Waste_Water,Water,3,0.1,Water,144,0
+Waste_Water,Water,3,0.1,β-Methyl-D- Glucoside,24,0.084
+Waste_Water,Water,3,0.1,β-Methyl-D- Glucoside,48,0.687
+Waste_Water,Water,3,0.1,β-Methyl-D- Glucoside,144,0.636
+Waste_Water,Water,3,0.1,D-Galactonic Acid γ-Lactone,24,0.056
+Waste_Water,Water,3,0.1,D-Galactonic Acid γ-Lactone,48,1.041
+Waste_Water,Water,3,0.1,D-Galactonic Acid γ-Lactone,144,0.75
+Waste_Water,Water,3,0.1,L-Arginine,24,0.226
+Waste_Water,Water,3,0.1,L-Arginine,48,0.748
+Waste_Water,Water,3,0.1,L-Arginine,144,0.931
+Waste_Water,Water,3,0.1,Pyruvic Acid Methyl Ester,24,0.178
+Waste_Water,Water,3,0.1,Pyruvic Acid Methyl Ester,48,0.443
+Waste_Water,Water,3,0.1,Pyruvic Acid Methyl Ester,144,0.672
+Waste_Water,Water,3,0.1,D-Xylose,24,0
+Waste_Water,Water,3,0.1,D-Xylose,48,0
+Waste_Water,Water,3,0.1,D-Xylose,144,0
+Waste_Water,Water,3,0.1,D-Galacturonic Acid,24,0.219
+Waste_Water,Water,3,0.1,D-Galacturonic Acid,48,1.678
+Waste_Water,Water,3,0.1,D-Galacturonic Acid,144,2.117
+Waste_Water,Water,3,0.1,L-Asparganine,24,0.294
+Waste_Water,Water,3,0.1,L-Asparganine,48,1.074
+Waste_Water,Water,3,0.1,L-Asparganine,144,1.635
+Waste_Water,Water,3,0.1,Tween 40,24,0
+Waste_Water,Water,3,0.1,Tween 40,48,0.011
+Waste_Water,Water,3,0.1,Tween 40,144,0.061
+Waste_Water,Water,3,0.1,i-Erythitol,24,0.089
+Waste_Water,Water,3,0.1,i-Erythitol,48,0.445
+Waste_Water,Water,3,0.1,i-Erythitol,144,1.028
+Waste_Water,Water,3,0.1,2-Hydroxy Benzoic Acid,24,0
+Waste_Water,Water,3,0.1,2-Hydroxy Benzoic Acid,48,0.113
+Waste_Water,Water,3,0.1,2-Hydroxy Benzoic Acid,144,0
+Waste_Water,Water,3,0.1,L-Phenylalanine,24,0.084
+Waste_Water,Water,3,0.1,L-Phenylalanine,48,0.385
+Waste_Water,Water,3,0.1,L-Phenylalanine,144,0.5
+Waste_Water,Water,3,0.1,Tween 80,24,0.226
+Waste_Water,Water,3,0.1,Tween 80,48,0.772
+Waste_Water,Water,3,0.1,Tween 80,144,2.606
+Waste_Water,Water,3,0.1,D-Mannitol,24,0.277
+Waste_Water,Water,3,0.1,D-Mannitol,48,0.863
+Waste_Water,Water,3,0.1,D-Mannitol,144,2.591
+Waste_Water,Water,3,0.1,4-Hydroxy Benzoic Acid,24,0.14
+Waste_Water,Water,3,0.1,4-Hydroxy Benzoic Acid,48,0.513
+Waste_Water,Water,3,0.1,4-Hydroxy Benzoic Acid,144,0.526
+Waste_Water,Water,3,0.1,L-Serine,24,0.112
+Waste_Water,Water,3,0.1,L-Serine,48,0.558
+Waste_Water,Water,3,0.1,L-Serine,144,0.684
+Waste_Water,Water,3,0.1,α-Cyclodextrin,24,0.009
+Waste_Water,Water,3,0.1,α-Cyclodextrin,48,0.064
+Waste_Water,Water,3,0.1,α-Cyclodextrin,144,0.089
+Waste_Water,Water,3,0.1,N-Acetyl-D-Glucosamine,24,0.461
+Waste_Water,Water,3,0.1,N-Acetyl-D-Glucosamine,48,1.489
+Waste_Water,Water,3,0.1,N-Acetyl-D-Glucosamine,144,1.997
+Waste_Water,Water,3,0.1,γ-Hydroxybutyric Acid,24,0.253
+Waste_Water,Water,3,0.1,γ-Hydroxybutyric Acid,48,0.614
+Waste_Water,Water,3,0.1,γ-Hydroxybutyric Acid,144,0.396
+Waste_Water,Water,3,0.1,L-Threonine,24,0.008
+Waste_Water,Water,3,0.1,L-Threonine,48,0.304
+Waste_Water,Water,3,0.1,L-Threonine,144,0.608
+Waste_Water,Water,3,0.1,Glycogen,24,0.388
+Waste_Water,Water,3,0.1,Glycogen,48,0.89
+Waste_Water,Water,3,0.1,Glycogen,144,1.376
+Waste_Water,Water,3,0.1,D-Glucosaminic Acid,24,0.019
+Waste_Water,Water,3,0.1,D-Glucosaminic Acid,48,0.09
+Waste_Water,Water,3,0.1,D-Glucosaminic Acid,144,0.188
+Waste_Water,Water,3,0.1,Itaconic Acid,24,0.092
+Waste_Water,Water,3,0.1,Itaconic Acid,48,0.28
+Waste_Water,Water,3,0.1,Itaconic Acid,144,0.734
+Waste_Water,Water,3,0.1,Glycyl-L-Glutamic Acid,24,0.036
+Waste_Water,Water,3,0.1,Glycyl-L-Glutamic Acid,48,0.338
+Waste_Water,Water,3,0.1,Glycyl-L-Glutamic Acid,144,0.853
+Waste_Water,Water,3,0.1,D-Cellobiose,24,0.714
+Waste_Water,Water,3,0.1,D-Cellobiose,48,1.204
+Waste_Water,Water,3,0.1,D-Cellobiose,144,1.817
+Waste_Water,Water,3,0.1,Glucose-1-Phosphate,24,0.011
+Waste_Water,Water,3,0.1,Glucose-1-Phosphate,48,0.574
+Waste_Water,Water,3,0.1,Glucose-1-Phosphate,144,1.075
+Waste_Water,Water,3,0.1,α-Ketobutyric Acid,24,0
+Waste_Water,Water,3,0.1,α-Ketobutyric Acid,48,0
+Waste_Water,Water,3,0.1,α-Ketobutyric Acid,144,0
+Waste_Water,Water,3,0.1,Phenylethylamine,24,0.328
+Waste_Water,Water,3,0.1,Phenylethylamine,48,0.078
+Waste_Water,Water,3,0.1,Phenylethylamine,144,0.167
+Waste_Water,Water,3,0.1,α-D-Lactose,24,0.032
+Waste_Water,Water,3,0.1,α-D-Lactose,48,0.994
+Waste_Water,Water,3,0.1,α-D-Lactose,144,1.154
+Waste_Water,Water,3,0.1,D.L -α-Glycerol Phosphate,24,0.11
+Waste_Water,Water,3,0.1,D.L -α-Glycerol Phosphate,48,0.196
+Waste_Water,Water,3,0.1,D.L -α-Glycerol Phosphate,144,0.464
+Waste_Water,Water,3,0.1,D-Mallic Acid,24,0.014
+Waste_Water,Water,3,0.1,D-Mallic Acid,48,0.007
+Waste_Water,Water,3,0.1,D-Mallic Acid,144,0.322
+Waste_Water,Water,3,0.1,Putrescine,24,0.045
+Waste_Water,Water,3,0.1,Putrescine,48,0.327
+Waste_Water,Water,3,0.1,Putrescine,144,1.158

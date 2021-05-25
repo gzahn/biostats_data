@@ -1,0 +1,113 @@
+SampleID,Date,Island,Lat,Lon,Exposure,Host_Species,Colony_Color
+CHPd26,2015-03-19T06:00:00Z,Three Brothers,-6.15556,71.51945,leeward,P. acuta,Healthy
+CHPd32,2015-03-19T06:00:00Z,Three Brothers,-6.15556,71.51945,leeward,P. acuta,Healthy
+CHPd33,2015-03-19T06:00:00Z,Three Brothers,-6.15556,71.51945,leeward,P. acuta,Healthy
+CHPd34,2015-03-21T06:00:00Z,South Brother,-6.16828,71.54042,leeward,P. acuta,Healthy
+CHPd37,2015-03-21T06:00:00Z,Three Brothers,-6.02659,71.61644,lagoonal,P. acuta,Pale
+CHPd38,2015-03-21T06:00:00Z,Three Brothers,-6.02659,71.61644,lagoonal,P. acuta,Healthy
+CHPd41,2015-03-21T06:00:00Z,Three Brothers,-6.02659,71.61644,lagoonal,P. acuta,Healthy
+CHPd42,2015-03-21T06:00:00Z,Three Brothers,-6.02659,71.61644,lagoonal,P. acuta,Bleached
+CHPd43,2015-03-21T06:00:00Z,Three Brothers,-6.02659,71.61644,lagoonal,P. acuta,Healthy
+CHPd45,2015-03-24T06:00:00Z,Three Brothers,-6.02659,71.61644,leeward,P. acuta,Healthy
+CHPd47,2015-03-26T06:00:00Z,South Brother,-6.16601,71.52676,windward,P. acuta,Healthy
+CHPd50,2015-03-27T06:00:00Z,Middle Brother,-6.15979,71.5271,leeward,P. acuta,Healthy
+CHPd51,2015-03-27T06:00:00Z,Middle Brother,-6.16313,71.52572,leeward,P. acuta,Healthy
+CHPd52,2015-03-27T06:00:00Z,Middle Brother,-6.16313,71.52572,leeward,P. acuta,Healthy
+CHPd53,2015-03-27T06:00:00Z,Middle Brother,-6.16313,71.52572,leeward,P. acuta,Healthy
+CHPd56,2015-03-28T06:00:00Z,Middle Brother,-6.16175,71.5264,leeward,P. acuta,Healthy
+CHPd57,2015-03-28T06:00:00Z,Middle Brother,-6.1479,71.52411,leeward,P. acuta,Healthy
+CHPd58,2015-03-28T06:00:00Z,Middle Brother,-6.1479,71.52411,leeward,P. acuta,Healthy
+CHPd61,2015-03-28T06:00:00Z,Middle Brother,-6.1479,71.52411,leeward,P. acuta,Healthy
+CHPd62,2015-04-14T06:00:00Z,Peros Banhos,-5.42721,71.77779,leeward,P. acuta,Healthy
+CHPd63,2015-04-14T06:00:00Z,Peros Banhos,-5.42721,71.77779,leeward,P. acuta,Healthy
+CHPd64,2015-04-14T06:00:00Z,Peros Banhos,-5.42721,71.77779,leeward,P. acuta,Healthy
+CHPd65,2015-04-14T06:00:00Z,Peros Banhos,-5.42721,71.77779,leeward,P. acuta,Bleached
+CHPd66,2015-04-14T06:00:00Z,Peros Banhos,-5.42721,71.77779,leeward,P. acuta,Healthy
+CHPd68,2015-04-14T06:00:00Z,Peros Banhos,-5.42721,71.77779,leeward,P. acuta,Very pale
+CHPd71,2015-04-15T06:00:00Z,Peros Banhos,-5.41518,71.77499,leeward,P. acuta,Healthy
+CHPd72,2015-04-15T06:00:00Z,Peros Banhos,-5.41518,71.77499,leeward,P. acuta,Healthy
+CHPd73,2015-04-15T06:00:00Z,Peros Banhos,-5.41518,71.77499,leeward,P. acuta,Healthy
+CHPd75,2015-04-15T06:00:00Z,Peros Banhos,-5.41077,71.80349,leeward,P. acuta,Healthy
+CHPd76,2015-04-15T06:00:00Z,Peros Banhos,-5.41077,71.80349,leeward,P. acuta,Bleached
+CHPd77,2015-04-15T06:00:00Z,Peros Banhos,-5.41077,71.80349,leeward,P. acuta,Healthy
+CHPd78,2015-04-15T06:00:00Z,Peros Banhos,-5.41077,71.80349,leeward,P. acuta,Healthy
+CHPd79,2015-04-15T06:00:00Z,Peros Banhos,-5.41077,71.80349,leeward,P. acuta,Bleached
+CHPd81,2015-04-16T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd82,2015-04-16T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd83,2015-04-16T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd84,2015-04-16T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd85,2015-04-16T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd86,2015-04-16T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd87,2015-04-16T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Pale
+CHPd88,2015-04-16T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Bleached
+CHPd89,2015-04-16T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Bleached
+CHPd91,2015-04-16T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd92,2015-04-17T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd93,2015-04-17T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd94,2015-04-17T06:00:00Z,Peros Banhos,-5.29642,71.76703,leeward,P. acuta,Healthy
+CHPd95,2015-04-17T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd96,2015-04-17T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd97,2015-04-18T06:00:00Z,Peros Banhos,-5.2563,71.76861,leeward,P. acuta,Healthy
+CHPd98,2015-04-17T06:00:00Z,Peros Banhos,-5.32515,71.85739,leeward,P. acuta,Healthy
+CHPd99,2015-04-17T06:00:00Z,Peros Banhos,-5.32515,71.85739,leeward,P. acuta,Bleached
+CHPd101,2015-04-17T06:00:00Z,Peros Banhos,-5.32515,71.85739,leeward,P. acuta,Healthy
+CHPd103,2015-04-18T06:00:00Z,Peros Banhos,-5.27607,71.88663,leeward,P. acuta,Healthy
+CHPd104,2015-04-18T06:00:00Z,Peros Banhos,-5.26106,71.95179,leeward,P. acuta,Healthy
+CHPd106,2015-04-23T06:00:00Z,Salomon,-5.33932,72.23605,leeward,P. acuta,Very pale
+CHPd107,2015-04-23T06:00:00Z,Salomon,-5.33932,72.23605,leeward,P. acuta,Pale
+CHPd108,2015-04-23T06:00:00Z,Salomon,-5.33932,72.23605,leeward,P. acuta,Pale
+CHPd109,2015-04-23T06:00:00Z,Salomon,-5.33932,72.23605,leeward,P. acuta,Healthy
+CHPd110,2015-04-23T06:00:00Z,Salomon,-5.33932,72.23605,leeward,P. acuta,Very pale
+CHPd111,2015-04-23T06:00:00Z,Salomon,-5.33932,72.23605,leeward,P. acuta,Pale
+CHPd113,2015-04-23T06:00:00Z,Salomon,-5.33932,72.23605,leeward,P. acuta,Pale
+CHPd114,2015-04-24T06:00:00Z,Speaker's Bank,-4.95175,72.38296,leeward,P. acuta,Pale
+CHPd115,2015-04-24T06:00:00Z,Speaker's Bank,-4.95175,72.38296,leeward,P. acuta,Bleached
+CHPd116,2015-04-24T06:00:00Z,Salomon,-5.33965,72.26332,leeward,P. acuta,Healthy
+CHPd118,2015-04-24T06:00:00Z,Salomon,-5.33965,72.26332,leeward,P. acuta,Healthy
+CHPd119,2015-04-24T06:00:00Z,Salomon,-5.33965,72.26332,leeward,P. acuta,Healthy
+CHPd120,2015-04-25T06:00:00Z,Salomon,-5.33965,72.26332,leeward,P. acuta,Healthy
+CHPd121,2015-04-24T06:00:00Z,Salomon,-5.33965,72.26332,leeward,P. acuta,Healthy
+CHPd122,2015-04-24T06:00:00Z,Salomon,-5.33965,72.26332,leeward,P. acuta,Very pale
+CHPd124,2015-04-24T06:00:00Z,Salomon,-5.33965,72.26332,leeward,P. acuta,Bleached
+CHPd125,2015-04-24T06:00:00Z,Salomon,-5.33965,72.26332,leeward,P. acuta,Bleached
+CHPd126,2015-04-24T06:00:00Z,Salomon,-5.33965,72.26332,leeward,P. acuta,Bleached
+CHPd127,2015-04-24T06:00:00Z,Salomon,-5.33965,72.26332,leeward,P. acuta,Bleached
+CHPd128,2015-04-25T06:00:00Z,Salomon,-5.35038,72.22001,leeward,P. acuta,Healthy
+CHPd130,2015-04-25T06:00:00Z,Salomon,-5.35038,72.22001,leeward,P. acuta,Healthy
+CHPd131,2015-04-25T06:00:00Z,Salomon,-5.35038,72.22001,leeward,P. acuta,Healthy
+CHPd132,2015-04-25T06:00:00Z,Salomon,-5.35038,72.22001,leeward,P. acuta,Healthy
+CHPd133,2015-04-25T06:00:00Z,Salomon,-5.35038,72.22001,leeward,P. acuta,Bleached
+CHPd136,2015-04-26T06:00:00Z,Salomon,-5.31676,72.23729,leeward,P. acuta,Very pale
+CHPd142,2015-04-29T06:00:00Z,Salomon,-5.33426,72.24311,leeward,P. damicornis,Healthy
+CHPd143,2015-04-29T06:00:00Z,Salomon,-5.33426,72.24311,leeward,P. damicornis,Pale
+CHPd144,2015-04-29T06:00:00Z,Salomon,-5.33426,72.24311,leeward,P. damicornis,Healthy
+CHPd145,2015-04-29T06:00:00Z,Salomon,-5.33426,72.24311,leeward,P. damicornis,Healthy
+CHPd150,2015-04-30T06:00:00Z,Peros Banhos,-5.31748,71.9224,leeward,P. damicornis,Very pale
+CHPd151,2015-05-01T06:00:00Z,Peros Banhos,-5.32432,71.85711,leeward,P. damicornis,Healthy
+CHPd152,2015-05-01T06:00:00Z,Peros Banhos,-5.32432,71.85711,leeward,P. damicornis,Healthy
+CHPd153,2015-05-01T06:00:00Z,Peros Banhos,-5.32432,71.85711,leeward,P. damicornis,Healthy
+CHPd155,2015-05-01T06:00:00Z,Peros Banhos,-5.32432,71.85711,leeward,P. damicornis,Healthy
+CHPd156,2015-05-01T06:00:00Z,Peros Banhos,-5.2766,71.88622,leeward,P. damicornis,Bleached
+CHPd157,2015-05-01T06:00:00Z,Peros Banhos,-5.2766,71.88622,leeward,P. damicornis,Healthy
+CHPd158,2015-05-01T06:00:00Z,Peros Banhos,-5.26043,71.95177,leeward,P. damicornis,Healthy
+CHPd159,2015-05-01T06:00:00Z,Peros Banhos,-5.26043,71.95177,leeward,P. damicornis,Healthy
+CHPd160,2015-05-01T06:00:00Z,Peros Banhos,-5.26043,71.95177,leeward,P. damicornis,Very pale
+CHPd161,2015-05-02T06:00:00Z,Peros Banhos,-5.29669,71.76605,leeward,P. damicornis,Healthy
+CHPd15,2015-03-14T06:00:00Z,Danger Islands,-6.38858,71.234867,windward,P. damicornis,Healthy
+CHPd18,2015-03-18T06:00:00Z,Redemption Rock,-6.16396,71.53207,leeward,P. acuta,Healthy
+CHPd24,2015-03-19T06:00:00Z,South Brother,-6.16935,71.54637,leeward,P. damicornis,Healthy
+CHPd31,2015-03-19T06:00:00Z,Three Brothers,-6.15556,71.51945,leeward,P. acuta,Healthy
+CHPd46,2015-03-25T06:00:00Z,Central Chagos,-6.39945,71.61726,leeward,P. damicornis,Healthy
+CHPd48,2015-03-26T06:00:00Z,South Brother,-6.17526,71.53974,windward,P. damicornis,Healthy
+CHPd74,2015-04-15T06:00:00Z,Peros Banhos,-5.41518,71.77499,leeward,P. damicornis,Healthy
+CHPd105,2015-04-18T06:00:00Z,Peros Banhos,-5.26106,71.95179,leeward,P. damicornis,Bleached
+CHPd135,2015-04-26T06:00:00Z,Salomon,-5.31676,72.23729,leeward,P. acuta,Very pale
+CHPd137,2015-04-26T06:00:00Z,Salomon,-5.31676,72.23729,leeward,P. acuta,Healthy
+CHPd138,2015-04-26T06:00:00Z,Salomon,-5.31676,72.23729,leeward,P. acuta,Bleached
+CHPd140,2015-04-26T06:00:00Z,Salomon,-5.31676,72.23729,leeward,P. damicornis,Healthy
+CHPd141,2015-04-27T06:00:00Z,Victory Bank,-5.53102,72.24508,leeward,P. damicornis,Healthy
+CHPd146,2015-04-29T06:00:00Z,Salomon,-5.33426,72.24311,leeward,P. acuta,Bleached
+CHPd147,2015-04-29T06:00:00Z,Salomon,-5.33426,72.24311,leeward,P. damicornis,Bleached
+CHPd148,2015-04-29T06:00:00Z,Salomon,-5.33426,72.24311,leeward,P. acuta,Healthy
+CHPd149,2015-04-29T06:00:00Z,Salomon,-5.33426,72.24311,leeward,P. acuta,Bleached
+CHPd165,2015-05-02T06:00:00Z,Peros Banhos,-5.29669,71.76605,leeward,P. acuta,Bleached
