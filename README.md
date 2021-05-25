@@ -35,7 +35,7 @@ Variables:
 
 Visualization:
 
-![]("https://github.com/gzahn/biostats_data/figs/mush_groth.png")
+![]("./figs/mush_groth.png")
 
 ___
 
@@ -79,7 +79,7 @@ Variables:
 
 Visualization:
 
-![]("https://github.com/gzahn/biostats_data/figs/C-utilization.png")
+![]("./figs/C-utilization.png")
 
 ___
 
