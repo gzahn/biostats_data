@@ -34,7 +34,7 @@ Variables:
 <br>
 
 
-[Visualization](https://github.com/gzahn/biostats_data/figs/mush_groth.png)
+[Visualization](https://raw.githubusercontent.com/gzahn/biostats_data/main/figs/mush_groth.png)
 
 ___
 
@@ -77,7 +77,7 @@ Variables:
 
 <br>
 
-[Visualization](https://github.com/gzahn/biostats_data/figs/C-utilization.png)
+[Visualization](https://raw.githubusercontent.com/gzahn/biostats_data/main/figs/C-utilization.png)
 
 ___
 
