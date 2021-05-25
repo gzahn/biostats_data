@@ -72,6 +72,10 @@ Variables:
 + **Absorbance**	Response - Proxy for carbon utilization (amount of UV light absorbance) - Continuous - no unit
 
 
+Visualization:
+
+[!]("./figs/C-utilization.png")
+
 ___
 
 
