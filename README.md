@@ -109,7 +109,7 @@ Variables:
 
 + **emergence** Response variable - Whether a dwarf bear poppy was observed emerging from the random sampling location - Boolean
 
-[Visualization]()
+[Visualization](https://raw.githubusercontent.com/gzahn/biostats_data/main/figs/dwarf_bear_poppy_predictions.png)
 
 
 
